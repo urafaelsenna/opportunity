@@ -1,0 +1,1007 @@
+academia_1,rede_1,cidade_1,estado_1,academia_2,rede_2,cidade_2,estado_2,distancia_km
+Flamengo,Bluefit,Rio de Janeiro,Rio de Janeiro,BARÃO DE ITAMBÍ,Selfit,Rio de Janeiro,Rio de Janeiro,0.896
+Flamengo,Bluefit,Rio de Janeiro,Rio de Janeiro,Largo do Machado,Smartfit,Rio de Janeiro,Rio de Janeiro,0.427
+Flamengo,Bluefit,Rio de Janeiro,Rio de Janeiro,Marquês de Abrantes,Smartfit,Rio de Janeiro,Rio de Janeiro,0.188
+Flamengo,Bluefit,Rio de Janeiro,Rio de Janeiro,Senador Vergueiro,Smartfit,Rio de Janeiro,Rio de Janeiro,0.212
+Saens Peña,Bluefit,Rio de Janeiro,Rio de Janeiro,CONDE DE BONFIM,Selfit,Rio de Janeiro,Rio de Janeiro,0.715
+Saens Peña,Bluefit,Rio de Janeiro,Rio de Janeiro,SHOPPING TIJUCA,BodyTech,Rio de Janeiro,Rio de Janeiro,0.408
+Saens Peña,Bluefit,Rio de Janeiro,Rio de Janeiro,Rua Conde de Bonfim II,Smartfit,Rio de Janeiro,Rio de Janeiro,0.733
+Saens Peña,Bluefit,Rio de Janeiro,Rio de Janeiro,Av. Maracanã I,Smartfit,Rio de Janeiro,Rio de Janeiro,0.479
+Saens Peña,Bluefit,Rio de Janeiro,Rio de Janeiro,Rua Conde de Bonfim I,Smartfit,Rio de Janeiro,Rio de Janeiro,0.018
+Saens Peña,Bluefit,Rio de Janeiro,Rio de Janeiro,Av. Maracanã II,Smartfit,Rio de Janeiro,Rio de Janeiro,0.92
+Nilópolis,Bluefit,Nilópolis,Rio de Janeiro,Carmela Dutra,Smartfit,Nilópolis,Rio de Janeiro,0.309
+Recreio,Bluefit,Rio de Janeiro,Rio de Janeiro,Guiomar Novaes,Smartfit,Rio de Janeiro,Rio de Janeiro,0.749
+Recreio,Bluefit,Rio de Janeiro,Rio de Janeiro,RECREIO – RIO DE JANEIRO (RJ),Skyfit,Rio de Janeiro,Rio de Janeiro,0.958
+São José dos Campos – Vale Sul,Bluefit,São José dos Campos,São Paulo,Aquarius,Smartfit,São José dos Campos,São Paulo,0.983
+São José dos Campos – Vale Sul,Bluefit,São José dos Campos,São Paulo,Satelite,Smartfit,São José dos Campos,São Paulo,0.982
+São José dos Campos – Vale Sul,Bluefit,São José dos Campos,São Paulo,SJC SATÉLITE,Panobianco,São José dos Campos,São Paulo,0.446
+São José dos Campos - Aquarius,Bluefit,São José dos Campos,São Paulo,Aquarius,Smartfit,São José dos Campos,São Paulo,0.886
+Mogi das Cruzes,Bluefit,Mogi das Cruzes,São Paulo,Av. Vereador Narciso,Smartfit,Mogi das Cruzes,São Paulo,0.436
+Savassi Mall,Bluefit,Belo Horizonte,Minas Gerais,SAVASSI,BodyTech,Belo Horizonte,Minas Gerais,0.882
+Savassi Mall,Bluefit,Belo Horizonte,Minas Gerais,Avenida Prudente de Morais,Smartfit,Belo Horizonte,Minas Gerais,0.959
+Savassi Mall,Bluefit,Belo Horizonte,Minas Gerais,Savassi,Smartfit,Belo Horizonte,Minas Gerais,0.241
+Savassi Mall,Bluefit,Belo Horizonte,Minas Gerais,Rua Rio de Janeiro,Smartfit,Belo Horizonte,Minas Gerais,0.974
+Palmares,Bluefit,Belo Horizonte,Minas Gerais,Fernão Dias,Pratique Fitness,Belo Horizonte,Minas Gerais,0.749
+Palmares,Bluefit,Belo Horizonte,Minas Gerais,Minas Shopping,Smartfit,Belo Horizonte,Minas Gerais,0.45
+Santos 3,Bluefit,Santos,São Paulo,Embaré,Smartfit,Santos,São Paulo,0.535
+Santos 1,Bluefit,Santos,São Paulo,Shopping Pátio Iporanga,Bluefit,Santos,São Paulo,0.976
+Santos 1,Bluefit,Santos,São Paulo,BOQUEIRÃO,Panobianco,Santos,São Paulo,0.46
+Santos 2,Bluefit,Santos,São Paulo,Shopping Pátio Iporanga,Bluefit,Santos,São Paulo,0.51
+Santos 2,Bluefit,Santos,São Paulo,Ana Costa 1,Smartfit,Santos,São Paulo,0.195
+Shopping Pátio Iporanga,Bluefit,Santos,São Paulo,Assaí Ana Costa,Smartfit,Santos,São Paulo,0.666
+Shopping Pátio Iporanga,Bluefit,Santos,São Paulo,Ana Costa 1,Smartfit,Santos,São Paulo,0.446
+Tambores,Bluefit,São Vicente,São Paulo,SÃO VICENTE EMMERICH,Panobianco,São Vicente,São Paulo,0.16
+São Vicente,Bluefit,São Vicente,São Paulo,Avenida Presidente Wilson,Smartfit,São Vicente,São Paulo,0.283
+São Vicente,Bluefit,São Vicente,São Paulo,SÃO VICENTE CENTRO,Panobianco,São Vicente,São Paulo,0.549
+Aricanduva,Bluefit,São Paulo,São Paulo,Rio das Pedras,Smartfit,São Paulo,São Paulo,0.284
+Aricanduva,Bluefit,São Paulo,São Paulo,VILA ANTONIETA,Panobianco,São Paulo,São Paulo,0.553
+Vila Galvão,Bluefit,Guarulhos,São Paulo,SANTA MENA,Panobianco,Guarulhos,São Paulo,0.772
+Praia Grande,Bluefit,Praia Grande,São Paulo,Canto do Forte,Bluefit,Praia Grande,São Paulo,0.715
+Praia Grande,Bluefit,Praia Grande,São Paulo,Pres. Costa e Silva,Smartfit,Praia Grande,São Paulo,0.277
+Praia Grande,Bluefit,Praia Grande,São Paulo,CANTO DO FORTE – PRAIA GRANDE (SP),Skyfit,Praia Grande,São Paulo,0.447
+Praia Grande,Bluefit,Praia Grande,São Paulo,PARIS,Panobianco,Praia Grande,São Paulo,0.534
+Canto do Forte,Bluefit,Praia Grande,São Paulo,Litoral Plaza,Smartfit,Praia Grande,São Paulo,0.938
+Canto do Forte,Bluefit,Praia Grande,São Paulo,Pres. Costa e Silva,Smartfit,Praia Grande,São Paulo,0.507
+Canto do Forte,Bluefit,Praia Grande,São Paulo,CANTO DO FORTE – PRAIA GRANDE (SP),Skyfit,Praia Grande,São Paulo,0.281
+Canto do Forte,Bluefit,Praia Grande,São Paulo,PARIS,Panobianco,Praia Grande,São Paulo,0.185
+Anália Franco,Bluefit,São Paulo,São Paulo,Bom Parto,Smartfit,São Paulo,São Paulo,0.877
+Anália Franco,Bluefit,São Paulo,São Paulo,Tatuapé,Smartfit,São Paulo,São Paulo,0.662
+Fernando Prestes,Bluefit,Santo André,São Paulo,CAMPESTRE,Panobianco,Santo André,São Paulo,0.9
+São Caetano,Bluefit,Santo André,São Paulo,UTINGA (SP),Skyfit,Santo André,São Paulo,0.933
+São Caetano,Bluefit,Santo André,São Paulo,BARCELONA,Panobianco,São Caetano do Sul,São Paulo,0.414
+Atlântica,Bluefit,Santo André,São Paulo,Príncipe de Gales,Smartfit,Santo André,São Paulo,0.771
+Marechal,Bluefit,São Bernardo do Campo,São Paulo,Av. Prestes Maia,Smartfit,São Bernardo do Campo,São Paulo,0.401
+Marechal,Bluefit,São Bernardo do Campo,São Paulo,Rua João Pessoa,Smartfit,São Bernardo do Campo,São Paulo,0.709
+Tremembé,Bluefit,São Paulo,São Paulo,TREMEMBÉ,Panobianco,São Paulo,São Paulo,0.805
+Santana,Bluefit,São Paulo,São Paulo,Água Fria,Smartfit,São Paulo,São Paulo,0.893
+Santana,Bluefit,São Paulo,São Paulo,Av. Nova Cantareira,Smartfit,São Paulo,São Paulo,0.123
+Tancredo,Bluefit,São Paulo,São Paulo,Sacomã,Smartfit,São Paulo,São Paulo,0.509
+Alfredo Pujol,Bluefit,São Paulo,São Paulo,SANTANA,Panobianco,São Paulo,São Paulo,0.353
+Centro 2,Bluefit,São Paulo,São Paulo,Shopping Light,Smartfit,São Paulo,São Paulo,0.74
+Centro 2,Bluefit,São Paulo,São Paulo,Anhangabaú,Smartfit,São Paulo,São Paulo,0.919
+Centro 2,Bluefit,São Paulo,São Paulo,Av. Ipiranga,Smartfit,São Paulo,São Paulo,0.305
+Centro 2,Bluefit,São Paulo,São Paulo,REPÚBLICA,Panobianco,São Paulo,São Paulo,0.344
+Maria Antônia,Bluefit,São Paulo,São Paulo,Centro 1,Bluefit,São Paulo,São Paulo,0.743
+Maria Antônia,Bluefit,São Paulo,São Paulo,FREI CANECA,BodyTech,São Paulo,São Paulo,0.799
+Maria Antônia,Bluefit,São Paulo,São Paulo,Baixo Augusta,Smartfit,São Paulo,São Paulo,0.948
+Maria Antônia,Bluefit,São Paulo,São Paulo,Bela Vista II,Smartfit,São Paulo,São Paulo,0.862
+Maria Antônia,Bluefit,São Paulo,São Paulo,Santa Cecília,Smartfit,São Paulo,São Paulo,0.972
+Centro 1,Bluefit,São Paulo,São Paulo,FREI CANECA,BodyTech,São Paulo,São Paulo,0.837
+Centro 1,Bluefit,São Paulo,São Paulo,Bela Vista II,Smartfit,São Paulo,São Paulo,0.78
+Centro 1,Bluefit,São Paulo,São Paulo,Shopping Light,Smartfit,São Paulo,São Paulo,0.71
+Centro 1,Bluefit,São Paulo,São Paulo,REPÚBLICA,Panobianco,São Paulo,São Paulo,0.928
+Diadema,Bluefit,Diadema,São Paulo,Shopping Praça da Moça,Smartfit,Diadema,São Paulo,0.263
+Diadema,Bluefit,Diadema,São Paulo,DIADEMA (SP),Skyfit,Diadema,São Paulo,0.399
+Perdizes,Bluefit,São Paulo,São Paulo,Higienópolis,Smartfit,São Paulo,São Paulo,0.757
+Perdizes,Bluefit,São Paulo,São Paulo,Barra Funda,Smartfit,São Paulo,São Paulo,0.614
+Frei Caneca,Bluefit,São Paulo,São Paulo,FREI CANECA,BodyTech,São Paulo,São Paulo,0.587
+Frei Caneca,Bluefit,São Paulo,São Paulo,JARDINS - CONSOLAÇÃO,BodyTech,São Paulo,São Paulo,0.974
+Frei Caneca,Bluefit,São Paulo,São Paulo,Augusta,Smartfit,São Paulo,São Paulo,0.203
+Frei Caneca,Bluefit,São Paulo,São Paulo,Avenida Angélica,Smartfit,São Paulo,São Paulo,0.658
+Frei Caneca,Bluefit,São Paulo,São Paulo,Baixo Augusta,Smartfit,São Paulo,São Paulo,0.387
+Frei Caneca,Bluefit,São Paulo,São Paulo,Alameda Santos,Smartfit,São Paulo,São Paulo,0.82
+Frei Caneca,Bluefit,São Paulo,São Paulo,Bela Vista II,Smartfit,São Paulo,São Paulo,0.621
+Saúde,Bluefit,São Paulo,São Paulo,Mirandópolis,Smartfit,São Paulo,São Paulo,0.751
+Saúde,Bluefit,São Paulo,São Paulo,SAÚDE,Panobianco,São Paulo,São Paulo,0.571
+Pinheiros,Bluefit,São Paulo,São Paulo,Teodoro Sampaio,Smartfit,São Paulo,São Paulo,0.95
+Hélio Pellegrino,Bluefit,São Paulo,São Paulo,ARAPANÉS,Selfit,São Paulo,São Paulo,0.998
+Hélio Pellegrino,Bluefit,São Paulo,São Paulo,Clodomiro Amazonas II,Smartfit,São Paulo,São Paulo,0.908
+Hélio Pellegrino,Bluefit,São Paulo,São Paulo,Canário,Smartfit,São Paulo,São Paulo,0.588
+Hélio Pellegrino,Bluefit,São Paulo,São Paulo,Bem-te-vi,Smartfit,São Paulo,São Paulo,0.907
+Vila Olímpia,Bluefit,São Paulo,São Paulo,COMPLEXO JK,BodyTech,São Paulo,São Paulo,0.917
+Vila Olímpia,Bluefit,São Paulo,São Paulo,Gomes de Carvalho,Smartfit,São Paulo,São Paulo,0.324
+Brooklin,Bluefit,São Paulo,São Paulo,MORUMBI - MARKET PLACE,BodyTech,São Paulo,São Paulo,0.504
+Leopoldina,Bluefit,São Paulo,São Paulo,Imperatriz Leopoldina,Smartfit,São Paulo,São Paulo,0.321
+Leopoldina,Bluefit,São Paulo,São Paulo,Guaipá,Smartfit,São Paulo,São Paulo,0.912
+Butantã,Bluefit,São Paulo,São Paulo,Av. Prof. Francisco Morato,Smartfit,São Paulo,São Paulo,0.142
+Butantã,Bluefit,São Paulo,São Paulo,Butantã Shopping,Smartfit,São Paulo,São Paulo,0.62
+Shopping Continental,Bluefit,São Paulo,São Paulo,Pátio Osasco,Smartfit,Osasco,São Paulo,0.733
+Osasco,Bluefit,Osasco,São Paulo,União Osasco,Smartfit,Osasco,São Paulo,0.833
+Osasco,Bluefit,Osasco,São Paulo,Primitiva,Smartfit,Osasco,São Paulo,0.755
+Osasco,Bluefit,Osasco,São Paulo,VILA YARA – OSASCO (SP),Skyfit,Osasco,São Paulo,0.517
+KM 18,Bluefit,Osasco,São Paulo,Osasco KM 18,Smartfit,Osasco,São Paulo,0.573
+KM 18,Bluefit,Osasco,São Paulo,KM18 – OSASCO (SP),Skyfit,Osasco,São Paulo,0.634
+Novo Osasco,Bluefit,Osasco,São Paulo,VELOSO,Panobianco,Osasco,São Paulo,0.769
+XV de Novembro,Bluefit,Jundiaí,São Paulo,Leroy Jundiaí,Smartfit,Jundiaí,São Paulo,0.857
+Carapicuíba,Bluefit,Carapicuíba,São Paulo,Vila Dirce,Smartfit,Carapicuíba,São Paulo,0.242
+Granja Viana,Bluefit,Cotia,São Paulo,GRANJA VIANA – CARAPICUIBA (SP),Skyfit,Carapicuíba,São Paulo,0.795
+Av. 9 de Julho,Bluefit,Jundiaí,São Paulo,Jundiaí Shopping,Smartfit,Jundiaí,São Paulo,0.551
+Cotia,Bluefit,Cotia,São Paulo,COTIA,Panobianco,Cotia,São Paulo,0.136
+Sumaré,Bluefit,Sumaré,São Paulo,JATOBÁ (SP),Skyfit,Sumaré,São Paulo,0.917
+Sumaré,Bluefit,Sumaré,São Paulo,SUMARÉ (SP),Skyfit,Sumaré,São Paulo,0.901
+Sumaré,Bluefit,Sumaré,São Paulo,SUMARÉ CENTRO,Panobianco,Sumaré,São Paulo,0.7
+Av. Moreira César,Bluefit,Sorocaba,São Paulo,SOROCABA – SHOP PANORÂMICO (SP),Skyfit,Sorocaba,São Paulo,0.535
+Campolim 1,Bluefit,Sorocaba,São Paulo,IGUATEMI ESPLANADA,BodyTech,Votorantim,São Paulo,0.486
+São Carlos,Bluefit,São Carlos,São Paulo,SÃO CARLOS (SP),Skyfit,São Carlos,São Paulo,0.33
+Apogeo,Bluefit,Ribeirão Preto,São Paulo,PRESIDENTE VARGAS,Selfit,Ribeirão Preto,São Paulo,0.738
+Apogeo,Bluefit,Ribeirão Preto,São Paulo,Trio,Smartfit,Ribeirão Preto,São Paulo,0.299
+Campos Elíseos - Pré Venda,Bluefit,Ribeirão Preto,São Paulo,RIBEIRÃO PRETO (SP),Skyfit,Ribeirão Preto,São Paulo,0.642
+Bauru,Bluefit,Bauru,São Paulo,Av. Getúlio Vargas I,Smartfit,Bauru,São Paulo,0.915
+Andaló,Bluefit,São José do Rio Preto,São Paulo,SJ RIO PRETO CENTRO,Panobianco,São José do Rio Preto,São Paulo,0.814
+Curitiba - Centro,Bluefit,Curitiba,Paraná,Batel,Bluefit,Curitiba,Paraná,0.842
+Curitiba - Centro,Bluefit,Curitiba,Paraná,SHOPPING CRYSTAL,BodyTech,Curitiba,Paraná,0.303
+Curitiba - Centro,Bluefit,Curitiba,Paraná,Shopping Curitiba,Smartfit,Curitiba,Paraná,0.37
+Batel,Bluefit,Curitiba,Paraná,SHOPPING CRYSTAL,BodyTech,Curitiba,Paraná,0.633
+Batel,Bluefit,Curitiba,Paraná,Shopping Curitiba,Smartfit,Curitiba,Paraná,0.714
+Portão,Bluefit,Curitiba,Paraná,Palladium,Bluefit,Curitiba,Paraná,0.887
+Joinville,Bluefit,Joinville,Santa Catarina,Bucarein,Smartfit,Joinville,Santa Catarina,0.968
+Marília,Bluefit,Marília,São Paulo,MARÍLIA (SP),Skyfit,Marília,São Paulo,0.019
+Gama,Bluefit,Brasília,Distrito Federal,Planaltina,Bluefit,Brasília,Distrito Federal,0.0
+Gama,Bluefit,Brasília,Distrito Federal,Sobradinho Central,Smartfit,Brasília,Distrito Federal,0.009
+Gama,Bluefit,Brasília,Distrito Federal,PLANALTINA – BRASÍLIA (DF),Skyfit,Brasília,Distrito Federal,0.009
+Formosa,Bluefit,Formosa,Goiás,FORMOSA (GO),Skyfit,Formosa,Goiás,0.15
+Lago,Bluefit,Brasília,Distrito Federal,LAGO SUL - SET. CLUBES,BodyTech,Brasília,Distrito Federal,0.0
+513 SUL,Bluefit,Brasília,Distrito Federal,ASA SUL,BodyTech,Brasília,Distrito Federal,0.627
+513 SUL,Bluefit,Brasília,Distrito Federal,Dom Bosco,Smartfit,Brasília,Federal District,0.977
+502 Sul,Bluefit,Brasília,Distrito Federal,Venâncio Shopping,Smartfit,Brasília,Distrito Federal,0.668
+Guará,Bluefit,Brasília,Distrito Federal,Guará II Unidade 2,Smartfit,Brasília,Distrito Federal,0.0
+Guará,Bluefit,Brasília,Distrito Federal,Guará II Unidade 3,Smartfit,Brasília,Distrito Federal,0.666
+Asa Norte,Bluefit,Brasília,Distrito Federal,Shopping ID,Smartfit,Brasília,Distrito Federal,0.465
+Águas Claras,Bluefit,Brasília,Distrito Federal,Águas Claras III,Bluefit,Brasília,Distrito Federal,0.592
+Águas Claras,Bluefit,Brasília,Distrito Federal,Águas Claras IV,Smartfit,Brasília,Distrito Federal,0.538
+Águas Claras,Bluefit,Brasília,Distrito Federal,DF Plaza Shopping,Smartfit,Brasília,Distrito Federal,0.876
+Planaltina,Bluefit,Brasília,Distrito Federal,Sobradinho Central,Smartfit,Brasília,Distrito Federal,0.009
+Planaltina,Bluefit,Brasília,Distrito Federal,PLANALTINA – BRASÍLIA (DF),Skyfit,Brasília,Distrito Federal,0.009
+Águas Claras II,Bluefit,Brasília,Distrito Federal,Manhattan Shopping,Smartfit,Brasília,Distrito Federal,0.994
+Águas Claras II,Bluefit,Brasília,Distrito Federal,Águas Claras VI - Rua Manacá,Smartfit,Brasília,Distrito Federal,0.562
+Águas Claras II,Bluefit,Brasília,Distrito Federal,Águas Claras I,Smartfit,Brasília,Distrito Federal,0.459
+Águas Claras II,Bluefit,Brasília,Distrito Federal,Águas Claras V,Smartfit,Brasília,Distrito Federal,0.352
+Taguatinga Sul,Bluefit,Brasília,Distrito Federal,Atacadão Taguatinga Sul,Smartfit,Brasília,Distrito Federal,0.643
+Samambaia,Bluefit,Brasília,Distrito Federal,Samambaia IV,Smartfit,Brasília,Distrito Federal,0.653
+Alto da Glória,Bluefit,Goiânia,Goiás,VILA PEDROSO (GO),Skyfit,Goiânia,Goiás,0.608
+Alto Bueno T4,Bluefit,Goiânia,Goiás,Av. 85,Bluefit,Goiânia,Goiás,0.314
+Alto Bueno T4,Bluefit,Goiânia,Goiás,Goiânia Alto Bueno,Smartfit,Goiânia,Goiás,0.0
+Alto Bueno T4,Bluefit,Goiânia,Goiás,GOIÂNIA 3 – AV T-63 (GO),Skyfit,Goiânia,Goiás,0.693
+Asa Norte 516,Bluefit,Brasília,Distrito Federal,ASA NORTE,BodyTech,Brasília,Distrito Federal,0.692
+Asa Norte 516,Bluefit,Brasília,Distrito Federal,712 Norte,Smartfit,Brasília,Distrito Federal,0.413
+Jardim Goiás,Bluefit,Goiânia,Goiás,Flamboyant,Smartfit,Goiânia,Goiás,0.785
+Taguatinga,Bluefit,Brasília,Distrito Federal,Taguatinga Norte,Smartfit,Brasília,Distrito Federal,0.822
+Taguatinga,Bluefit,Brasília,Distrito Federal,Brazlândia,Smartfit,Brasília,Distrito Federal,0.544
+Av. 85,Bluefit,Goiânia,Goiás,Goiânia Alto Bueno,Smartfit,Goiânia,Goiás,0.314
+Av. 85,Bluefit,Goiânia,Goiás,GOIÂNIA 3 – AV T-63 (GO),Skyfit,Goiânia,Goiás,0.988
+T8,Bluefit,Goiânia,Goiás,Goiânia Baixo Bueno,Smartfit,Goiânia,Goiás,0.906
+Praça do Sol,Bluefit,Goiânia,Goiás,República do Líbano,Bluefit,Goiânia,Goiás,0.771
+Praça do Sol,Bluefit,Goiânia,Goiás,MARISTA,BodyTech,Goiânia,Goiás,0.784
+Praça do Sol,Bluefit,Goiânia,Goiás,Setor Oeste,Smartfit,Goiânia,Goiás,0.708
+República do Líbano,Bluefit,Goiânia,Goiás,Setor Oeste,Smartfit,Goiânia,Goiás,0.068
+República do Líbano,Bluefit,Goiânia,Goiás,SETOR OESTE,Panobianco,Goiânia,Goiás,0.34
+Setor Coimbra,Bluefit,Goiânia,Goiás,Goiânia Baixo Bueno,Smartfit,Goiânia,Goiás,0.308
+Estação da Moda,Bluefit,Goiânia,Goiás,MEGA POLO,Panobianco,Goiânia,Goiás,0.984
+Av. Milão,Bluefit,Goiânia,Goiás,Goiânia Eldorado,Smartfit,Goiânia,Goiás,0.082
+Ceilândia,Bluefit,Brasília,Distrito Federal,Ceilândia Norte,Smartfit,Brasília,Distrito Federal,0.327
+Av. Universitária,Bluefit,Anápolis,Goiás,ANÁPOLIS (GO),Skyfit,Anápolis,Goiás,0.311
+Cidade Rio Verde,Bluefit,Rio Verde,Goiás,Havan Rio Verde,Smartfit,Rio Verde,Goiás,0.0
+Graça,Bluefit,Salvador,Bahia,BARRA (CHAME-CHAME),Selfit,Salvador,Bahia,0.851
+Caminho das Árvores,Bluefit,Salvador,Bahia,CAMINHO DAS ÁRVORES,Selfit,Salvador,Bahia,0.791
+Caminho das Árvores,Bluefit,Salvador,Bahia,ILHÉUS,Selfit,Salvador,Bahia,0.291
+Caminho das Árvores,Bluefit,Salvador,Bahia,SHOPPING DA BAHIA,BodyTech,Salvador,Bahia,0.817
+Caminho das Árvores,Bluefit,Salvador,Bahia,Salvador Shopping,Smartfit,Salvador,Bahia,0.133
+Barreiras,Bluefit,Barreiras,Bahia,BARREIRAS,Selfit,Barreiras,Bahia,0.941
+Palmas Sul,Bluefit,Palmas,Tocantins,PALMAS SUL (TO),Skyfit,Palmas,Tocantins,0.509
+Av. CPA,Bluefit,Cuiabá,Mato Grosso,PANTANAL SHOPPING,BodyTech,Cuiabá,Mato Grosso,0.483
+Santa Rosa,Bluefit,Cuiabá,Mato Grosso,ESTAÇÃO CUIABÁ,Selfit,Cuiabá,Mato Grosso,0.722
+Santa Rosa,Bluefit,Cuiabá,Mato Grosso,GOIABEIRAS SHOPPING,BodyTech,Cuiabá,Mato Grosso,0.372
+Maceió,Bluefit,Maceió,Alagoas,PONTA VERDE,Selfit,Maceió,Alagoas,0.773
+Maceió,Bluefit,Maceió,Alagoas,Ponta Verde,Smartfit,Maceió,Alagoas,0.413
+Campina Grande,Bluefit,Campina Grande,Paraíba,CAMPINA GRANDE,Selfit,Campina Grande,Paraíba,0.741
+Epitacio Pessoa,Bluefit,João Pessoa,Paraíba,TIMON,Selfit,João Pessoa,Paraíba,0.545
+Epitacio Pessoa,Bluefit,João Pessoa,Paraíba,Epitácio,Smartfit,João Pessoa,Paraíba,0.717
+Tambaú Orla,Bluefit,João Pessoa,Paraíba,Tambaú,Smartfit,João Pessoa,Paraíba,0.782
+Manaíra - Liv Mall,Bluefit,João Pessoa,Paraíba,MAG SHOPPING,Selfit,João Pessoa,Paraíba,0.516
+Manaíra - Liv Mall,Bluefit,João Pessoa,Paraíba,Manaíra Shopping,Smartfit,João Pessoa,Paraíba,0.67
+Aldeota,Bluefit,Fortaleza,Ceará,SCOPA PLATINUM,Selfit,Fortaleza,Ceará,0.666
+Aldeota,Bluefit,Fortaleza,Ceará,Rui Barbosa,Smartfit,Fortaleza,Ceará,0.969
+Aldeota,Bluefit,Fortaleza,Ceará,Vicente Linhares,Smartfit,Fortaleza,Ceará,0.465
+Aldeota,Bluefit,Fortaleza,Ceará,José Lourenço,Smartfit,Fortaleza,Ceará,0.733
+Varanda,Bluefit,Fortaleza,Ceará,ALDEOTA,Selfit,Fortaleza,Ceará,0.65
+Varanda,Bluefit,Fortaleza,Ceará,PÁTIO DOM LUÍS,Selfit,Fortaleza,Ceará,0.255
+Varanda,Bluefit,Fortaleza,Ceará,Barbosa de Freitas,Smartfit,Fortaleza,Ceará,0.631
+Varanda,Bluefit,Fortaleza,Ceará,Santos Dumont,Smartfit,Fortaleza,Ceará,0.594
+Varanda,Bluefit,Fortaleza,Ceará,Meireles,Smartfit,Fortaleza,Ceará,0.417
+Batista Campos,Bluefit,Belém,Pará,NAZARÉ,Selfit,Nazaré,Leiria District,0.981
+Batista Campos,Bluefit,Belém,Pará,Pátio Belém,Smartfit,Belém,Pará,0.28
+Doca,Bluefit,Belém,Pará,ASSIS,Selfit,Belém,Pará,0.635
+Doca,Bluefit,Belém,Pará,NAZARÉ,Selfit,Nazaré,Leiria District,0.994
+Doca,Bluefit,Belém,Pará,Boulevard,Smartfit,Belém,Pará,0.439
+Cidade Nova,Bluefit,Belo Horizonte,Minas Gerais,Nova Floresta,Pratique Fitness,Belo Horizonte,Minas Gerais,0.893
+Cidade Nova,Bluefit,Belo Horizonte,Minas Gerais,Supernosso Cidade Nova,Smartfit,Belo Horizonte,Minas Gerais,0.289
+Augusto Montenegro,Bluefit,Belém,Pará,AUGUSTO MONTENEGRO – BELÉM (PA),Skyfit,Belém,Pará,0.351
+Adrianópolis - pré venda,Bluefit,Manaus,Amazonas,GLICÉRIO,Selfit,Manaus,Amazonas,0.944
+Adrianópolis - pré venda,Bluefit,Manaus,Amazonas,VIEIRALVES,Selfit,Manaus,Amazonas,0.862
+Adrianópolis - pré venda,Bluefit,Manaus,Amazonas,Jardim Amazonas,Smartfit,Manaus,Amazonas,0.866
+Av. Darcy Vargas,Bluefit,Manaus,Amazonas,MANAUS PLAZA SHOPPING,Selfit,Manaus,Amazonas,0.484
+Av. Darcy Vargas,Bluefit,Manaus,Amazonas,Amazonas Shopping,Smartfit,Manaus,Amazonas,0.173
+Village,Bluefit,Rio Branco,Acre,Isaura Parente,Smartfit,Rio Branco,Acre,0.658
+ALDEOTA,Selfit,Fortaleza,Ceará,PÁTIO DOM LUÍS,Selfit,Fortaleza,Ceará,0.799
+ALDEOTA,Selfit,Fortaleza,Ceará,Dionísio Torres,Smartfit,Fortaleza,Ceará,0.71
+ALDEOTA,Selfit,Fortaleza,Ceará,Vicente Linhares,Smartfit,Fortaleza,Ceará,0.872
+ALDEOTA,Selfit,Fortaleza,Ceará,Barbosa de Freitas,Smartfit,Fortaleza,Ceará,0.283
+ALDEOTA,Selfit,Fortaleza,Ceará,Santos Dumont,Smartfit,Fortaleza,Ceará,0.793
+ANANINDEUA,Selfit,Ananindeua,Pará,Mario Covas,Smartfit,Belém,Pará,0.273
+ANANINDEUA,Selfit,Ananindeua,Pará,ANANINDEUA – PA,Panobianco,Ananindeua,Pará,0.746
+ANTÔNIO BASÍLIO,Selfit,Natal,Rio Grande do Norte,Lagoa Nova,Smartfit,Natal,Rio Grande do Norte,0.935
+ARAPANÉS,Selfit,São Paulo,São Paulo,Canário,Smartfit,São Paulo,São Paulo,0.432
+ARAPANÉS,Selfit,São Paulo,São Paulo,Jamaris,Smartfit,São Paulo,São Paulo,0.534
+ARAPANÉS,Selfit,São Paulo,São Paulo,Bem-te-vi,Smartfit,São Paulo,São Paulo,0.645
+ARAPANÉS,Selfit,São Paulo,São Paulo,Maracatins,Smartfit,São Paulo,São Paulo,0.799
+ARCOVERDE,Selfit,Recife,Pernambuco,CASA AMARELA,Selfit,Recife,Pernambuco,0.406
+ARCOVERDE,Selfit,Recife,Pernambuco,TAMARINEIRA,Selfit,Recife,Pernambuco,0.323
+ARCOVERDE,Selfit,Recife,Pernambuco,Torre,Smartfit,Recife,Pernambuco,0.772
+ARCOVERDE,Selfit,Recife,Pernambuco,Desembargador Góis Cavalcante,Smartfit,Recife,Pernambuco,0.446
+ARCOVERDE,Selfit,Recife,Pernambuco,Aflitos,Smartfit,Recife,Pernambuco,0.594
+ARENA DAS DUNAS,Selfit,Natal,Rio Grande do Norte,LAGOA NOVA II,Selfit,Natal,Rio Grande do Norte,0.5
+ARIRIZAL,Selfit,São Luís,Maranhão,SHOPPING DA ILHA,BodyTech,São Luís,Maranhão,0.368
+ARIRIZAL,Selfit,São Luís,Maranhão,Cohama,Smartfit,São Luís,Maranhão,0.429
+ASSIS,Selfit,Belém,Pará,NAZARÉ,Selfit,Nazaré,Leiria District,0.815
+ASSIS,Selfit,Belém,Pará,Boulevard,Smartfit,Belém,Pará,0.684
+ATRÁS DA BANCA,Selfit,Petrolina,Pernambuco,PETROLINA (PE),Skyfit,Petrolina,State of Pernambuco,0.558
+BARÃO DE ITAMBÍ,Selfit,Rio de Janeiro,Rio de Janeiro,Bambina,Smartfit,Rio de Janeiro,Rio de Janeiro,0.977
+BARÃO DE ITAMBÍ,Selfit,Rio de Janeiro,Rio de Janeiro,Marquês de Abrantes,Smartfit,Rio de Janeiro,Rio de Janeiro,0.808
+BARÃO DE ITAMBÍ,Selfit,Rio de Janeiro,Rio de Janeiro,Senador Vergueiro,Smartfit,Rio de Janeiro,Rio de Janeiro,0.796
+BARRA (CHAME-CHAME),Selfit,Salvador,Bahia,BARRA HALL (ASSOC. ATLÉTICA),Selfit,Salvador,Bahia,0.724
+BARRAMAR,Selfit,São Luís,Maranhão,GOLDEN SHOPPING,Selfit,São Luís,Maranhão,0.573
+BENFICA,Selfit,Recife,Pernambuco,MADALENA,Selfit,Recife,Pernambuco,0.155
+BENFICA,Selfit,Recife,Pernambuco,Madalena,Smartfit,Recife,Pernambuco,0.336
+BERNARDO VIEIRA DE MELO,Selfit,Jaboatão dos Guararapes,Pernambuco,PIEDADE II,Selfit,Jaboatão dos Guararapes,Pernambuco,0.616
+BERNARDO VIEIRA DE MELO,Selfit,Jaboatão dos Guararapes,Pernambuco,Shopping Guararapes,Smartfit,Jaboatão dos Guararapes,Pernambuco,0.466
+BEZERRA DE MENEZES,Selfit,Fortaleza,Ceará,North Shopping,Smartfit,Fortaleza,Ceará,0.562
+BOA VIAGEM I,Selfit,Recife,Pernambuco,Conselheiro Aguiar,Smartfit,Recife,Pernambuco,0.917
+BOA VIAGEM I,Selfit,Recife,Pernambuco,BOA VIAGEM – RECIFE (PE),Skyfit,Recife,Pernambuco,0.36
+BOA VIAGEM I,Selfit,Recife,Pernambuco,SELECT GYM BY PANOBIANCO,Panobianco,Recife,Pernambuco,0.966
+BOA VIAGEM II,Selfit,Recife,Pernambuco,SHOPPING RECIFE,BodyTech,Recife,Pernambuco,0.164
+BOA VIAGEM II,Selfit,Recife,Pernambuco,Conselheiro Aguiar,Smartfit,Recife,Pernambuco,0.518
+BOA VIAGEM II,Selfit,Recife,Pernambuco,Shopping Recife,Smartfit,Recife,Pernambuco,0.479
+BOA VIAGEM II,Selfit,Recife,Pernambuco,Mix Mateus Boa Viagem,Smartfit,Recife,Pernambuco,0.68
+BOA VIAGEM II,Selfit,Recife,Pernambuco,SELECT GYM BY PANOBIANCO,Panobianco,Recife,Pernambuco,0.384
+BOULEVARD TROPICAL,Selfit,São Luís,Maranhão,Manhattan Center III,Smartfit,São Luís,Maranhão,0.339
+BOULEVARD TROPICAL,Selfit,São Luís,Maranhão,Holandeses Barramar,Smartfit,São Luís,Maranhão,0.935
+BOULEVARD TROPICAL,Selfit,São Luís,Maranhão,CALHAU – SÃO LUÍS (MA),Skyfit,São Luís,Maranhão,0.779
+CAMARÁ SHOPPING,Selfit,Camaragibe,Pernambuco,CAMARAGIBE (PE),Skyfit,Camaragibe,Pernambuco,0.404
+CAMINHO DAS ÁRVORES,Selfit,Salvador,Bahia,ILHÉUS,Selfit,Salvador,Bahia,0.614
+CAMINHO DAS ÁRVORES,Selfit,Salvador,Bahia,SHOPPING DA BAHIA,BodyTech,Salvador,Bahia,0.689
+CAMINHO DAS ÁRVORES,Selfit,Salvador,Bahia,Salvador Shopping,Smartfit,Salvador,Bahia,0.899
+CAMPOLIM,Selfit,Sorocaba,São Paulo,Campolim,Smartfit,Sorocaba,São Paulo,0.951
+CARAPICUÍBA,Selfit,Carapicuíba,São Paulo,Centro,Smartfit,Carapicuíba,São Paulo,0.563
+CARUARU,Selfit,Caruaru,Pernambuco,Shopping Difusora,Smartfit,Caruaru,Pernambuco,0.542
+CASA AMARELA,Selfit,Recife,Pernambuco,TAMARINEIRA,Selfit,Recife,Pernambuco,0.233
+CASA AMARELA,Selfit,Recife,Pernambuco,Desembargador Góis Cavalcante,Smartfit,Recife,Pernambuco,0.466
+CASA AMARELA,Selfit,Recife,Pernambuco,Aflitos,Smartfit,Recife,Pernambuco,0.897
+CASA CAIADA,Selfit,Olinda,Pernambuco,CASA CAIADA II,Selfit,Olinda,Pernambuco,0.524
+CASA CAIADA,Selfit,Olinda,Pernambuco,Patteo Olinda Shopping,Smartfit,Olinda,Pernambuco,0.106
+CASA CAIADA,Selfit,Olinda,Pernambuco,OLINDA (PE),Skyfit,Olinda,Pernambuco,0.524
+CASA CAIADA II,Selfit,Olinda,Pernambuco,Patteo Olinda Shopping,Smartfit,Olinda,Pernambuco,0.573
+CASA CAIADA II,Selfit,Olinda,Pernambuco,OLINDA (PE),Skyfit,Olinda,Pernambuco,0.0
+CASA FORTE,Selfit,Recife,Pernambuco,Desembargador Góis Cavalcante,Smartfit,Recife,Pernambuco,0.934
+CASA FORTE,Selfit,Recife,Pernambuco,CASA FORTE – RECIFE (PE),Skyfit,Recife,Pernambuco,0.306
+CIDADE JARDIM,Selfit,Belo Horizonte,Minas Gerais,São Bento,Pratique Fitness,Belo Horizonte,Minas Gerais,0.759
+CIDADE JARDIM,Selfit,Belo Horizonte,Minas Gerais,Luxemburgo,Smartfit,Belo Horizonte,Minas Gerais,0.526
+CIDADE JARDIM,Selfit,Belo Horizonte,Minas Gerais,Avenida Prudente de Morais,Smartfit,Belo Horizonte,Minas Gerais,0.768
+COHAMA,Selfit,São Luís,Maranhão,SHOPPING DA ILHA,BodyTech,São Luís,Maranhão,0.923
+COHAMA,Selfit,São Luís,Maranhão,Atacadão São Luís,Smartfit,São Luís,Maranhão,0.541
+CONDE DE BONFIM,Selfit,Rio de Janeiro,Rio de Janeiro,SHOPPING TIJUCA,BodyTech,Rio de Janeiro,Rio de Janeiro,0.872
+CONDE DE BONFIM,Selfit,Rio de Janeiro,Rio de Janeiro,TIJUCA HADDOCK LOBO,BodyTech,Rio de Janeiro,Rio de Janeiro,0.926
+CONDE DE BONFIM,Selfit,Rio de Janeiro,Rio de Janeiro,Rua Conde de Bonfim I,Smartfit,Rio de Janeiro,Rio de Janeiro,0.732
+CONDE DE BONFIM,Selfit,Rio de Janeiro,Rio de Janeiro,Av. Maracanã II,Smartfit,Rio de Janeiro,Rio de Janeiro,0.776
+CONDE DE BONFIM,Selfit,Rio de Janeiro,Rio de Janeiro,Haddock Lobo,Smartfit,Rio de Janeiro,Rio de Janeiro,0.869
+COSTA AZUL,Selfit,Salvador,Bahia,Costa Azul,Smartfit,Salvador,Bahia,0.346
+ESTAÇÃO CUIABÁ,Selfit,Cuiabá,Mato Grosso,GOIABEIRAS SHOPPING,BodyTech,Cuiabá,Mato Grosso,0.918
+GARANHUNS,Selfit,São Paulo,State of São Paulo,Shopping Heliópolis,Smartfit,São Paulo,São Paulo,0.964
+HOMERO CASTELO BRANCO,Selfit,Teresina,Piauí,Dom Severino,Smartfit,Teresina,Piauí,0.706
+ICARAÍ,Selfit,Niterói,Rio de Janeiro,SANTA ROSA,BodyTech,Niterói,Rio de Janeiro,0.192
+ICARAÍ,Selfit,Niterói,Rio de Janeiro,João Pessoa,Smartfit,Niterói,Rio de Janeiro,0.216
+ILHÉUS,Selfit,Salvador,Bahia,SHOPPING DA BAHIA,BodyTech,Salvador,Bahia,0.888
+ILHÉUS,Selfit,Salvador,Bahia,Salvador Shopping,Smartfit,Salvador,Bahia,0.336
+JAIME BENÉVOLO,Selfit,Fortaleza,Ceará,Rua Assunção,Smartfit,Fortaleza,Ceará,0.738
+JARDINS,Selfit,Aracaju,Sergipe,Atakarejo Adélia Franco,Smartfit,Aracaju,Sergipe,0.385
+JEAN EMILE,Selfit,Recife,Pernambuco,RECIFE (PE),Skyfit,Recife,Pernambuco,0.754
+JÓQUEI,Selfit,Teresina,Piauí,RIVERSIDE,Selfit,Teresina,Piauí,0.364
+JÓQUEI,Selfit,Teresina,Piauí,Teresina Shopping,Smartfit,Teresina,Piauí,0.718
+JUAZEIRO DO NORTE,Selfit,Juazeiro do Norte,Ceará,Juazeiro do Norte,Smartfit,Juazeiro do Norte,Ceará,0.489
+LAGOA NOVA,Selfit,Natal,Rio Grande do Norte,LAGOA NOVA II,Selfit,Natal,Rio Grande do Norte,0.912
+LAGOA NOVA,Selfit,Natal,Rio Grande do Norte,Lagoa Nova,Smartfit,Natal,Rio Grande do Norte,0.503
+LAGOA NOVA,Selfit,Natal,Rio Grande do Norte,Midway,Smartfit,Natal,Rio Grande do Norte,0.471
+LAGOA NOVA II,Selfit,Natal,Rio Grande do Norte,Lagoa Nova,Smartfit,Natal,Rio Grande do Norte,0.755
+LAURO DE FREITAS,Selfit,Lauro de Freitas,Bahia,Atakarejo Lauro De Freitas,Smartfit,Lauro de Freitas,Bahia,0.263
+MADALENA,Selfit,Recife,Pernambuco,PAISSANDÚ,Selfit,Recife,Pernambuco,0.94
+MADALENA,Selfit,Recife,Pernambuco,Madalena,Smartfit,Recife,Pernambuco,0.343
+MANAUS PLAZA SHOPPING,Selfit,Manaus,Amazonas,Amazonas Shopping,Smartfit,Manaus,Amazonas,0.392
+MANGABEIRAS,Selfit,Maceió,Alagoas,Maceió Shopping,Smartfit,Maceió,Alagoas,0.582
+MARQUÊS DE PARANAGUÁ,Selfit,Teresina,Piauí,PRIMAVERA – TERESINA (PI),Skyfit,Teresina,Piauí,0.661
+MATATU,Selfit,Salvador,Bahia,Matatu,Smartfit,Salvador,Bahia,0.414
+MENDONÇA FURTADO,Selfit,Macapá,Amapá,Macapá,Smartfit,Macapá,Amapá,0.782
+MOR GOUVEIA,Selfit,Natal,Rio Grande do Norte,Esperança,Smartfit,Natal,Rio Grande do Norte,0.628
+MOSSORÓ,Selfit,Mossoró,Rio Grande do Norte,Centro Mossoró,Smartfit,Mossoró,Rio Grande do Norte,0.199
+NAZARÉ,Selfit,Nazaré,Leiria District,Pátio Belém,Smartfit,Belém,Pará,0.913
+NAZARÉ,Selfit,Nazaré,Leiria District,Boulevard,Smartfit,Belém,Pará,0.609
+NORTHWAY,Selfit,,,AURORA – PAULISTA (PE),Skyfit,Paulista,Pernambuco,0.937
+OLARIA,Selfit,Rio de Janeiro,Rio de Janeiro,Penha Circular,Smartfit,Rio de Janeiro,Rio de Janeiro,0.893
+OLARIA,Selfit,Rio de Janeiro,Rio de Janeiro,Olaria,Smartfit,Rio de Janeiro,Rio de Janeiro,0.69
+OLHO D'ÁGUA I,Selfit,São Luís,Maranhão,Rio Anil Shopping,Smartfit,São Luís,Maranhão,0.38
+PAISSANDÚ,Selfit,Recife,Pernambuco,Madalena,Smartfit,Recife,Pernambuco,0.862
+PAISSANDÚ,Selfit,Recife,Pernambuco,Boa Vista,Smartfit,Recife,Pernambuco,0.99
+PARALELA,Selfit,Salvador,Bahia,Imbuí I,Smartfit,Salvador,Bahia,0.348
+PARNAÍBA,Selfit,Parnaíba,Piauí,Parnaíba,Smartfit,Parnaíba,Piauí,0.421
+PARNAÍBA,Selfit,Parnaíba,Piauí,PARNAÍBA (PI),Skyfit,Parnaíba,Piauí,0.652
+PÁTIO DOM LUÍS,Selfit,Fortaleza,Ceará,Barbosa de Freitas,Smartfit,Fortaleza,Ceará,0.847
+PÁTIO DOM LUÍS,Selfit,Fortaleza,Ceará,Santos Dumont,Smartfit,Fortaleza,Ceará,0.424
+PÁTIO DOM LUÍS,Selfit,Fortaleza,Ceará,Papicu,Smartfit,Fortaleza,Ceará,0.949
+PÁTIO DOM LUÍS,Selfit,Fortaleza,Ceará,Meireles,Smartfit,Fortaleza,Ceará,0.496
+PÁTIO NORTE,Selfit,São José de Ribamar,Maranhão,Maiobão,Smartfit,São José de Ribamar,Maranhão,0.561
+PAULISTA CENTRO,Selfit,Rio de Janeiro,State of Rio de Janeiro,Uruguaiana,Smartfit,Rio de Janeiro,Rio de Janeiro,0.344
+PAULISTA CENTRO,Selfit,Rio de Janeiro,State of Rio de Janeiro,Metrô Carioca,Smartfit,Rio de Janeiro,Rio de Janeiro,0.631
+PAULISTA CENTRO,Selfit,Rio de Janeiro,State of Rio de Janeiro,CENTRO RIO – RIO DE JANEIRO (RJ),Skyfit,Rio de Janeiro,Rio de Janeiro,0.422
+PIEDADE,Selfit,Jaboatão dos Guararapes,Pernambuco,CANDEIAS – JABOATÃO DOS GUARARAPES (PE),Skyfit,Jaboatão dos Guararapes,Pernambuco,0.733
+PIEDADE,Selfit,Jaboatão dos Guararapes,Pernambuco,PIEDADE – JABOATÃO DOS GUARARAPES (PE),Skyfit,Jaboatão dos Guararapes,Pernambuco,0.265
+PIEDADE II,Selfit,Jaboatão dos Guararapes,Pernambuco,Jaboatão,Smartfit,Jaboatão dos Guararapes,Pernambuco,0.699
+PIEDADE II,Selfit,Jaboatão dos Guararapes,Pernambuco,Shopping Guararapes,Smartfit,Jaboatão dos Guararapes,Pernambuco,0.457
+PITUBA II,Selfit,Salvador,Bahia,Pituba,Smartfit,Salvador,Bahia,0.484
+PITUBA II,Selfit,Salvador,Bahia,PITUBA (BA),Skyfit,Salvador,Bahia,0.698
+PONTA VERDE,Selfit,Maceió,Alagoas,Ponta Verde,Smartfit,Maceió,Alagoas,0.633
+PRESIDENTE VARGAS,Selfit,Ribeirão Preto,São Paulo,Trio,Smartfit,Ribeirão Preto,São Paulo,0.448
+RIVERSIDE,Selfit,Teresina,Piauí,SHOPPING RIO POTY,BodyTech,Teresina,Piauí,0.991
+RIVERSIDE,Selfit,Teresina,Piauí,Teresina Shopping,Smartfit,Teresina,Piauí,0.753
+ROSA E SILVA,Selfit,Recife,Pernambuco,Espinheiro,Smartfit,Recife,Pernambuco,0.169
+SANTA CLARA,Selfit,São Paulo,São Paulo,Estação Oratório,Smartfit,São Paulo,São Paulo,0.882
+SCOPA PLATINUM,Selfit,Fortaleza,Ceará,José Lourenço,Smartfit,Fortaleza,Ceará,0.282
+SCOPA PLATINUM,Selfit,Fortaleza,Ceará,Iracema,Smartfit,Fortaleza,Ceará,0.964
+SHOPPING PARANGABA,Selfit,Fortaleza,Ceará,Parangaba,Smartfit,Fortaleza,Ceará,0.48
+TAMARINEIRA,Selfit,Recife,Pernambuco,Desembargador Góis Cavalcante,Smartfit,Recife,Pernambuco,0.599
+TAMARINEIRA,Selfit,Recife,Pernambuco,Aflitos,Smartfit,Recife,Pernambuco,0.684
+TORRE,Selfit,Recife,Pernambuco,Torre,Smartfit,Recife,Pernambuco,0.869
+TRINDADE,Selfit,Florianópolis,Santa Catarina,VILLA ROMANA SHOPPING,BodyTech,Florianópolis,Santa Catarina,0.72
+TRINDADE,Selfit,Florianópolis,Santa Catarina,Trindade,Pratique Fitness,Florianópolis,Santa Catarina,0.796
+VIEIRALVES,Selfit,Manaus,Amazonas,Jardim Amazonas,Smartfit,Manaus,Amazonas,0.327
+ALPHAVILLE,BodyTech,Barueri,São Paulo,Alphaville II,Smartfit,Barueri,São Paulo,0.759
+ALPHAVILLE,BodyTech,Barueri,São Paulo,Alphaville I,Smartfit,Barueri,São Paulo,0.841
+ALPHAVILLE,BodyTech,Barueri,São Paulo,ALPHAVILLE (SP),Skyfit,Barueri,São Paulo,0.72
+ASA NORTE,BodyTech,Brasília,Distrito Federal,406 Norte,Smartfit,Brasília,Distrito Federal,0.539
+ASA SUL,BodyTech,Brasília,Distrito Federal,511 Sul,Smartfit,Brasília,Distrito Federal,0.445
+ASA SUL,BodyTech,Brasília,Distrito Federal,509 Sul,Smartfit,Brasília,Distrito Federal,0.797
+ASA SUL,BodyTech,Brasília,Distrito Federal,Dom Bosco,Smartfit,Brasília,Federal District,0.661
+BARRA - PENÍNSULA O2,BodyTech,Rio de Janeiro,Rio de Janeiro,Via Parque,Smartfit,Rio de Janeiro,Rio de Janeiro,0.656
+BARRA - SHOPPING CITTÁ,BodyTech,Rio de Janeiro,Rio de Janeiro,Assaí Barra Américas,Smartfit,Rio de Janeiro,Rio de Janeiro,0.208
+BARRA - VOGUE,BodyTech,Rio de Janeiro,Rio de Janeiro,Allways Mall,Smartfit,Rio de Janeiro,Rio de Janeiro,0.949
+BARRA - ÉRICO VERÍSSIMO,BodyTech,Rio de Janeiro,Rio de Janeiro,Olegário Maciel,Smartfit,Rio de Janeiro,Rio de Janeiro,0.668
+BOTAFOGO - RIO SUL,BodyTech,Rio de Janeiro,Rio de Janeiro,Rua da Passagem,Smartfit,Rio de Janeiro,Rio de Janeiro,0.386
+BOTAFOGO - S. CLEMENTE,BodyTech,Rio de Janeiro,Rio de Janeiro,Voluntários da Pátria II,Smartfit,Rio de Janeiro,Rio de Janeiro,0.971
+BOTAFOGO - S. CLEMENTE,BodyTech,Rio de Janeiro,Rio de Janeiro,Voluntários da Pátria I,Smartfit,Rio de Janeiro,Rio de Janeiro,0.433
+BOTAFOGO - S. CLEMENTE,BodyTech,Rio de Janeiro,Rio de Janeiro,Bambina,Smartfit,Rio de Janeiro,Rio de Janeiro,0.268
+BROOKLIN GUARARAPES,BodyTech,São Paulo,São Paulo,Brooklin Paulista,Smartfit,São Paulo,São Paulo,0.401
+BROOKLIN GUARARAPES,BodyTech,São Paulo,São Paulo,Av. Santo Amaro,Smartfit,São Paulo,São Paulo,0.181
+CAMPOS,BodyTech,Campos dos Goytacazes,Rio de Janeiro,Campos dos Goytacazes,Smartfit,Campos dos Goytacazes,Rio de Janeiro,0.849
+CAMPOS,BodyTech,Campos dos Goytacazes,Rio de Janeiro,CAMPOS RJ,Panobianco,Campos dos Goytacazes,Rio de Janeiro,0.951
+CENTER SHOPPING RIO,BodyTech,Rio de Janeiro,Rio de Janeiro,Tindiba,Smartfit,Rio de Janeiro,Rio de Janeiro,0.957
+COMPLEXO JK,BodyTech,São Paulo,São Paulo,Gomes de Carvalho,Smartfit,São Paulo,São Paulo,0.598
+COPA - N.S COPACABANA 1144,BodyTech,Rio de Janeiro,Rio de Janeiro,COPA - N.S. COPACABANA 801,BodyTech,Rio de Janeiro,Rio de Janeiro,0.795
+COPA - N.S COPACABANA 1144,BodyTech,Rio de Janeiro,Rio de Janeiro,IPANEMA - G. CARNEIRO,BodyTech,Rio de Janeiro,Rio de Janeiro,0.704
+COPA - N.S COPACABANA 1144,BodyTech,Rio de Janeiro,Rio de Janeiro,Ipanema,Smartfit,Rio de Janeiro,Rio de Janeiro,0.931
+COPA - N.S COPACABANA 1144,BodyTech,Rio de Janeiro,Rio de Janeiro,Francisco Sá,Smartfit,Rio de Janeiro,Rio de Janeiro,0.36
+COPA - N.S COPACABANA 1144,BodyTech,Rio de Janeiro,Rio de Janeiro,Pompeu Loureiro,Smartfit,Rio de Janeiro,Rio de Janeiro,0.768
+COPA - N.S COPACABANA 1144,BodyTech,Rio de Janeiro,Rio de Janeiro,Nsa. Copacabana 928,Smartfit,Rio de Janeiro,Rio de Janeiro,0.534
+COPA - N.S COPACABANA 1144,BodyTech,Rio de Janeiro,Rio de Janeiro,Nsa. Copacabana 749,Smartfit,Rio de Janeiro,Rio de Janeiro,0.909
+COPA - N.S COPACABANA 446,BodyTech,Rio de Janeiro,Rio de Janeiro,COPA - N.S. COPACABANA 801,BodyTech,Rio de Janeiro,Rio de Janeiro,0.895
+COPA - N.S COPACABANA 446,BodyTech,Rio de Janeiro,Rio de Janeiro,Nsa. Copacabana 749,Smartfit,Rio de Janeiro,Rio de Janeiro,0.788
+COPA - N.S COPACABANA 446,BodyTech,Rio de Janeiro,Rio de Janeiro,Barata Ribeiro,Smartfit,Rio de Janeiro,Rio de Janeiro,0.634
+COPA - N.S COPACABANA 446,BodyTech,Rio de Janeiro,Rio de Janeiro,Nsa. Copacabana 690,Smartfit,Rio de Janeiro,Rio de Janeiro,0.6
+COPA - N.S COPACABANA 446,BodyTech,Rio de Janeiro,Rio de Janeiro,Copacabana Siqueira Campos,Smartfit,Rio de Janeiro,Rio de Janeiro,0.399
+COPA - N.S COPACABANA 446,BodyTech,Rio de Janeiro,Rio de Janeiro,Tonelero,Smartfit,Rio de Janeiro,Rio de Janeiro,0.214
+COPA - N.S COPACABANA 446,BodyTech,Rio de Janeiro,Rio de Janeiro,COPACABANA (RJ),Skyfit,Rio de Janeiro,Rio de Janeiro,0.626
+COPA - N.S. COPACABANA 801,BodyTech,Rio de Janeiro,Rio de Janeiro,Pompeu Loureiro,Smartfit,Rio de Janeiro,Rio de Janeiro,0.403
+COPA - N.S. COPACABANA 801,BodyTech,Rio de Janeiro,Rio de Janeiro,Nsa. Copacabana 928,Smartfit,Rio de Janeiro,Rio de Janeiro,0.285
+COPA - N.S. COPACABANA 801,BodyTech,Rio de Janeiro,Rio de Janeiro,Nsa. Copacabana 749,Smartfit,Rio de Janeiro,Rio de Janeiro,0.114
+COPA - N.S. COPACABANA 801,BodyTech,Rio de Janeiro,Rio de Janeiro,Barata Ribeiro,Smartfit,Rio de Janeiro,Rio de Janeiro,0.397
+COPA - N.S. COPACABANA 801,BodyTech,Rio de Janeiro,Rio de Janeiro,Nsa. Copacabana 690,Smartfit,Rio de Janeiro,Rio de Janeiro,0.317
+COPA - N.S. COPACABANA 801,BodyTech,Rio de Janeiro,Rio de Janeiro,Copacabana Siqueira Campos,Smartfit,Rio de Janeiro,Rio de Janeiro,0.771
+COPA - N.S. COPACABANA 801,BodyTech,Rio de Janeiro,Rio de Janeiro,COPACABANA (RJ),Skyfit,Rio de Janeiro,Rio de Janeiro,0.288
+FREI CANECA,BodyTech,São Paulo,São Paulo,Augusta,Smartfit,São Paulo,São Paulo,0.774
+FREI CANECA,BodyTech,São Paulo,São Paulo,Avenida Angélica,Smartfit,São Paulo,São Paulo,0.961
+FREI CANECA,BodyTech,São Paulo,São Paulo,Baixo Augusta,Smartfit,São Paulo,São Paulo,0.293
+FREI CANECA,BodyTech,São Paulo,São Paulo,Bela Vista II,Smartfit,São Paulo,São Paulo,0.133
+GOIABEIRAS SHOPPING,BodyTech,Cuiabá,Mato Grosso,Goiabeiras,Smartfit,Cuiabá,Mato Grosso,0.874
+GUARULHOS PARQUE SHOP MAIA,BodyTech,Guarulhos,São Paulo,SALGADO FILHO,Panobianco,Guarulhos,São Paulo,0.565
+GUARULHOS PARQUE SHOP MAIA,BodyTech,Guarulhos,São Paulo,SANTA MENA,Panobianco,Guarulhos,São Paulo,0.874
+GÁVEA - SHOP. DA GÁVEA,BodyTech,Rio de Janeiro,Rio de Janeiro,Bartolomeu Mitre,Smartfit,Rio de Janeiro,Rio de Janeiro,0.966
+GÁVEA - SHOP. DA GÁVEA,BodyTech,Rio de Janeiro,Rio de Janeiro,Gávea,Smartfit,Rio de Janeiro,Rio de Janeiro,0.366
+IGUATEMI - SÃO PAULO,BodyTech,São Paulo,São Paulo,PINHEIROS - ELDORADO,BodyTech,São Paulo,São Paulo,0.982
+IPANEMA - B. DA TORRE,BodyTech,Rio de Janeiro,Rio de Janeiro,IPANEMA - PÇ NS DA PAZ,BodyTech,Rio de Janeiro,Rio de Janeiro,0.525
+IPANEMA - B. DA TORRE,BodyTech,Rio de Janeiro,Rio de Janeiro,LEBLON - ATAULFO 467,BodyTech,Rio de Janeiro,Rio de Janeiro,0.968
+IPANEMA - B. DA TORRE,BodyTech,Rio de Janeiro,Rio de Janeiro,SHOPPING LEBLON,BodyTech,Rio de Janeiro,Rio de Janeiro,0.596
+IPANEMA - B. DA TORRE,BodyTech,Rio de Janeiro,Rio de Janeiro,Barão da Torre,Smartfit,Rio de Janeiro,Rio de Janeiro,0.458
+IPANEMA - G. CARNEIRO,BodyTech,Rio de Janeiro,Rio de Janeiro,Visconde de Pirajá,Smartfit,Rio de Janeiro,Rio de Janeiro,0.482
+IPANEMA - G. CARNEIRO,BodyTech,Rio de Janeiro,Rio de Janeiro,Ipanema,Smartfit,Rio de Janeiro,Rio de Janeiro,0.394
+IPANEMA - G. CARNEIRO,BodyTech,Rio de Janeiro,Rio de Janeiro,Francisco Sá,Smartfit,Rio de Janeiro,Rio de Janeiro,0.434
+IPANEMA - PÇ NS DA PAZ,BodyTech,Rio de Janeiro,Rio de Janeiro,Barão da Torre,Smartfit,Rio de Janeiro,Rio de Janeiro,0.19
+IPANEMA - PÇ NS DA PAZ,BodyTech,Rio de Janeiro,Rio de Janeiro,Visconde de Pirajá,Smartfit,Rio de Janeiro,Rio de Janeiro,0.619
+IPANEMA - PÇ NS DA PAZ,BodyTech,Rio de Janeiro,Rio de Janeiro,Ipanema,Smartfit,Rio de Janeiro,Rio de Janeiro,0.716
+ITAIM - JOÃO CACHOEIRA,BodyTech,São Paulo,São Paulo,ITAIM - LEOPOLDO,BodyTech,São Paulo,São Paulo,0.664
+ITAIM - JOÃO CACHOEIRA,BodyTech,São Paulo,São Paulo,Joaquim Floriano,Smartfit,São Paulo,São Paulo,0.514
+ITAIM - JOÃO CACHOEIRA,BodyTech,São Paulo,São Paulo,ITAIM BIBI (SP),Skyfit,São Paulo,São Paulo,0.628
+ITAIM - LEOPOLDO,BodyTech,São Paulo,São Paulo,Joaquim Floriano,Smartfit,São Paulo,São Paulo,0.176
+ITAIM - LEOPOLDO,BodyTech,São Paulo,São Paulo,Clodomiro Amazonas II,Smartfit,São Paulo,São Paulo,0.535
+ITAIM - LEOPOLDO,BodyTech,São Paulo,São Paulo,ITAIM BIBI (SP),Skyfit,São Paulo,São Paulo,0.077
+JARDINS - CONSOLAÇÃO,BodyTech,São Paulo,São Paulo,Augusta,Smartfit,São Paulo,São Paulo,0.771
+JARDINS - CONSOLAÇÃO,BodyTech,São Paulo,São Paulo,Rua da Consolação II,Smartfit,São Paulo,São Paulo,0.117
+JARDINS - CONSOLAÇÃO,BodyTech,São Paulo,São Paulo,Avenida Angélica,Smartfit,São Paulo,São Paulo,0.771
+JARDINS - CONSOLAÇÃO,BodyTech,São Paulo,São Paulo,Oscar Freire,Smartfit,São Paulo,São Paulo,0.956
+JD. BOTÂNICO - M. ANGÉLICA,BodyTech,Rio de Janeiro,Rio de Janeiro,Humaitá,Smartfit,Rio de Janeiro,Rio de Janeiro,0.663
+LAGO NORTE - IGUATEMI,BodyTech,Brasília,Distrito Federal,Península Shopping,Smartfit,Brasília,Distrito Federal,0.248
+LEBLON - ATAULFO 1100,BodyTech,Rio de Janeiro,Rio de Janeiro,LEBLON - ATAULFO 467,BodyTech,Rio de Janeiro,Rio de Janeiro,0.61
+LEBLON - ATAULFO 1100,BodyTech,Rio de Janeiro,Rio de Janeiro,LEBLON - GAL URQUIZA,BodyTech,Rio de Janeiro,Rio de Janeiro,0.25
+LEBLON - ATAULFO 1100,BodyTech,Rio de Janeiro,Rio de Janeiro,Dias Ferreira,Smartfit,Rio de Janeiro,Rio de Janeiro,0.262
+LEBLON - ATAULFO 1100,BodyTech,Rio de Janeiro,Rio de Janeiro,Bartolomeu Mitre,Smartfit,Rio de Janeiro,Rio de Janeiro,0.344
+LEBLON - ATAULFO 1100,BodyTech,Rio de Janeiro,Rio de Janeiro,Leblon,Smartfit,Rio de Janeiro,Rio de Janeiro,0.518
+LEBLON - ATAULFO 467,BodyTech,Rio de Janeiro,Rio de Janeiro,LEBLON - GAL URQUIZA,BodyTech,Rio de Janeiro,Rio de Janeiro,0.372
+LEBLON - ATAULFO 467,BodyTech,Rio de Janeiro,Rio de Janeiro,SHOPPING LEBLON,BodyTech,Rio de Janeiro,Rio de Janeiro,0.419
+LEBLON - ATAULFO 467,BodyTech,Rio de Janeiro,Rio de Janeiro,Dias Ferreira,Smartfit,Rio de Janeiro,Rio de Janeiro,0.871
+LEBLON - ATAULFO 467,BodyTech,Rio de Janeiro,Rio de Janeiro,Bartolomeu Mitre,Smartfit,Rio de Janeiro,Rio de Janeiro,0.381
+LEBLON - ATAULFO 467,BodyTech,Rio de Janeiro,Rio de Janeiro,Leblon,Smartfit,Rio de Janeiro,Rio de Janeiro,0.114
+LEBLON - GAL URQUIZA,BodyTech,Rio de Janeiro,Rio de Janeiro,SHOPPING LEBLON,BodyTech,Rio de Janeiro,Rio de Janeiro,0.765
+LEBLON - GAL URQUIZA,BodyTech,Rio de Janeiro,Rio de Janeiro,Dias Ferreira,Smartfit,Rio de Janeiro,Rio de Janeiro,0.511
+LEBLON - GAL URQUIZA,BodyTech,Rio de Janeiro,Rio de Janeiro,Bartolomeu Mitre,Smartfit,Rio de Janeiro,Rio de Janeiro,0.141
+LEBLON - GAL URQUIZA,BodyTech,Rio de Janeiro,Rio de Janeiro,Leblon,Smartfit,Rio de Janeiro,Rio de Janeiro,0.298
+MARISTA,BodyTech,Goiânia,Goiás,Setor Sul,Smartfit,Goiânia,Goiás,0.694
+MONT SERRAT,BodyTech,Porto Alegre,Rio Grande do Sul,Anita Mall,Smartfit,Porto Alegre,Rio Grande do Sul,0.16
+MORUMBI - MARKET PLACE,BodyTech,São Paulo,São Paulo,Av. Morumbi,Smartfit,São Paulo,São Paulo,0.995
+MÉIER,BodyTech,Rio de Janeiro,Rio de Janeiro,Shopping Méier,Smartfit,Rio de Janeiro,Rio de Janeiro,0.588
+MÉIER,BodyTech,Rio de Janeiro,Rio de Janeiro,Méier,Smartfit,Rio de Janeiro,Rio de Janeiro,0.796
+NATAL SHOPPING,BodyTech,Natal,Rio Grande do Norte,Candelária,Smartfit,Natal,Rio Grande do Norte,0.403
+NORTE SHOPPING,BodyTech,Rio de Janeiro,Rio de Janeiro,NorteShopping,Smartfit,Rio de Janeiro,Rio de Janeiro,0.23
+NORTE SHOPPING,BodyTech,Rio de Janeiro,Rio de Janeiro,Dom Helder,Smartfit,Rio de Janeiro,Rio de Janeiro,0.184
+RECREIO SHOPPING,BodyTech,Rio de Janeiro,Rio de Janeiro,Guiomar Novaes,Smartfit,Rio de Janeiro,Rio de Janeiro,0.636
+RECREIO SHOPPING,BodyTech,Rio de Janeiro,Rio de Janeiro,RECREIO – RIO DE JANEIRO (RJ),Skyfit,Rio de Janeiro,Rio de Janeiro,0.81
+RIO OFFICE & MALL,BodyTech,Rio de Janeiro,Rio de Janeiro,Estrada de Jacarepaguá,Smartfit,Rio de Janeiro,Rio de Janeiro,0.37
+RIO OFFICE & MALL,BodyTech,Rio de Janeiro,Rio de Janeiro,SHOPPING FREGUESIA (RJ),Skyfit,Rio de Janeiro,Rio de Janeiro,0.522
+SANTA ROSA,BodyTech,Niterói,Rio de Janeiro,João Pessoa,Smartfit,Niterói,Rio de Janeiro,0.266
+SAVASSI,BodyTech,Belo Horizonte,Minas Gerais,Savassi,Smartfit,Belo Horizonte,Minas Gerais,0.809
+SAVASSI,BodyTech,Belo Horizonte,Minas Gerais,Rua Rio de Janeiro,Smartfit,Belo Horizonte,Minas Gerais,0.783
+SAVASSI,BodyTech,Belo Horizonte,Minas Gerais,Cláudio Manoel,Smartfit,Belo Horizonte,Minas Gerais,0.953
+SHOPPING CRYSTAL,BodyTech,Curitiba,Paraná,Shopping Curitiba,Smartfit,Curitiba,Paraná,0.501
+SHOPPING DA BAHIA,BodyTech,Salvador,Bahia,Salvador Shopping,Smartfit,Salvador,Bahia,0.948
+SHOPPING DA ILHA,BodyTech,São Luís,Maranhão,Cohama,Smartfit,São Luís,Maranhão,0.104
+SHOPPING LEBLON,BodyTech,Rio de Janeiro,Rio de Janeiro,Bartolomeu Mitre,Smartfit,Rio de Janeiro,Rio de Janeiro,0.722
+SHOPPING LEBLON,BodyTech,Rio de Janeiro,Rio de Janeiro,Leblon,Smartfit,Rio de Janeiro,Rio de Janeiro,0.531
+SHOPPING NOVA IGUAÇU,BodyTech,Nova Iguaçu,Rio de Janeiro,Abílio Távora,Smartfit,Nova Iguaçu,Rio de Janeiro,0.839
+SHOPPING NOVA IGUAÇU,BodyTech,Nova Iguaçu,Rio de Janeiro,Mário Guimarães,Smartfit,Nova Iguaçu,Rio de Janeiro,0.946
+SHOP. PRAIA DA COSTA,BodyTech,Vila Velha,Espírito Santo,Centro Vila Velha,Smartfit,Vila Velha,Espírito Santo,0.897
+SHOPPING PÁTIO PAULISTA,BodyTech,São Paulo,São Paulo,Club Homs,Smartfit,São Paulo,São Paulo,0.819
+SHOPPING PÁTIO PAULISTA,BodyTech,São Paulo,São Paulo,Paulista,Smartfit,São Paulo,São Paulo,0.711
+SHOPPING PÁTIO PAULISTA,BodyTech,São Paulo,São Paulo,Bela Vista I,Smartfit,São Paulo,São Paulo,0.908
+SHOPPING PÁTIO PAULISTA,BodyTech,São Paulo,São Paulo,Rua Cubatão,Smartfit,São Paulo,São Paulo,0.393
+SHOPPING PÁTIO PAULISTA,BodyTech,São Paulo,São Paulo,Bernardino de Campos,Smartfit,São Paulo,São Paulo,0.481
+SHOPPING RECIFE,BodyTech,Recife,Pernambuco,Conselheiro Aguiar,Smartfit,Recife,Pernambuco,0.682
+SHOPPING RECIFE,BodyTech,Recife,Pernambuco,Shopping Recife,Smartfit,Recife,Pernambuco,0.362
+SHOPPING RECIFE,BodyTech,Recife,Pernambuco,Mix Mateus Boa Viagem,Smartfit,Recife,Pernambuco,0.519
+SHOPPING RECIFE,BodyTech,Recife,Pernambuco,SELECT GYM BY PANOBIANCO,Panobianco,Recife,Pernambuco,0.548
+SUDOESTE,BodyTech,Brasília,Distrito Federal,Sudoeste II,Smartfit,Brasília,Distrito Federal,0.382
+SHOPPING TIJUCA,BodyTech,Rio de Janeiro,Rio de Janeiro,Av. Maracanã I,Smartfit,Rio de Janeiro,Rio de Janeiro,0.617
+SHOPPING TIJUCA,BodyTech,Rio de Janeiro,Rio de Janeiro,Boulevard 28,Smartfit,Rio de Janeiro,Rio de Janeiro,0.888
+SHOPPING TIJUCA,BodyTech,Rio de Janeiro,Rio de Janeiro,Rua Conde de Bonfim I,Smartfit,Rio de Janeiro,Rio de Janeiro,0.413
+SHOPPING TIJUCA,BodyTech,Rio de Janeiro,Rio de Janeiro,Av. Maracanã II,Smartfit,Rio de Janeiro,Rio de Janeiro,0.682
+TIJUCA HADDOCK LOBO,BodyTech,Rio de Janeiro,Rio de Janeiro,Haddock Lobo,Smartfit,Rio de Janeiro,Rio de Janeiro,0.108
+São Sebastião,Pratique Fitness,Palhoça,Santa Catarina,Bela Vista,Pratique Fitness,Palhoça,Santa Catarina,0.665
+Cachoeirinha,Pratique Fitness,Belo Horizonte,Minas Gerais,Nova Floresta,Pratique Fitness,Belo Horizonte,Minas Gerais,0.901
+Castelo,Pratique Fitness,Belo Horizonte,Minas Gerais,Castelo 1,Smartfit,Belo Horizonte,Minas Gerais,0.459
+Fernão Dias,Pratique Fitness,Belo Horizonte,Minas Gerais,Fernão Dias II,Pratique Fitness,Belo Horizonte,Minas Gerais,0.806
+Fernão Dias,Pratique Fitness,Belo Horizonte,Minas Gerais,Minas Shopping,Smartfit,Belo Horizonte,Minas Gerais,0.619
+Cabral,Pratique Fitness,Contagem,Minas Gerais,Shopping Contagem,Pratique Fitness,Contagem,Minas Gerais,0.659
+Cabral,Pratique Fitness,Contagem,Minas Gerais,Cabral 2,Pratique Fitness,Contagem,Minas Gerais,0.051
+Santa Inês,Pratique Fitness,Sabará,Minas Gerais,Santa Inês II,Pratique Fitness,Belo Horizonte,Minas Gerais,0.483
+Santa Inês,Pratique Fitness,Sabará,Minas Gerais,Fernão Dias II,Pratique Fitness,Belo Horizonte,Minas Gerais,0.98
+Santa Inês II,Pratique Fitness,Belo Horizonte,Minas Gerais,Fernão Dias II,Pratique Fitness,Belo Horizonte,Minas Gerais,0.503
+Ouro Preto Prime,Pratique Fitness,Belo Horizonte,Minas Gerais,Ouro Preto II,Pratique Fitness,Belo Horizonte,Minas Gerais,0.021
+Santa Mônica,Pratique Fitness,Belo Horizonte,Minas Gerais,Rio Branco,Pratique Fitness,Belo Horizonte,Minas Gerais,0.837
+Santa Efigênia,Pratique Fitness,Belo Horizonte,Minas Gerais,ANDRADAS – BELO HORIZONTE (MG),Skyfit,Belo Horizonte,Minas Gerais,0.695
+Sete Lagoas,Pratique Fitness,Sete Lagoas,Minas Gerais,SETE LAGOAS (MG),Skyfit,Sete Lagoas,Minas Gerais,0.391
+Paqueta,Pratique Fitness,Belo Horizonte,Minas Gerais,PAMPULHA,Panobianco,Belo Horizonte,Minas Gerais,0.211
+Mangabeiras,Pratique Fitness,Belo Horizonte,Minas Gerais,Anchieta,Smartfit,Belo Horizonte,Minas Gerais,0.639
+Centro de Florianópolis,Pratique Fitness,Florianópolis,Santa Catarina,Beira Mar Norte,Smartfit,Florianópolis,Santa Catarina,0.675
+Pagani Prime,Pratique Fitness,Palhoça,Santa Catarina,Pagani 2,Pratique Fitness,Palhoça,Santa Catarina,0.195
+Pagani Prime,Pratique Fitness,Palhoça,Santa Catarina,Palhoça,Smartfit,Palhoça,Santa Catarina,0.174
+Funcionários,Pratique Fitness,Belo Horizonte,Minas Gerais,Cláudio Manoel,Smartfit,Belo Horizonte,Minas Gerais,0.692
+Nova Palhoça - Palhoça,Pratique Fitness,Palhoça,Santa Catarina,Nova Palhoça Rio Grande,Pratique Fitness,Palhoça,Santa Catarina,0.949
+João Monlevade Carneirinho,Pratique Fitness,João Monlevade,Minas Gerais,João Monlevade,Smartfit,João Monlevade,Minas Gerais,0.682
+Mart Minas,Pratique Fitness,Contagem,Minas Gerais,RESSACA,Panobianco,Contagem,Minas Gerais,0.755
+Jardim Atlântico,Pratique Fitness,Florianópolis,Santa Catarina,Estreito,Smartfit,Florianópolis,Santa Catarina,0.712
+Só Marcas,Pratique Fitness,Contagem,Minas Gerais,Itaú Power Shopping,Smartfit,Contagem,Minas Gerais,0.733
+Campinas,Pratique Fitness,São José,Santa Catarina,Campinas Privillege,Pratique Fitness,São José,Santa Catarina,0.458
+Shopping Contagem,Pratique Fitness,Contagem,Minas Gerais,Cabral 2,Pratique Fitness,Contagem,Minas Gerais,0.642
+Shopping Contagem,Pratique Fitness,Contagem,Minas Gerais,RESSACA,Panobianco,Contagem,Minas Gerais,0.693
+Navegantes,Pratique Fitness,Navegantes,Santa Catarina,Itajaí,Smartfit,Itajaí,Santa Catarina,0.943
+Abraão SC,Pratique Fitness,Florianópolis,Santa Catarina,Capoeiras,Pratique Fitness,Florianópolis,Santa Catarina,0.864
+Brasil Atacadista II,Pratique Fitness,Palhoça,Santa Catarina,Centro Palhoça,Pratique Fitness,Palhoça,Santa Catarina,0.789
+Oiapoque Eldorado,Pratique Fitness,Contagem,Minas Gerais,Riacho das Pedras,Pratique Fitness,Contagem,Minas Gerais,0.655
+Oiapoque Eldorado,Pratique Fitness,Contagem,Minas Gerais,Contagem,Smartfit,Contagem,Minas Gerais,0.109
+Riacho das Pedras,Pratique Fitness,Contagem,Minas Gerais,Contagem,Smartfit,Contagem,Minas Gerais,0.747
+Pagani 2,Pratique Fitness,Palhoça,Santa Catarina,Palhoça,Smartfit,Palhoça,Santa Catarina,0.023
+Criciúma Pio Corrêa,Pratique Fitness,Criciúma,Santa Catarina,CRICIUMA (SC),Skyfit,Criciúma,Santa Catarina,0.239
+Nova Palhoça Rio Grande,Pratique Fitness,Palhoça,Santa Catarina,Brasil Atacadista 3,Pratique Fitness,Palhoça,Santa Catarina,0.991
+Vila Olimpica,Pratique Fitness,Belo Horizonte,Minas Gerais,ALVARO CAMARGOS – BELO HORIZONTE (MG),Skyfit,Belo Horizonte,Minas Gerais,0.883
+Centro de Críciuma,Pratique Fitness,Criciúma,Santa Catarina,Criciúma,Smartfit,Criciúma,Santa Catarina,0.386
+Augusta,Smartfit,São Paulo,São Paulo,Rua da Consolação II,Smartfit,São Paulo,São Paulo,0.874
+Augusta,Smartfit,São Paulo,São Paulo,Avenida Angélica,Smartfit,São Paulo,São Paulo,0.558
+Augusta,Smartfit,São Paulo,São Paulo,Baixo Augusta,Smartfit,São Paulo,São Paulo,0.535
+Augusta,Smartfit,São Paulo,São Paulo,Alameda Santos,Smartfit,São Paulo,São Paulo,0.847
+Augusta,Smartfit,São Paulo,São Paulo,Bela Vista II,Smartfit,São Paulo,São Paulo,0.819
+Rua da Consolação II,Smartfit,São Paulo,São Paulo,Avenida Angélica,Smartfit,São Paulo,São Paulo,0.886
+Rua da Consolação II,Smartfit,São Paulo,São Paulo,Oscar Freire,Smartfit,São Paulo,São Paulo,0.908
+Avenida Angélica,Smartfit,São Paulo,São Paulo,Baixo Augusta,Smartfit,São Paulo,São Paulo,0.67
+Baixo Augusta,Smartfit,São Paulo,São Paulo,Bela Vista II,Smartfit,São Paulo,São Paulo,0.397
+Oscar Freire,Smartfit,São Paulo,São Paulo,Alameda Santos,Smartfit,São Paulo,São Paulo,0.956
+Alameda Santos,Smartfit,São Paulo,São Paulo,Club Homs,Smartfit,São Paulo,São Paulo,0.575
+Alameda Santos,Smartfit,São Paulo,São Paulo,Paulista,Smartfit,São Paulo,São Paulo,0.687
+Club Homs,Smartfit,São Paulo,São Paulo,Paulista,Smartfit,São Paulo,São Paulo,0.138
+Club Homs,Smartfit,São Paulo,São Paulo,Bela Vista I,Smartfit,São Paulo,São Paulo,0.958
+Club Homs,Smartfit,São Paulo,São Paulo,Rua Cubatão,Smartfit,São Paulo,São Paulo,0.956
+Paulista,Smartfit,São Paulo,São Paulo,Bela Vista I,Smartfit,São Paulo,São Paulo,0.835
+Paulista,Smartfit,São Paulo,São Paulo,Rua Cubatão,Smartfit,São Paulo,São Paulo,0.894
+Bela Vista I,Smartfit,São Paulo,São Paulo,Liberdade,Smartfit,São Paulo,São Paulo,0.472
+Rua Cubatão,Smartfit,São Paulo,São Paulo,Bernardino de Campos,Smartfit,São Paulo,São Paulo,0.284
+Higienópolis,Smartfit,São Paulo,São Paulo,Santa Cecília,Smartfit,São Paulo,São Paulo,0.582
+Higienópolis,Smartfit,São Paulo,São Paulo,Campos Elíseos,Smartfit,São Paulo,São Paulo,0.981
+Santa Cecília,Smartfit,São Paulo,São Paulo,Campos Elíseos,Smartfit,São Paulo,São Paulo,0.653
+Bernardino de Campos,Smartfit,São Paulo,São Paulo,Rodrigues Alves,Smartfit,São Paulo,São Paulo,0.957
+Shopping Light,Smartfit,São Paulo,São Paulo,Anhangabaú,Smartfit,São Paulo,São Paulo,0.346
+Shopping Light,Smartfit,São Paulo,São Paulo,Av. Ipiranga,Smartfit,São Paulo,São Paulo,0.661
+Shopping Light,Smartfit,São Paulo,São Paulo,PRAÇA DA SÉ (SP),Skyfit,São Paulo,São Paulo,0.6
+Shopping Light,Smartfit,São Paulo,São Paulo,REPÚBLICA,Panobianco,São Paulo,São Paulo,0.403
+Anhangabaú,Smartfit,São Paulo,São Paulo,Av. Ipiranga,Smartfit,São Paulo,São Paulo,0.724
+Anhangabaú,Smartfit,São Paulo,São Paulo,PRAÇA DA SÉ (SP),Skyfit,São Paulo,São Paulo,0.417
+Anhangabaú,Smartfit,São Paulo,São Paulo,REPÚBLICA,Panobianco,São Paulo,São Paulo,0.588
+Av. Ipiranga,Smartfit,São Paulo,São Paulo,REPÚBLICA,Panobianco,São Paulo,São Paulo,0.301
+Campos Elíseos,Smartfit,São Paulo,São Paulo,Bom Retiro,Smartfit,São Paulo,São Paulo,0.978
+Joaquim Floriano,Smartfit,São Paulo,São Paulo,Clodomiro Amazonas II,Smartfit,São Paulo,São Paulo,0.689
+Joaquim Floriano,Smartfit,São Paulo,São Paulo,ITAIM BIBI (SP),Skyfit,São Paulo,São Paulo,0.187
+Rodrigues Alves,Smartfit,São Paulo,São Paulo,Vila Mariana,Smartfit,São Paulo,São Paulo,0.469
+Clodomiro Amazonas II,Smartfit,São Paulo,São Paulo,ITAIM BIBI (SP),Skyfit,São Paulo,São Paulo,0.585
+Clélia I,Smartfit,São Paulo,São Paulo,Rua Fábia,Smartfit,São Paulo,São Paulo,0.547
+Clélia I,Smartfit,São Paulo,São Paulo,Clelia III,Smartfit,São Paulo,São Paulo,0.956
+Clélia I,Smartfit,São Paulo,São Paulo,VILA ROMANA – BRAGANÇA PAULISTA (SP),Skyfit,São Paulo,State of São Paulo,0.694
+Canário,Smartfit,São Paulo,São Paulo,Jamaris,Smartfit,São Paulo,São Paulo,0.961
+Canário,Smartfit,São Paulo,São Paulo,Bem-te-vi,Smartfit,São Paulo,São Paulo,0.487
+Casa Verde Baixa,Smartfit,São Paulo,São Paulo,Carrefour Casa Verde,Smartfit,São Paulo,São Paulo,0.403
+Rua Fábia,Smartfit,São Paulo,São Paulo,Clelia III,Smartfit,São Paulo,São Paulo,0.514
+Rua Fábia,Smartfit,São Paulo,São Paulo,VILA ROMANA – BRAGANÇA PAULISTA (SP),Skyfit,São Paulo,State of São Paulo,0.216
+Rua Fábia,Smartfit,São Paulo,São Paulo,LAPA,Panobianco,São Paulo,São Paulo,0.645
+Jamaris,Smartfit,São Paulo,São Paulo,Maracatins,Smartfit,São Paulo,São Paulo,0.69
+Bem-te-vi,Smartfit,São Paulo,São Paulo,Maracatins,Smartfit,São Paulo,São Paulo,0.747
+Clelia III,Smartfit,São Paulo,São Paulo,VILA ROMANA – BRAGANÇA PAULISTA (SP),Skyfit,São Paulo,State of São Paulo,0.611
+Clelia III,Smartfit,São Paulo,São Paulo,LAPA,Panobianco,São Paulo,São Paulo,0.134
+Maracatins,Smartfit,São Paulo,São Paulo,Campo Belo,Smartfit,São Paulo,São Paulo,0.891
+Brooklin Paulista,Smartfit,São Paulo,São Paulo,Av. Santo Amaro,Smartfit,São Paulo,São Paulo,0.573
+Praça da Árvore,Smartfit,São Paulo,São Paulo,Planalto Paulista,Smartfit,São Paulo,São Paulo,0.72
+Av. Santo Amaro,Smartfit,São Paulo,São Paulo,Campo Belo,Smartfit,São Paulo,São Paulo,0.926
+Av. Prof. Francisco Morato,Smartfit,São Paulo,São Paulo,Butantã Shopping,Smartfit,São Paulo,São Paulo,0.532
+Alto do Ipiranga,Smartfit,São Paulo,São Paulo,Sacomã,Smartfit,São Paulo,São Paulo,0.988
+Belenzinho,Smartfit,São Paulo,São Paulo,BELÉM,Panobianco,,,0.707
+Belenzinho,Smartfit,São Paulo,São Paulo,BELENZINHO,Panobianco,São Paulo,São Paulo,0.714
+Corifeu,Smartfit,São Paulo,São Paulo,Bonfiglioli,Smartfit,São Paulo,São Paulo,0.677
+Mooca,Smartfit,São Paulo,São Paulo,MOOCA (SP),Skyfit,São Paulo,São Paulo,0.956
+Mooca,Smartfit,São Paulo,São Paulo,VILA PRUDENTE,Panobianco,São Paulo,São Paulo,0.821
+Guaipá,Smartfit,São Paulo,São Paulo,LAPA – SÃO PAULO (SP),Skyfit,São Paulo,São Paulo,0.985
+Av. Itaberaba II,Smartfit,São Paulo,São Paulo,Av. Itaberaba I,Smartfit,São Paulo,São Paulo,0.356
+Imirim,Smartfit,São Paulo,São Paulo,Francisco Ranieri,Smartfit,São Paulo,São Paulo,0.74
+Vila Prudente,Smartfit,São Paulo,São Paulo,Central Plaza,Smartfit,São Paulo,São Paulo,0.99
+Vila Prudente,Smartfit,São Paulo,São Paulo,VILA PRUDENTE,Panobianco,São Paulo,São Paulo,0.304
+Assaí Jaguaré,Smartfit,São Paulo,São Paulo,JAGUARÉ,Panobianco,São Paulo,São Paulo,0.401
+Av. Itaberaba I,Smartfit,São Paulo,São Paulo,FREGUESIA,Panobianco,São Paulo,São Paulo,0.99
+Sam's Club Jabaquara,Smartfit,São Paulo,São Paulo,Leonardo da Vinci,Smartfit,São Paulo,São Paulo,0.159
+Sam's Club Jabaquara,Smartfit,São Paulo,São Paulo,Jabaquara,Smartfit,São Paulo,São Paulo,0.574
+Leonardo da Vinci,Smartfit,São Paulo,São Paulo,Jabaquara,Smartfit,São Paulo,São Paulo,0.51
+Av. Santa Catarina I,Smartfit,São Paulo,São Paulo,Avenida Mascote,Smartfit,São Paulo,São Paulo,0.538
+Av. Santa Catarina I,Smartfit,São Paulo,São Paulo,VILA MASCOTE – SP,Panobianco,São Paulo,São Paulo,0.049
+Água Fria,Smartfit,São Paulo,São Paulo,Av. Nova Cantareira,Smartfit,São Paulo,São Paulo,0.774
+Avenida Mascote,Smartfit,São Paulo,São Paulo,VILA MASCOTE – SP,Panobianco,São Paulo,São Paulo,0.585
+Avenida Celso Garcia,Smartfit,São Paulo,São Paulo,METRÔ CARRÃO (SP),Skyfit,São Paulo,São Paulo,0.327
+Assaí SCS - Av. Goiás,Smartfit,São Caetano do Sul,São Paulo,SÃO CAETANO DO SUL (SP),Skyfit,São Caetano do Sul,São Paulo,0.665
+Av. das Cerejeiras,Smartfit,São Paulo,São Paulo,Bem Barato Parque Novo Mundo,Smartfit,São Paulo,São Paulo,0.819
+Pátio Osasco,Smartfit,Osasco,São Paulo,União Osasco,Smartfit,Osasco,São Paulo,0.404
+Pátio Osasco,Smartfit,Osasco,São Paulo,VILA YARA – OSASCO (SP),Skyfit,Osasco,São Paulo,0.733
+Tatuapé,Smartfit,São Paulo,São Paulo,TATUAPÉ (SP),Skyfit,São Paulo,São Paulo,0.836
+União Osasco,Smartfit,Osasco,São Paulo,VILA YARA – OSASCO (SP),Skyfit,Osasco,São Paulo,0.33
+Shopping Metrô Tucuruvi,Smartfit,São Paulo,São Paulo,TUCURUVI,Panobianco,São Paulo,São Paulo,0.179
+Washington Luís,Smartfit,São Paulo,São Paulo,SANTO AMARO,Panobianco,São Paulo,São Paulo,0.818
+Vila Formosa,Smartfit,São Paulo,São Paulo,SAPOPEMBA,Panobianco,São Paulo,São Paulo,0.581
+Largo do Taboão,Smartfit,Taboão da Serra,São Paulo,Shopping Taboão,Smartfit,Taboão da Serra,São Paulo,0.472
+Largo do Taboão,Smartfit,Taboão da Serra,São Paulo,MARIA ROSA,Panobianco,Taboão da Serra,São Paulo,0.913
+Carrefour Fundação,Smartfit,São Caetano do Sul,São Paulo,SÃO CAETANO DO SUL (SP),Skyfit,São Caetano do Sul,São Paulo,0.619
+Avenida Conselheiro Carrão,Smartfit,São Paulo,São Paulo,TATUAPÉ (SP),Skyfit,São Paulo,São Paulo,0.74
+Avenida Conselheiro Carrão,Smartfit,São Paulo,São Paulo,CARRÃO,Panobianco,São Paulo,São Paulo,0.441
+Mais Shopping,Smartfit,São Paulo,São Paulo,SANTO AMARO,Panobianco,São Paulo,São Paulo,0.96
+João Dias,Smartfit,São Paulo,São Paulo,ASSAÍ JOÃO DIAS,Panobianco,São Paulo,São Paulo,0.848
+Primitiva,Smartfit,Osasco,São Paulo,OSASCO CENTRO,Panobianco,Osasco,São Paulo,0.304
+Av. Jardim Japão,Smartfit,São Paulo,São Paulo,JARDIM BRASIL,Panobianco,São Paulo,São Paulo,0.152
+Vila Carrão,Smartfit,São Paulo,São Paulo,VILA FORMOSA,Panobianco,São Paulo,São Paulo,0.998
+Taboão Outlet,Smartfit,Taboão da Serra,São Paulo,MARIA ROSA,Panobianco,Taboão da Serra,São Paulo,0.651
+Shopping Penha,Smartfit,São Paulo,São Paulo,PENHA,Panobianco,São Paulo,São Paulo,0.592
+Avenida Taboão,Smartfit,São Bernardo do Campo,São Paulo,SBC TABOÃO,Panobianco,São Bernardo do Campo,São Paulo,0.901
+Vila Ema,Smartfit,São Paulo,São Paulo,ROLDÃO VILA EMA,Panobianco,São Paulo,São Paulo,0.286
+Shopping Taboão,Smartfit,Taboão da Serra,São Paulo,INTERCONTINENTAL,Panobianco,Taboão da Serra,São Paulo,0.799
+Sabará,Smartfit,São Paulo,São Paulo,SABARÁ – JARDIM DIOMAR (SP),Skyfit,São Paulo,São Paulo,0.13
+Avenida Amador Bueno,Smartfit,São Paulo,São Paulo,PENHA,Panobianco,São Paulo,São Paulo,0.733
+Jardim Miriam,Smartfit,São Paulo,São Paulo,DIADEMA CENTRO,Panobianco,Diadema,São Paulo,0.957
+Osasco KM 18,Smartfit,Osasco,São Paulo,KM18 – OSASCO (SP),Skyfit,Osasco,São Paulo,0.232
+SP Market,Smartfit,São Paulo,São Paulo,SABARÁ – JARDIM DIOMAR (SP),Skyfit,São Paulo,São Paulo,0.965
+Internacional Shopping,Smartfit,Guarulhos,São Paulo,Av. Guarulhos,Smartfit,Guarulhos,São Paulo,0.42
+Internacional Shopping,Smartfit,Guarulhos,São Paulo,VILA AUGUSTA – GUARULHOS (SP),Skyfit,Guarulhos,São Paulo,0.757
+Av. Guarulhos,Smartfit,Guarulhos,São Paulo,VILA AUGUSTA – GUARULHOS (SP),Skyfit,Guarulhos,São Paulo,0.965
+Parque São Lucas,Smartfit,São Paulo,São Paulo,Metrô Sapopemba,Smartfit,São Paulo,São Paulo,0.981
+Bem Barato Rudge Ramos,Smartfit,São Bernardo do Campo,São Paulo,CAMINHO DO MAR – SÃO BERNARDO DO CAMPO (SP),Skyfit,São Bernardo do Campo,São Paulo,0.489
+Bem Barato Rudge Ramos,Smartfit,São Bernardo do Campo,São Paulo,SBC LIONS,Panobianco,São Bernardo do Campo,São Paulo,0.768
+Assaí Anchieta,Smartfit,São Bernardo do Campo,São Paulo,SBC LIONS,Panobianco,São Bernardo do Campo,São Paulo,0.848
+Taboão - Kizaemon 1047,Smartfit,Taboão da Serra,São Paulo,D'avó Jardim Clementino,Smartfit,Taboão da Serra,São Paulo,0.223
+Taboão - Kizaemon 1047,Smartfit,Taboão da Serra,São Paulo,TABOÃO DA SERRA,Panobianco,Taboão da Serra,São Paulo,0.4
+Capelinha,Smartfit,São Paulo,São Paulo,METRÔ CAPÃO – CAPÃO REDONDO (SP),Skyfit,São Paulo,São Paulo,0.727
+Shopping Praça da Moça,Smartfit,Diadema,São Paulo,DIADEMA (SP),Skyfit,Diadema,São Paulo,0.655
+Sapopemba,Smartfit,São Paulo,São Paulo,Metrô Sapopemba,Smartfit,São Paulo,São Paulo,0.823
+Sapopemba,Smartfit,São Paulo,São Paulo,Estação São Mateus,Smartfit,São Paulo,São Paulo,0.581
+D'avó Jardim Clementino,Smartfit,Taboão da Serra,São Paulo,TABOÃO DA SERRA,Panobianco,Taboão da Serra,São Paulo,0.62
+Rio das Pedras,Smartfit,São Paulo,São Paulo,VILA ANTONIETA,Panobianco,São Paulo,São Paulo,0.318
+Grand Plaza,Smartfit,Santo André,São Paulo,CAMPESTRE,Panobianco,Santo André,São Paulo,0.951
+Gamelinha,Smartfit,São Paulo,São Paulo,NHOCUNÉ,Panobianco,São Paulo,São Paulo,0.884
+Capão Redondo,Smartfit,São Paulo,São Paulo,CAPÃO REDONDO,Panobianco,São Paulo,São Paulo,0.049
+Avenida João Paulo II - Embu das Artes,Smartfit,Embu das Artes,São Paulo,PIRAJUSSARA,Panobianco,Taboão da Serra,São Paulo,0.899
+Parque das Nações,Smartfit,Santo André,São Paulo,MARTIM FRANSCISCO,Panobianco,Santo André,São Paulo,0.707
+Bosque Maia,Smartfit,Guarulhos,São Paulo,GUARULHOS (SP),Skyfit,Guarulhos,São Paulo,0.906
+Transguarulhense,Smartfit,Guarulhos,São Paulo,Shopping Pátio Guarulhos,Smartfit,Guarulhos,São Paulo,0.498
+Lar ABC Shopping,Smartfit,Santo André,São Paulo,PEREIRA BARRETO,Panobianco,Santo André,São Paulo,0.164
+Parque Oratório,Smartfit,Santo André,São Paulo,JORGE BERETTA – SANTO ANDRÉ (SP),Skyfit,Santo André,São Paulo,0.452
+Granja Viana - São Camilo,Smartfit,Carapicuíba,São Paulo,GRANJA VIANA – CARAPICUIBA (SP),Skyfit,Carapicuíba,São Paulo,0.49
+Poupaki Cidade Dutra,Smartfit,São Paulo,São Paulo,Teotonio Vilela I,Smartfit,São Paulo,São Paulo,0.104
+Avenida São Miguel I,Smartfit,São Paulo,São Paulo,BOTURUSSU,Panobianco,São Paulo,São Paulo,0.231
+Avenida Castelo Branco,Smartfit,São Bernardo do Campo,São Paulo,SBC CASTELO BRANCO / SP,Panobianco,São Bernardo do Campo,São Paulo,0.456
+Pirelli,Smartfit,Santo André,São Paulo,QUEIRÓS FILHO – SANTO ANDRÉ (SP),Skyfit,Santo André,São Paulo,0.63
+Shopping Metrô Itaquera,Smartfit,São Paulo,São Paulo,JACU PÊSSEGO – SÃO PAULO (SP),Skyfit,São Paulo,São Paulo,0.792
+Shopping Metrô Itaquera,Smartfit,São Paulo,São Paulo,ARENA,Panobianco,São Paulo,São Paulo,0.924
+Shopping Metrô Itaquera,Smartfit,São Paulo,São Paulo,ITAQUERA,Panobianco,São Paulo,São Paulo,0.355
+Av. Prestes Maia,Smartfit,São Bernardo do Campo,São Paulo,Rua João Pessoa,Smartfit,São Bernardo do Campo,São Paulo,0.722
+Jardim Adriana,Smartfit,Guarulhos,São Paulo,COCAIA,Panobianco,Guarulhos,São Paulo,0.418
+Alphaville I,Smartfit,Barueri,São Paulo,ALPHAVILLE (SP),Skyfit,Barueri,São Paulo,0.22
+Belmira Marin,Smartfit,São Paulo,São Paulo,GRAJAÚ,Panobianco,São Paulo,São Paulo,0.241
+Vianas,Smartfit,São Bernardo do Campo,São Paulo,VIANAS,Panobianco,São Bernardo do Campo,São Paulo,0.628
+Parque Boa Esperança,Smartfit,São Paulo,São Paulo,BOA ESPERANÇA,Panobianco,São Paulo,São Paulo,0.526
+Residencial Cocaia,Smartfit,São Paulo,São Paulo,RESIDENCIAL COCAIA,Panobianco,São Paulo,São Paulo,0.676
+Plaza Shopping,Smartfit,São Bernardo do Campo,São Paulo,MARECHAL – SÃO BERNARDO DO CAMPO (SP),Skyfit,São Bernardo do Campo,São Paulo,0.48
+Vila Carmosina,Smartfit,São Paulo,São Paulo,Sábbado D’Angelo,Smartfit,São Paulo,São Paulo,0.666
+D'avó São Miguel Paulista,Smartfit,São Paulo,São Paulo,VILA JACUÍ (SP),Skyfit,São Paulo,São Paulo,0.408
+Vila Luzita,Smartfit,Santo André,São Paulo,VILA LUZITA,Panobianco,Santo André,São Paulo,0.311
+Jardim Capela,Smartfit,São Paulo,São Paulo,VERA CRUZ,Panobianco,São Paulo,São Paulo,0.852
+Mauá,Smartfit,Mauá,São Paulo,VILA MAGINI,Panobianco,Mauá,São Paulo,0.457
+Caieiras,Smartfit,Caieiras,São Paulo,JARDIM SÃO FRANCISCO,Panobianco,Caieiras,São Paulo,0.892
+Jandira Centro,Smartfit,Jandira,São Paulo,Jandira Ouro Verde,Smartfit,Jandira,São Paulo,0.377
+Shopping Cidade Tiradentes,Smartfit,São Paulo,São Paulo,Cidade Tiradentes,Smartfit,São Paulo,São Paulo,0.59
+Shopping Cidade Tiradentes,Smartfit,São Paulo,São Paulo,TIRADENTES – SÃO PAULO (SP),Skyfit,São Paulo,São Paulo,0.49
+Itapecerica da Serra,Smartfit,Itapecerica da Serra,São Paulo,ITAPECERICA DA SERRA (SP),Skyfit,Itapecerica da Serra,São Paulo,0.563
+Cidade Tiradentes,Smartfit,São Paulo,São Paulo,TIRADENTES – SÃO PAULO (SP),Skyfit,São Paulo,São Paulo,0.662
+Cajamar,Smartfit,Cajamar,São Paulo,CAJAMAR,Panobianco,Cajamar,São Paulo,0.736
+Itapevi Centro,Smartfit,Itapevi,São Paulo,Itapevi,Smartfit,Itapevi,São Paulo,0.59
+Itapevi Centro,Smartfit,Itapevi,São Paulo,SANTA RITA,Panobianco,Itapevi,São Paulo,0.732
+Itaim Paulista,Smartfit,São Paulo,São Paulo,ITAIM PAULISTA – SÃO PAULO (SP),Skyfit,,,0.685
+Itaim Paulista,Smartfit,São Paulo,São Paulo,TIBURCIO,Panobianco,São Paulo,São Paulo,0.318
+Itapevi,Smartfit,Itapevi,São Paulo,SANTA RITA,Panobianco,Itapevi,São Paulo,0.955
+Shopping Bonsucesso,Smartfit,Guarulhos,São Paulo,PIMENTAS (SP),Skyfit,Guarulhos,São Paulo,0.021
+Ribeirão Pires,Smartfit,Ribeirão Pires,São Paulo,FRANCISCO MONTEIRO,Panobianco,Ribeirão Pires,São Paulo,0.386
+Cubatão,Smartfit,Cubatão,São Paulo,CUBATÃO CENTRO,Panobianco,Cubatão,São Paulo,0.829
+Av. Imigrantes Italianos,Smartfit,Jundiaí,São Paulo,JUNDIAÍ – IMIGRANTES (SP),Skyfit,Jundiaí,São Paulo,0.112
+Av. Fernando Costa,Smartfit,Mogi das Cruzes,São Paulo,MOGI DAS CRUZES (SP),Skyfit,Mogi das Cruzes,São Paulo,1.0
+Av. Fernando Costa,Smartfit,Mogi das Cruzes,São Paulo,ALTO IPIRANGA,Panobianco,Mogi das Cruzes,São Paulo,0.97
+Atibaia,Smartfit,Atibaia,São Paulo,ALVINÓPOLIS,Panobianco,Atibaia,São Paulo,0.44
+Avenida Presidente Wilson,Smartfit,São Vicente,São Paulo,SÃO VICENTE CENTRO,Panobianco,São Vicente,São Paulo,0.553
+Ana Costa II,Smartfit,Santos,São Paulo,Assaí Ana Costa,Smartfit,Santos,São Paulo,0.338
+Emissário,Smartfit,Santos,São Paulo,CANAL 1,Panobianco,Santos,São Paulo,0.287
+Pres. Costa e Silva,Smartfit,Praia Grande,São Paulo,CANTO DO FORTE – PRAIA GRANDE (SP),Skyfit,Praia Grande,São Paulo,0.227
+Pres. Costa e Silva,Smartfit,Praia Grande,São Paulo,PARIS,Panobianco,Praia Grande,São Paulo,0.324
+Ana Costa 1,Smartfit,Santos,São Paulo,BOQUEIRÃO,Panobianco,Santos,São Paulo,0.826
+Vicente de Carvalho,Smartfit,Guarujá,São Paulo,VICENTE DE CARVALHO – GUARUJÁ (SP),Skyfit,Guarujá,São Paulo,0.79
+Jacareí,Smartfit,Jacareí,São Paulo,JACAREÍ (SP),Skyfit,Jacareí,São Paulo,0.987
+Jacareí,Smartfit,Jacareí,São Paulo,BOULEVARD JACAREÍ,Panobianco,Jacareí,São Paulo,0.752
+Indaiatuba,Smartfit,Indaiatuba,São Paulo,INDAIATUBA,Panobianco,Indaiatuba,São Paulo,0.963
+Abolição,Smartfit,Campinas,São Paulo,VILA MARIETA – CAMPINAS (SP),Skyfit,Campinas,São Paulo,0.551
+Abolição,Smartfit,Campinas,São Paulo,WASHINGTON LUIZ,Panobianco,Campinas,São Paulo,0.352
+Pereira Inácio,Smartfit,Sorocaba,São Paulo,SOROCABA – SHOP PANORÂMICO (SP),Skyfit,Sorocaba,São Paulo,0.94
+Pereira Inácio,Smartfit,Sorocaba,São Paulo,DOM AGUIRRE,Panobianco,Sorocaba,São Paulo,0.371
+Campinas Shopping,Smartfit,Campinas,São Paulo,AMOREIRAS – CAMPINAS (SP),Skyfit,Campinas,São Paulo,0.548
+Campinas Shopping,Smartfit,Campinas,São Paulo,OZIEL,Panobianco,Campinas,São Paulo,0.802
+Assaí Amoreiras,Smartfit,Campinas,São Paulo,CAMPINAS – VILA UNIÃO (SP),Skyfit,Campinas,São Paulo,0.942
+Assaí Amoreiras,Smartfit,Campinas,São Paulo,RUY RODRIGUES,Panobianco,Campinas,São Paulo,0.204
+General Carneiro,Smartfit,Sorocaba,São Paulo,GENERAL,Panobianco,Sorocaba,São Paulo,0.278
+Cambuí II,Smartfit,Campinas,São Paulo,Jorge Krug,Smartfit,Campinas,São Paulo,0.852
+Cambuí II,Smartfit,Campinas,São Paulo,CAMBUÍ,Panobianco,Campinas,São Paulo,0.255
+Tauste Itavuvu,Smartfit,Sorocaba,São Paulo,VILA NOVA – SOROCABA (SP),Skyfit,Sorocaba,São Paulo,0.293
+Tauste Itavuvu,Smartfit,Sorocaba,São Paulo,SANTOS DUMONT SOROCABA,Panobianco,Sorocaba,São Paulo,0.699
+Shopping Cidade Sorocaba,Smartfit,Sorocaba,São Paulo,ALTÍNO ARANTES SOROCABA,Panobianco,Sorocaba,São Paulo,0.535
+Jorge Krug,Smartfit,Campinas,São Paulo,CAMBUÍ,Panobianco,Campinas,São Paulo,0.659
+Parque Industrial,Smartfit,São José dos Campos,São Paulo,SÃO JOSÉ DOS CAMPOS – PALMEIRAS DE SÃO JOSÉ (SP),Skyfit,São José dos Campos,São Paulo,0.241
+Parque Industrial,Smartfit,São José dos Campos,São Paulo,SJC MORUMBI,Panobianco,São José dos Campos,São Paulo,0.539
+Avenida Ipanema,Smartfit,Sorocaba,São Paulo,IPANEMA,Panobianco,Sorocaba,São Paulo,0.888
+Chácara Primavera,Smartfit,Campinas,São Paulo,MANSÕES – CAMPINAS (SP),Skyfit,Campinas,São Paulo,0.938
+Chácara Primavera,Smartfit,Campinas,São Paulo,CHÁCARA PRIMAVERA,Panobianco,Campinas,São Paulo,0.469
+Satelite,Smartfit,São José dos Campos,São Paulo,SJC SATÉLITE,Panobianco,São José dos Campos,São Paulo,0.656
+Barão Geraldo,Smartfit,Campinas,São Paulo,BARÃO GERALDO – CAMPINAS (SP),Skyfit,Campinas,São Paulo,0.583
+Hortolândia,Smartfit,Hortolândia,São Paulo,HORTOLÂNDIA (SP),Skyfit,Hortolândia,São Paulo,0.61
+Paulínia,Smartfit,Paulínia,São Paulo,JOSÉ PAULINO,Panobianco,Paulínia,São Paulo,0.622
+Boituva,Smartfit,Boituva,São Paulo,BOITUVA,Panobianco,Boituva,São Paulo,0.122
+Taubaté,Smartfit,Taubaté,São Paulo,TAUBATÉ (SP),Skyfit,Taubaté,São Paulo,0.921
+Extra Taubaté,Smartfit,Taubaté,São Paulo,TAUBATÉ CENTRO,Panobianco,Taubaté,São Paulo,0.315
+Limeira,Smartfit,Limeira,São Paulo,LIMEIRA CENTRO,Panobianco,Limeira,São Paulo,0.424
+Limeira II - Av. Comendador Agostinho Prada,Smartfit,Limeira,São Paulo,PAGUE MENOS LIMEIRA,Panobianco,Limeira,São Paulo,0.679
+Mogi Guaçu,Smartfit,Mogi Guaçu,São Paulo,MOGI GUAÇU MALL (SP),Skyfit,Mogi Guaçu,São Paulo,0.547
+Av. 31 de Março,Smartfit,Piracicaba,São Paulo,PAULICÉIA PIRACICABA,Panobianco,Piracicaba,São Paulo,0.302
+Pinda,Smartfit,Pindamonhangaba,São Paulo,PINDAMONHANGABA (SP),Skyfit,Pindamonhangaba,São Paulo,0.85
+Araras,Smartfit,Araras,São Paulo,ARARAS CENTRO,Panobianco,Araras,São Paulo,0.475
+Buriti Shopping Guaratinguetá,Smartfit,Guaratinguetá,São Paulo,GUARÁ,Panobianco,Guaratinguetá,São Paulo,0.451
+São João da Boa Vista,Smartfit,São João da Boa Vista,São Paulo,SÃO JOÃO DA BOA VISTA (SP),Skyfit,,,0.198
+Poços de Caldas,Smartfit,Poços de Caldas,Minas Gerais,POÇOS DE CALDAS,Panobianco,Poços de Caldas,Minas Gerais,0.724
+Avaré,Smartfit,Avaré,São Paulo,AVARÉ (SP),Skyfit,Avaré,São Paulo,0.342
+Av. Trinta e Seis,Smartfit,Araraquara,São Paulo,ARARAQUARA (SP),Skyfit,Araraquara,São Paulo,0.43
+Av. Getúlio Vargas II,Smartfit,Bauru,São Paulo,CITY TOWERS – BAURU (SP),Skyfit,Bauru,São Paulo,0.434
+Neo,Smartfit,Ribeirão Preto,São Paulo,FRANCISCO JUNQUEIRA – RIBEIRÃO PRETO (SP),Skyfit,Ribeirão Preto,São Paulo,0.493
+Neo,Smartfit,Ribeirão Preto,São Paulo,13 DE MAIO,Panobianco,Ribeirão Preto,São Paulo,0.976
+Guiomar Novaes,Smartfit,Rio de Janeiro,Rio de Janeiro,RECREIO – RIO DE JANEIRO (RJ),Skyfit,Rio de Janeiro,Rio de Janeiro,0.602
+Queimados,Smartfit,Queimados,Rio de Janeiro,QUEIMADOS,Panobianco,Queimados,Rio de Janeiro,0.413
+Gelson Fonseca,Smartfit,Rio de Janeiro,Rio de Janeiro,Bosque da Barra,Smartfit,Rio de Janeiro,Rio de Janeiro,0.447
+Abílio Távora,Smartfit,Nova Iguaçu,Rio de Janeiro,Mário Guimarães,Smartfit,Nova Iguaçu,Rio de Janeiro,0.348
+Abílio Távora,Smartfit,Nova Iguaçu,Rio de Janeiro,Dom Walmor,Smartfit,Nova Iguaçu,Rio de Janeiro,0.667
+Mário Guimarães,Smartfit,Nova Iguaçu,Rio de Janeiro,Dom Walmor,Smartfit,Nova Iguaçu,Rio de Janeiro,0.504
+Dom Walmor,Smartfit,Nova Iguaçu,Rio de Janeiro,Via Light,Smartfit,Nova Iguaçu,Rio de Janeiro,0.996
+Tindiba,Smartfit,Rio de Janeiro,Rio de Janeiro,RIO DE JANEIRO – TAQUARA (RJ),Skyfit,Rio de Janeiro,Rio de Janeiro,0.505
+Fazendinha,Smartfit,Curitiba,Paraná,CURITIBA 1 (PR),Skyfit,Curitiba,Paraná,0.924
+Barra Garden,Smartfit,Rio de Janeiro,Rio de Janeiro,Guanabara Barra,Smartfit,Rio de Janeiro,Rio de Janeiro,0.365
+Estrada de Jacarepaguá,Smartfit,Rio de Janeiro,Rio de Janeiro,Jacarepaguá,Smartfit,Rio de Janeiro,Rio de Janeiro,0.656
+Estrada de Jacarepaguá,Smartfit,Rio de Janeiro,Rio de Janeiro,SHOPPING FREGUESIA (RJ),Skyfit,Rio de Janeiro,Rio de Janeiro,0.376
+Shopping Rio das Pedras,Smartfit,Rio de Janeiro,Rio de Janeiro,RIO DAS PEDRAS,Panobianco,Rio de Janeiro,Rio de Janeiro,0.536
+Jacarepaguá,Smartfit,Rio de Janeiro,Rio de Janeiro,SHOPPING FREGUESIA (RJ),Skyfit,Rio de Janeiro,Rio de Janeiro,0.708
+Guanabara Campinho,Smartfit,Rio de Janeiro,Rio de Janeiro,Madureira,Smartfit,Rio de Janeiro,Rio de Janeiro,0.82
+Guanabara Campinho,Smartfit,Rio de Janeiro,Rio de Janeiro,RIO DE JANEIRO – CAMPINHO (RJ),Skyfit,Rio de Janeiro,Rio de Janeiro,0.51
+Madureira Shopping,Smartfit,Rio de Janeiro,Rio de Janeiro,Madureira,Smartfit,Rio de Janeiro,Rio de Janeiro,0.476
+Shopping Méier,Smartfit,Rio de Janeiro,Rio de Janeiro,Méier,Smartfit,Rio de Janeiro,Rio de Janeiro,0.209
+Duque de Caxias 2,Smartfit,Duque de Caxias,Rio de Janeiro,Duque de Caxias,Smartfit,Duque de Caxias,Rio de Janeiro,0.706
+Duque de Caxias 2,Smartfit,Duque de Caxias,Rio de Janeiro,DUQUE DE CAXIAS (RJ),Skyfit,Duque de Caxias,Rio de Janeiro,0.574
+NorteShopping,Smartfit,Rio de Janeiro,Rio de Janeiro,Dom Helder,Smartfit,Rio de Janeiro,Rio de Janeiro,0.275
+Duque de Caxias,Smartfit,Duque de Caxias,Rio de Janeiro,DUQUE DE CAXIAS (RJ),Skyfit,Duque de Caxias,Rio de Janeiro,0.669
+Uruguai,Smartfit,Rio de Janeiro,Rio de Janeiro,Rua Conde de Bonfim II,Smartfit,Rio de Janeiro,Rio de Janeiro,0.943
+Uruguai,Smartfit,Rio de Janeiro,Rio de Janeiro,Av. Maracanã I,Smartfit,Rio de Janeiro,Rio de Janeiro,0.724
+Vila Isabel,Smartfit,Rio de Janeiro,Rio de Janeiro,Boulevard 28,Smartfit,Rio de Janeiro,Rio de Janeiro,0.975
+Dias Ferreira,Smartfit,Rio de Janeiro,Rio de Janeiro,Bartolomeu Mitre,Smartfit,Rio de Janeiro,Rio de Janeiro,0.589
+Dias Ferreira,Smartfit,Rio de Janeiro,Rio de Janeiro,Leblon,Smartfit,Rio de Janeiro,Rio de Janeiro,0.775
+Rua Conde de Bonfim II,Smartfit,Rio de Janeiro,Rio de Janeiro,Av. Maracanã I,Smartfit,Rio de Janeiro,Rio de Janeiro,0.444
+Rua Conde de Bonfim II,Smartfit,Rio de Janeiro,Rio de Janeiro,Rua Conde de Bonfim I,Smartfit,Rio de Janeiro,Rio de Janeiro,0.715
+Av. Maracanã I,Smartfit,Rio de Janeiro,Rio de Janeiro,Rua Conde de Bonfim I,Smartfit,Rio de Janeiro,Rio de Janeiro,0.462
+Bartolomeu Mitre,Smartfit,Rio de Janeiro,Rio de Janeiro,Leblon,Smartfit,Rio de Janeiro,Rio de Janeiro,0.347
+Boulevard 28,Smartfit,Rio de Janeiro,Rio de Janeiro,Av. Maracanã II,Smartfit,Rio de Janeiro,Rio de Janeiro,0.837
+Rua Conde de Bonfim I,Smartfit,Rio de Janeiro,Rio de Janeiro,Av. Maracanã II,Smartfit,Rio de Janeiro,Rio de Janeiro,0.936
+Barão da Torre,Smartfit,Rio de Janeiro,Rio de Janeiro,Visconde de Pirajá,Smartfit,Rio de Janeiro,Rio de Janeiro,0.702
+Barão da Torre,Smartfit,Rio de Janeiro,Rio de Janeiro,Ipanema,Smartfit,Rio de Janeiro,Rio de Janeiro,0.781
+Visconde de Pirajá,Smartfit,Rio de Janeiro,Rio de Janeiro,Ipanema,Smartfit,Rio de Janeiro,Rio de Janeiro,0.115
+Visconde de Pirajá,Smartfit,Rio de Janeiro,Rio de Janeiro,Francisco Sá,Smartfit,Rio de Janeiro,Rio de Janeiro,0.879
+Ipanema,Smartfit,Rio de Janeiro,Rio de Janeiro,Francisco Sá,Smartfit,Rio de Janeiro,Rio de Janeiro,0.772
+Humaitá,Smartfit,Rio de Janeiro,Rio de Janeiro,Voluntários da Pátria II,Smartfit,Rio de Janeiro,Rio de Janeiro,0.82
+Francisco Sá,Smartfit,Rio de Janeiro,Rio de Janeiro,Nsa. Copacabana 928,Smartfit,Rio de Janeiro,Rio de Janeiro,0.894
+Pompeu Loureiro,Smartfit,Rio de Janeiro,Rio de Janeiro,Nsa. Copacabana 928,Smartfit,Rio de Janeiro,Rio de Janeiro,0.321
+Pompeu Loureiro,Smartfit,Rio de Janeiro,Rio de Janeiro,Nsa. Copacabana 749,Smartfit,Rio de Janeiro,Rio de Janeiro,0.455
+Pompeu Loureiro,Smartfit,Rio de Janeiro,Rio de Janeiro,Barata Ribeiro,Smartfit,Rio de Janeiro,Rio de Janeiro,0.566
+Pompeu Loureiro,Smartfit,Rio de Janeiro,Rio de Janeiro,Nsa. Copacabana 690,Smartfit,Rio de Janeiro,Rio de Janeiro,0.596
+Pompeu Loureiro,Smartfit,Rio de Janeiro,Rio de Janeiro,Copacabana Siqueira Campos,Smartfit,Rio de Janeiro,Rio de Janeiro,0.941
+Pompeu Loureiro,Smartfit,Rio de Janeiro,Rio de Janeiro,COPACABANA (RJ),Skyfit,Rio de Janeiro,Rio de Janeiro,0.574
+Voluntários da Pátria II,Smartfit,Rio de Janeiro,Rio de Janeiro,Voluntários da Pátria I,Smartfit,Rio de Janeiro,Rio de Janeiro,0.634
+Nsa. Copacabana 928,Smartfit,Rio de Janeiro,Rio de Janeiro,Nsa. Copacabana 749,Smartfit,Rio de Janeiro,Rio de Janeiro,0.395
+Nsa. Copacabana 928,Smartfit,Rio de Janeiro,Rio de Janeiro,Barata Ribeiro,Smartfit,Rio de Janeiro,Rio de Janeiro,0.647
+Nsa. Copacabana 928,Smartfit,Rio de Janeiro,Rio de Janeiro,Nsa. Copacabana 690,Smartfit,Rio de Janeiro,Rio de Janeiro,0.595
+Nsa. Copacabana 928,Smartfit,Rio de Janeiro,Rio de Janeiro,COPACABANA (RJ),Skyfit,Rio de Janeiro,Rio de Janeiro,0.567
+Nsa. Copacabana 749,Smartfit,Rio de Janeiro,Rio de Janeiro,Barata Ribeiro,Smartfit,Rio de Janeiro,Rio de Janeiro,0.294
+Nsa. Copacabana 749,Smartfit,Rio de Janeiro,Rio de Janeiro,Nsa. Copacabana 690,Smartfit,Rio de Janeiro,Rio de Janeiro,0.203
+Nsa. Copacabana 749,Smartfit,Rio de Janeiro,Rio de Janeiro,Copacabana Siqueira Campos,Smartfit,Rio de Janeiro,Rio de Janeiro,0.659
+Nsa. Copacabana 749,Smartfit,Rio de Janeiro,Rio de Janeiro,Tonelero,Smartfit,Rio de Janeiro,Rio de Janeiro,0.936
+Nsa. Copacabana 749,Smartfit,Rio de Janeiro,Rio de Janeiro,COPACABANA (RJ),Skyfit,Rio de Janeiro,Rio de Janeiro,0.174
+Barata Ribeiro,Smartfit,Rio de Janeiro,Rio de Janeiro,Nsa. Copacabana 690,Smartfit,Rio de Janeiro,Rio de Janeiro,0.154
+Barata Ribeiro,Smartfit,Rio de Janeiro,Rio de Janeiro,Copacabana Siqueira Campos,Smartfit,Rio de Janeiro,Rio de Janeiro,0.391
+Barata Ribeiro,Smartfit,Rio de Janeiro,Rio de Janeiro,Tonelero,Smartfit,Rio de Janeiro,Rio de Janeiro,0.729
+Barata Ribeiro,Smartfit,Rio de Janeiro,Rio de Janeiro,COPACABANA (RJ),Skyfit,Rio de Janeiro,Rio de Janeiro,0.166
+Nsa. Copacabana 690,Smartfit,Rio de Janeiro,Rio de Janeiro,Copacabana Siqueira Campos,Smartfit,Rio de Janeiro,Rio de Janeiro,0.461
+Nsa. Copacabana 690,Smartfit,Rio de Janeiro,Rio de Janeiro,Tonelero,Smartfit,Rio de Janeiro,Rio de Janeiro,0.736
+Nsa. Copacabana 690,Smartfit,Rio de Janeiro,Rio de Janeiro,COPACABANA (RJ),Skyfit,Rio de Janeiro,Rio de Janeiro,0.029
+Voluntários da Pátria I,Smartfit,Rio de Janeiro,Rio de Janeiro,Bambina,Smartfit,Rio de Janeiro,Rio de Janeiro,0.666
+Voluntários da Pátria I,Smartfit,Rio de Janeiro,Rio de Janeiro,Rua da Passagem,Smartfit,Rio de Janeiro,Rio de Janeiro,0.933
+Copacabana Siqueira Campos,Smartfit,Rio de Janeiro,Rio de Janeiro,Tonelero,Smartfit,Rio de Janeiro,Rio de Janeiro,0.389
+Copacabana Siqueira Campos,Smartfit,Rio de Janeiro,Rio de Janeiro,COPACABANA (RJ),Skyfit,Rio de Janeiro,Rio de Janeiro,0.489
+Tonelero,Smartfit,Rio de Janeiro,Rio de Janeiro,COPACABANA (RJ),Skyfit,Rio de Janeiro,Rio de Janeiro,0.764
+Bambina,Smartfit,Rio de Janeiro,Rio de Janeiro,Rua da Passagem,Smartfit,Rio de Janeiro,Rio de Janeiro,0.984
+Rua Riachuelo,Smartfit,Rio de Janeiro,Rio de Janeiro,Praça Passeio Público,Smartfit,Rio de Janeiro,Rio de Janeiro,0.805
+Largo do Machado,Smartfit,Rio de Janeiro,Rio de Janeiro,Marquês de Abrantes,Smartfit,Rio de Janeiro,Rio de Janeiro,0.308
+Largo do Machado,Smartfit,Rio de Janeiro,Rio de Janeiro,Senador Vergueiro,Smartfit,Rio de Janeiro,Rio de Janeiro,0.623
+Marquês de Abrantes,Smartfit,Rio de Janeiro,Rio de Janeiro,Senador Vergueiro,Smartfit,Rio de Janeiro,Rio de Janeiro,0.332
+Uruguaiana,Smartfit,Rio de Janeiro,Rio de Janeiro,Praça Passeio Público,Smartfit,Rio de Janeiro,Rio de Janeiro,0.972
+Uruguaiana,Smartfit,Rio de Janeiro,Rio de Janeiro,Metrô Carioca,Smartfit,Rio de Janeiro,Rio de Janeiro,0.437
+Uruguaiana,Smartfit,Rio de Janeiro,Rio de Janeiro,CENTRO RIO – RIO DE JANEIRO (RJ),Skyfit,Rio de Janeiro,Rio de Janeiro,0.379
+Praça Passeio Público,Smartfit,Rio de Janeiro,Rio de Janeiro,Metrô Carioca,Smartfit,Rio de Janeiro,Rio de Janeiro,0.593
+Praça Passeio Público,Smartfit,Rio de Janeiro,Rio de Janeiro,CENTRO RIO – RIO DE JANEIRO (RJ),Skyfit,Rio de Janeiro,Rio de Janeiro,0.84
+Metrô Carioca,Smartfit,Rio de Janeiro,Rio de Janeiro,CENTRO RIO – RIO DE JANEIRO (RJ),Skyfit,Rio de Janeiro,Rio de Janeiro,0.258
+Mariz e Barros,Smartfit,Niterói,Rio de Janeiro,João Pessoa,Smartfit,Niterói,Rio de Janeiro,0.944
+Bucarein,Smartfit,Joinville,Santa Catarina,Shopping Estação Joinville,Smartfit,Joinville,Santa Catarina,0.609
+Itaborai,Smartfit,Itaboraí,Rio de Janeiro,ITABORAÍ,Panobianco,Itaboraí,Rio de Janeiro,0.364
+Maricá,Smartfit,Maricá,Rio de Janeiro,FLAMENGO – MARICÁ (RJ),Skyfit,Maricá,Rio de Janeiro,0.112
+Divinópolis,Smartfit,Divinópolis,Minas Gerais,CENTRO DIVINÓPOLIS (MG),Skyfit,Divinópolis,Minas Gerais,0.885
+Blumenau,Smartfit,Blumenau,Santa Catarina,ITOUPAVA NORTE,Panobianco,Blumenau,Santa Catarina,0.606
+Quintino,Smartfit,Londrina,Paraná,HUGO CABRAL (PR),Skyfit,Londrina,Paraná,0.451
+Quintino,Smartfit,Londrina,Paraná,LONDRINA CENTRO,Panobianco,Londrina,Paraná,0.471
+Araçatuba,Smartfit,Araçatuba,São Paulo,ARAÇATUBA (SP),Skyfit,Araçatuba,São Paulo,0.703
+Cabo Frio,Smartfit,Cabo Frio,Rio de Janeiro,CABO FRIO,Panobianco,Cabo Frio,Rio de Janeiro,0.786
+Votuporanga,Smartfit,Votuporanga,São Paulo,VOTUPORANGA,Panobianco,Votuporanga,São Paulo,0.545
+Rua Rio de Janeiro,Smartfit,Belo Horizonte,Minas Gerais,Shopping Cidade,Smartfit,Belo Horizonte,Minas Gerais,0.993
+Horto,Smartfit,Belo Horizonte,Minas Gerais,ANDRADAS – BELO HORIZONTE (MG),Skyfit,Belo Horizonte,Minas Gerais,0.888
+Venda Nova,Smartfit,Belo Horizonte,Minas Gerais,ALVARO CAMARGOS – BELO HORIZONTE (MG),Skyfit,Belo Horizonte,Minas Gerais,0.923
+Estação BH,Smartfit,Belo Horizonte,Minas Gerais,ALVARO CAMARGOS – BELO HORIZONTE (MG),Skyfit,Belo Horizonte,Minas Gerais,0.868
+Maringá - Av. Tuiuti,Smartfit,Maringá,Paraná,MARINGÁ,Panobianco,Maringá,Paraná,0.658
+Praia da Costa,Smartfit,Vila Velha,Espírito Santo,Praia da Costa II,Smartfit,Vila Velha,Espírito Santo,0.577
+Reta da Penha,Smartfit,Vitória,Espírito Santo,Praia do Canto,Smartfit,Vitória,Espírito Santo,0.893
+Reta da Penha,Smartfit,Vitória,Espírito Santo,Praia do Canto I,Smartfit,Vitória,Espírito Santo,0.893
+Praia do Canto,Smartfit,Vitória,Espírito Santo,Praia do Canto I,Smartfit,Vitória,Espírito Santo,0.0
+Buriti Shopping,Smartfit,Aparecida de Goiânia,Goiás,NOVA ERA (GO),Skyfit,Aparecida de Goiânia,Goiás,0.572
+Goiânia Alto Bueno,Smartfit,Goiânia,Goiás,GOIÂNIA 3 – AV T-63 (GO),Skyfit,Goiânia,Goiás,0.693
+Jardim Europa,Smartfit,Goiânia,Goiás,Vila Alpes,Smartfit,Goiânia,Goiás,0.708
+Setor Oeste,Smartfit,Goiânia,Goiás,SETOR OESTE,Panobianco,Goiânia,Goiás,0.407
+Recanto das Emas,Smartfit,Brasília,Distrito Federal,BRASÍLIA (DF),Skyfit,Brasília,Distrito Federal,0.214
+Samambaia III,Smartfit,Brasília,Distrito Federal,SAMAMBAIA,Panobianco,Brasília,Distrito Federal,0.363
+Samambaia Norte,Smartfit,Brasília,Distrito Federal,SAMAMBAIA – BRASÍLIA (DF),Skyfit,Brasília,Distrito Federal,0.917
+Guará II Unidade 2,Smartfit,Brasília,Distrito Federal,Guará II Unidade 3,Smartfit,Brasília,Distrito Federal,0.666
+Manhattan Shopping,Smartfit,Brasília,Distrito Federal,Águas Claras I,Smartfit,Brasília,Distrito Federal,0.554
+Manhattan Shopping,Smartfit,Brasília,Distrito Federal,Águas Claras V,Smartfit,Brasília,Distrito Federal,0.676
+Águas Claras VI - Rua Manacá,Smartfit,Brasília,Distrito Federal,Águas Claras I,Smartfit,Brasília,Distrito Federal,0.927
+Águas Claras VI - Rua Manacá,Smartfit,Brasília,Distrito Federal,Águas Claras V,Smartfit,Brasília,Distrito Federal,0.857
+Águas Claras I,Smartfit,Brasília,Distrito Federal,Águas Claras V,Smartfit,Brasília,Distrito Federal,0.122
+511 Sul,Smartfit,Brasília,Distrito Federal,509 Sul,Smartfit,Brasília,Distrito Federal,0.607
+511 Sul,Smartfit,Brasília,Distrito Federal,Dom Bosco,Smartfit,Brasília,Federal District,0.936
+Águas Claras IV,Smartfit,Brasília,Distrito Federal,DF Plaza Shopping,Smartfit,Brasília,Distrito Federal,0.348
+509 Sul,Smartfit,Brasília,Distrito Federal,Dom Bosco,Smartfit,Brasília,Federal District,0.794
+Dia-a-Dia Rua 4A,Smartfit,Brasília,Distrito Federal,Taguatinga Norte,Smartfit,Brasília,Distrito Federal,0.688
+Taguatinga Norte,Smartfit,Brasília,Distrito Federal,Brazlândia,Smartfit,Brasília,Distrito Federal,0.436
+Sudoeste I,Smartfit,Brasília,Distrito Federal,SIG,Smartfit,Brasília,Distrito Federal,0.115
+Ceilandia Mall,Smartfit,Brasília,Distrito Federal,Ceilândia Norte,Smartfit,Brasília,Distrito Federal,0.911
+Ceilândia Norte,Smartfit,Brasília,Distrito Federal,CEILÂNDIA – BRASÍLIA (DF),Skyfit,Brasília,Distrito Federal,0.948
+Assaí Asa Norte,Smartfit,Brasília,Distrito Federal,Boulevard Brasília,Smartfit,Brasília,Distrito Federal,0.66
+Sobradinho Central,Smartfit,Brasília,Distrito Federal,PLANALTINA – BRASÍLIA (DF),Skyfit,Brasília,Distrito Federal,0.0
+Júlio de Castilho,Smartfit,Campo Grande,Mato Grosso do Sul,TAMANDARÉ – CAMPO GRANDE (MS),Skyfit,Campo Grande,Mato Grosso do Sul,0.791
+Porto Seguro,Smartfit,Porto Seguro,State of Bahia,PORTO SEGURO (BA),Skyfit,Porto Seguro,State of Bahia,0.0
+CPA II,Smartfit,Cuiabá,Mato Grosso,CPA – CUIABÁ (MT),Skyfit,Cuiabá,Mato Grosso,0.132
+Federação,Smartfit,Salvador,Bahia,SALVADOR (BA),Skyfit,Salvador,Bahia,0.931
+Assaí Vasco da Gama,Smartfit,Salvador,Bahia,Brotas,Smartfit,Salvador,Bahia,0.795
+Brotas,Smartfit,Salvador,Bahia,Avenida Dom João VI,Smartfit,Salvador,Bahia,0.826
+Avenida Dom João VI,Smartfit,Salvador,Bahia,SALVADOR (BA),Skyfit,Salvador,Bahia,0.825
+Pituba,Smartfit,Salvador,Bahia,PITUBA (BA),Skyfit,Salvador,Bahia,0.216
+Pernambués,Smartfit,Salvador,Bahia,Cabula,Smartfit,Salvador,Bahia,0.741
+Parque Shopping Bahia,Smartfit,Lauro de Freitas,Bahia,LAURO DE FREITAS (BA),Skyfit,Lauro de Freitas,Bahia,0.762
+Atakarejo Simões Filho,Smartfit,Simões Filho,Bahia,SIMÕES FILHO (BA),Skyfit,Simões Filho,Bahia,0.052
+Petrolina,Smartfit,Petrolina,Pernambuco,PETROLINA,Panobianco,Petrolina,Pernambuco,0.937
+Shopping Guararapes,Smartfit,Jaboatão dos Guararapes,Pernambuco,PRAZERES – JABOATÃO DOS GUARARAPES (PE),Skyfit,Jaboatão dos Guararapes,Pernambuco,0.717
+Setúbal,Smartfit,Recife,Pernambuco,AVENIDA NORTE – RECIFE (PE),Skyfit,Recife,Pernambuco,0.728
+Conselheiro Aguiar,Smartfit,Recife,Pernambuco,Shopping Recife,Smartfit,Recife,Pernambuco,0.957
+Conselheiro Aguiar,Smartfit,Recife,Pernambuco,BOA VIAGEM – RECIFE (PE),Skyfit,Recife,Pernambuco,0.573
+Conselheiro Aguiar,Smartfit,Recife,Pernambuco,SELECT GYM BY PANOBIANCO,Panobianco,Recife,Pernambuco,0.146
+Shopping Recife,Smartfit,Recife,Pernambuco,Mix Mateus Boa Viagem,Smartfit,Recife,Pernambuco,0.49
+Shopping Recife,Smartfit,Recife,Pernambuco,SELECT GYM BY PANOBIANCO,Panobianco,Recife,Pernambuco,0.811
+Boa Vista II,Smartfit,Recife,Pernambuco,Boa Vista,Smartfit,Recife,Pernambuco,0.303
+Torre,Smartfit,Recife,Pernambuco,Desembargador Góis Cavalcante,Smartfit,Recife,Pernambuco,0.859
+Torre,Smartfit,Recife,Pernambuco,Aflitos,Smartfit,Recife,Pernambuco,0.907
+Patteo Olinda Shopping,Smartfit,Olinda,Pernambuco,OLINDA (PE),Skyfit,Olinda,Pernambuco,0.573
+Av. Roberto Freire,Smartfit,Natal,Rio Grande do Norte,Capim Macio II,Smartfit,Natal,Rio Grande do Norte,0.937
+Lagoa Nova,Smartfit,Natal,Rio Grande do Norte,Midway,Smartfit,Natal,Rio Grande do Norte,0.827
+Igapó,Smartfit,Natal,Rio Grande do Norte,IGAPÓ,Panobianco,Natal,Rio Grande do Norte,0.496
+Shopping Pitaguary,Smartfit,Maracanaú,Ceará,MARACANAÚ (CE),Skyfit,Maracanaú,Ceará,0.282
+Manhattan Center III,Smartfit,São Luís,Maranhão,Holandeses,Smartfit,São Luís,Maranhão,0.989
+Manhattan Center III,Smartfit,São Luís,Maranhão,Holandeses Barramar,Smartfit,São Luís,Maranhão,0.946
+Manhattan Center III,Smartfit,São Luís,Maranhão,CALHAU – SÃO LUÍS (MA),Skyfit,São Luís,Maranhão,0.954
+Parnaíba,Smartfit,Parnaíba,Piauí,PARNAÍBA (PI),Skyfit,Parnaíba,Piauí,0.297
+Holandeses,Smartfit,São Luís,Maranhão,Holandeses Barramar,Smartfit,São Luís,Maranhão,0.319
+Holandeses,Smartfit,São Luís,Maranhão,CALHAU – SÃO LUÍS (MA),Skyfit,São Luís,Maranhão,0.777
+Holandeses Barramar,Smartfit,São Luís,Maranhão,CALHAU – SÃO LUÍS (MA),Skyfit,São Luís,Maranhão,0.464
+North Shopping,Smartfit,Fortaleza,Ceará,Cometa Presidente Kennedy,Smartfit,Fortaleza,Ceará,0.666
+North Shopping,Smartfit,Fortaleza,Ceará,RioMar Kennedy,Smartfit,Fortaleza,Ceará,0.966
+Cometa Presidente Kennedy,Smartfit,Fortaleza,Ceará,RioMar Kennedy,Smartfit,Fortaleza,Ceará,0.45
+Dionísio Torres,Smartfit,Fortaleza,Ceará,Barbosa de Freitas,Smartfit,Fortaleza,Ceará,0.982
+Dionísio Torres,Smartfit,Fortaleza,Ceará,Santos Dumont,Smartfit,Fortaleza,Ceará,0.957
+Vicente Linhares,Smartfit,Fortaleza,Ceará,Barbosa de Freitas,Smartfit,Fortaleza,Ceará,0.855
+Barbosa de Freitas,Smartfit,Fortaleza,Ceará,Santos Dumont,Smartfit,Fortaleza,Ceará,0.969
+Barbosa de Freitas,Smartfit,Fortaleza,Ceará,Meireles,Smartfit,Fortaleza,Ceará,0.937
+Santos Dumont,Smartfit,Fortaleza,Ceará,Papicu,Smartfit,Fortaleza,Ceará,0.987
+Santos Dumont,Smartfit,Fortaleza,Ceará,Meireles,Smartfit,Fortaleza,Ceará,0.919
+José Lourenço,Smartfit,Fortaleza,Ceará,Iracema,Smartfit,Fortaleza,Ceará,0.88
+Meireles,Smartfit,Fortaleza,Ceará,Mucuripe,Smartfit,Fortaleza,Ceará,0.964
+Dr. Freitas,Smartfit,Belém,Pará,PEDREIRA – BELÉM (PA),Skyfit,Belém,Pará,0.945
+Shopping Cidade Leste,Smartfit,Manaus,Amazonas,Assaí Manaus Grande Circular,Smartfit,Manaus,Amazonas,0.811
+Avenida Torquato Tapajós,Smartfit,Manaus,Amazonas,Shopping Manaus Via Norte,Smartfit,Manaus,Amazonas,0.467
+Ville Roy,Smartfit,Boa Vista,Roraima,VILLE ROY – BOA VISTA (RR),Skyfit,Boa Vista,Roraima,0.178
+AMERICANA (SP),Skyfit,Americana,São Paulo,AMERICANA II,Panobianco,Americana,São Paulo,0.576
+AMÉRICO BRASILIENSE (SP),Skyfit,Américo Brasiliense,São Paulo,ARARAQUARA CENTRO,Panobianco,Américo Brasiliense,São Paulo,0.995
+AMOREIRAS – CAMPINAS (SP),Skyfit,Campinas,São Paulo,PQ INDUSTRIAL,Panobianco,Campinas,São Paulo,0.616
+AMPARO (SP),Skyfit,Amparo,São Paulo,AMPARO,Panobianco,Amparo,São Paulo,0.829
+ANDRADE NEVES – CAMPINAS (SP),Skyfit,Campinas,São Paulo,CASTELO,Panobianco,Campinas,São Paulo,0.716
+AVIAÇÃO – PRAIA GRANDE (SP),Skyfit,Praia Grande,São Paulo,AVIAÇÃO,Panobianco,Praia Grande,São Paulo,0.252
+BOA VIAGEM – RECIFE (PE),Skyfit,Recife,Pernambuco,SELECT GYM BY PANOBIANCO,Panobianco,Recife,Pernambuco,0.645
+BRAGANÇA PAULISTA (SP),Skyfit,Bragança Paulista,São Paulo,BRAGANÇA PAULISTA,Panobianco,Bragança Paulista,São Paulo,0.922
+CAJAMAR (SP),Skyfit,Cajamar,São Paulo,CAJAMAR,Panobianco,Cajamar,São Paulo,0.794
+CAMINHO DO MAR – SÃO BERNARDO DO CAMPO (SP),Skyfit,São Bernardo do Campo,São Paulo,TAQUARITINGA,Panobianco,São Bernardo do Campo,São Paulo,0.931
+CAMPINAS – OURO VERDE (SP),Skyfit,Campinas,São Paulo,SPAZIO OURO VERDE,Panobianco,Campinas,São Paulo,0.0
+CAMPINAS – TAQUARAL (SP),Skyfit,Campinas,São Paulo,TAQUARAL,Panobianco,Campinas,São Paulo,0.961
+CAMPINAS – VILA UNIÃO (SP),Skyfit,Campinas,São Paulo,RUY RODRIGUES,Panobianco,Campinas,São Paulo,0.991
+CAMPO GRANDE – CAMPINAS (SP),Skyfit,Campinas,São Paulo,CAMPO GRANDE II,Panobianco,Campinas,São Paulo,0.426
+CAMPO LIMPO PAULISTA (SP),Skyfit,Campo Limpo Paulista,São Paulo,CAMPO LIMPO PAULISTA,Panobianco,Campo Limpo Paulista,São Paulo,0.59
+CAMPO LIMPO – SÃO PAULO (SP),Skyfit,São Paulo,São Paulo,CARLOS LACERDA,Panobianco,São Paulo,São Paulo,0.357
+CANDEIAS – JABOATÃO DOS GUARARAPES (PE),Skyfit,Jaboatão dos Guararapes,Pernambuco,PIEDADE – JABOATÃO DOS GUARARAPES (PE),Skyfit,Jaboatão dos Guararapes,Pernambuco,0.804
+CANTO DO FORTE – PRAIA GRANDE (SP),Skyfit,Praia Grande,São Paulo,PARIS,Panobianco,Praia Grande,São Paulo,0.097
+CARAPICUÍBA – ARISTON (SP),Skyfit,Carapicuíba,São Paulo,VILA LURDES,Panobianco,Carapicuíba,São Paulo,0.872
+CISPER – SÃO PAULO (SP),Skyfit,São Paulo,São Paulo,BOTURUSSU,Panobianco,São Paulo,São Paulo,0.931
+COSMÓPOLIS (SP),Skyfit,Cosmópolis,São Paulo,COSMÓPOLIS,Panobianco,Cosmópolis,São Paulo,0.684
+COSMÓPOLIS (SP),Skyfit,Cosmópolis,São Paulo,ROSAMELIA,Panobianco,Cosmópolis,São Paulo,0.964
+CT SALIM (SP),Skyfit,São Paulo,São Paulo,ANÁLIA FRANCO,Panobianco,São Paulo,São Paulo,0.212
+EMBU DAS ARTES (SP),Skyfit,Embu das Artes,São Paulo,EMBU DAS ARTES,Panobianco,Embu das Artes,São Paulo,0.09
+EMBU DAS ARTES (SP),Skyfit,Embu das Artes,São Paulo,VAZAME,Panobianco,Embu das Artes,São Paulo,0.899
+ESPÍRITO SANTO DO PINHAL (SP),Skyfit,Espírito Santo do Pinhal,São Paulo,PINHAL,Panobianco,Espírito Santo do Pinhal,São Paulo,0.453
+ESTAÇÃO GRAMADO – EMBU DAS ARTES (SP),Skyfit,Embu das Artes,São Paulo,EMBU DAS ARTES CENTRO,Panobianco,Embu das Artes,São Paulo,0.86
+ESTRADA DOS ROMEIROS – BARUERI (SP),Skyfit,Barueri,São Paulo,CAPITÃO FRANCISCO,Panobianco,Barueri,São Paulo,0.199
+FRANCISCO MORATO (SP),Skyfit,Francisco Morato,São Paulo,MORATO CENTRO,Panobianco,Francisco Morato,São Paulo,0.706
+HUGO CABRAL (PR),Skyfit,Londrina,Paraná,LONDRINA CENTRO,Panobianco,Londrina,Paraná,0.216
+IBITINGA (SP),Skyfit,Ibitinga,São Paulo,IBITINGA,Panobianco,Ibitinga,São Paulo,0.524
+INDAIATUBA (SP),Skyfit,Indaiatuba,São Paulo,JD HUBERT,Panobianco,Indaiatuba,São Paulo,0.707
+ITAIM PAULISTA – SÃO PAULO (SP),Skyfit,,,TIBURCIO,Panobianco,São Paulo,São Paulo,0.417
+ITAQUÁ (SP),Skyfit,Itaquaquecetuba,São Paulo,MARECHAL TITO,Panobianco,São Paulo,São Paulo,0.757
+ITATIBA (SP),Skyfit,Itatiba,São Paulo,ITATIBA,Panobianco,Itatiba,São Paulo,0.493
+ITAPIRA (SP),Skyfit,Itapira,São Paulo,ITAPIRA,Panobianco,Itapira,São Paulo,0.134
+ITÚ – SÃO VICENTE (SP),Skyfit,Itu,São Paulo,ITU,Panobianco,Itu,São Paulo,0.929
+JACU PÊSSEGO – SÃO PAULO (SP),Skyfit,São Paulo,São Paulo,ARENA,Panobianco,São Paulo,São Paulo,0.844
+JATOBÁ (SP),Skyfit,Sumaré,São Paulo,SUMARÉ (SP),Skyfit,Sumaré,São Paulo,0.191
+JARDIM ANGÉLICA – CARAPICUÍBA (SP),Skyfit,Carapicuíba,São Paulo,MARIA BEATRIZ,Panobianco,Carapicuíba,São Paulo,0.623
+JARDIM SÃO PAULO – RIO CLARO (SP),Skyfit,Rio Claro,São Paulo,SABURÔ AKAMINE,Panobianco,Rio Claro,São Paulo,0.331
+LEME (SP),Skyfit,Leme,São Paulo,LEME,Panobianco,Leme,São Paulo,0.962
+MANSÕES – CAMPINAS (SP),Skyfit,Campinas,São Paulo,CHÁCARA PRIMAVERA,Panobianco,Campinas,São Paulo,0.947
+METRÔ CAPÃO – CAPÃO REDONDO (SP),Skyfit,São Paulo,São Paulo,CAPÃO REDONDO,Panobianco,São Paulo,São Paulo,0.999
+MOGI DAS CRUZES (SP),Skyfit,Mogi das Cruzes,São Paulo,ALTO IPIRANGA,Panobianco,Mogi das Cruzes,São Paulo,0.556
+MOGI GUAÇU (SP),Skyfit,Mogi Guaçu,São Paulo,ROLDÃO MOGI GUAÇU,Panobianco,Mogi Guaçu,São Paulo,0.621
+MOGI MIRIM (SP),Skyfit,Mogi Mirim,São Paulo,MOGI MIRIM CENTRO,Panobianco,Mogi Mirim,São Paulo,0.854
+MONTE MOR (SP),Skyfit,Monte Mor,São Paulo,JARDIM PAULISTA,Panobianco,Monte Mor,São Paulo,0.046
+NOVA EUROPA (SP),Skyfit,Campinas,São Paulo,NOVA EUROPA,Panobianco,Campinas,São Paulo,0.429
+NOVA ODESSA (SP),Skyfit,Nova Odessa,São Paulo,GREEN VILLAGE / SP,Panobianco,Nova Odessa,São Paulo,0.981
+ÔNIX – OSASCO (SP),Skyfit,Osasco,São Paulo,MEDICI,Panobianco,Osasco,São Paulo,0.883
+PADRE ANCHIETA – CAMPINAS (SP),Skyfit,Campinas,São Paulo,PADRE ANCHIETA,Panobianco,Campinas,São Paulo,0.704
+PIRASSUNUNGA (SP),Skyfit,Pirassununga,São Paulo,PIRASSUNUNGA,Panobianco,Pirassununga,São Paulo,0.767
+PRAÇA DA SÉ (SP),Skyfit,São Paulo,São Paulo,REPÚBLICA,Panobianco,São Paulo,São Paulo,0.96
+PONTE GRANDE – GUARULHOS (SP),Skyfit,Guarulhos,São Paulo,GUARULHOS PTE. GRANDE,Panobianco,Guarulhos,São Paulo,0.26
+RAPOSO TAVARES – PIRACICABA (SP),Skyfit,Piracicaba,São Paulo,PAULICÉIA PIRACICABA,Panobianco,Piracicaba,São Paulo,0.996
+RIBEIRÃO PRETO (SP),Skyfit,Ribeirão Preto,São Paulo,SAUDADE,Panobianco,Ribeirão Preto,São Paulo,0.686
+ROSOLEM – HORTOLÂNDIA (SP),Skyfit,Hortolândia,São Paulo,ROSOLÉM,Panobianco,Hortolândia,São Paulo,0.179
+SANTA TEREZINHA (SP),Skyfit,Piracicaba,São Paulo,SANTA TEREZINHA,Panobianco,Piracicaba,São Paulo,0.548
+SÃO JOSÉ DOS CAMPOS – PALMEIRAS DE SÃO JOSÉ (SP),Skyfit,São José dos Campos,São Paulo,SJC FERRADURA,Panobianco,São José dos Campos,São Paulo,0.982
+SÃO JOSÉ DOS CAMPOS – PALMEIRAS DE SÃO JOSÉ (SP),Skyfit,São José dos Campos,São Paulo,SJC MORUMBI,Panobianco,São José dos Campos,São Paulo,0.778
+SÃO VITO – AMERICANA (SP),Skyfit,Americana,São Paulo,SÃO VITO,Panobianco,Americana,São Paulo,0.946
+SERRA DE PARIMA – ITAPEVI (SP),Skyfit,Itapevi,São Paulo,ROSEMARY,Panobianco,Itapevi,São Paulo,0.325
+SUZANO (SP),Skyfit,Suzano,São Paulo,SUZANO – JARDIM DONA BENTA,Panobianco,Suzano,São Paulo,0.304
+TATUAPÉ (SP),Skyfit,São Paulo,São Paulo,CARRÃO,Panobianco,São Paulo,São Paulo,0.715
+UTINGA (SP),Skyfit,Santo André,São Paulo,BARCELONA,Panobianco,São Caetano do Sul,São Paulo,0.9
+VÁRZEA PAULISTA (SP),Skyfit,Várzea Paulista,São Paulo,VÁRZEA PACAEMBU,Panobianco,Várzea Paulista,São Paulo,0.845
+VICENTE DE CARVALHO – GUARUJÁ (SP),Skyfit,Guarujá,São Paulo,VICENTE DE CARVALHO,Panobianco,Guarujá,São Paulo,0.591
+VILA MARIETA – CAMPINAS (SP),Skyfit,Campinas,São Paulo,WASHINGTON LUIZ,Panobianco,Campinas,São Paulo,0.767
+VILA NOVA – SOROCABA (SP),Skyfit,Sorocaba,São Paulo,SANTOS DUMONT SOROCABA,Panobianco,Sorocaba,São Paulo,0.406
+VILA ROMANA – BRAGANÇA PAULISTA (SP),Skyfit,São Paulo,State of São Paulo,LAPA,Panobianco,São Paulo,São Paulo,0.744
+VINHEDO (SP),Skyfit,Vinhedo,São Paulo,VINHEDO,Panobianco,Vinhedo,São Paulo,0.338
+VISTA ALEGRE – BAURU (SP),Skyfit,Bauru,São Paulo,VISTA ALEGRE,Panobianco,Bauru,São Paulo,0.778
+ARTHUR ALVIM,Panobianco,São Paulo,São Paulo,NHOCUNÉ,Panobianco,São Paulo,São Paulo,0.833
+BELÉM,Panobianco,,,BELENZINHO,Panobianco,São Paulo,São Paulo,0.015
+BRASILÂNDIA,Panobianco,Rio Grande da Serra,São Paulo,CRUZEIRO DO SUL,Panobianco,Rio Grande da Serra,São Paulo,0.0
+BRASILÂNDIA,Panobianco,Rio Grande da Serra,São Paulo,GUARARAPES,Panobianco,Rio Grande da Serra,São Paulo,0.0
+BRASILÂNDIA,Panobianco,Rio Grande da Serra,São Paulo,ITAJAÍ – SC,Panobianco,Rio Grande da Serra,São Paulo,0.0
+BRASILÂNDIA,Panobianco,Rio Grande da Serra,São Paulo,PARANAVAÍ – PR,Panobianco,Rio Grande da Serra,São Paulo,0.0
+CARLOS LACERDA,Panobianco,São Paulo,São Paulo,TABOÃO DA SERRA,Panobianco,Taboão da Serra,São Paulo,0.934
+CAXIAS RJ,Panobianco,Limeira,São Paulo,CHÁCARA ANTONIETA,Panobianco,Limeira,São Paulo,0.0
+CAXIAS RJ,Panobianco,Limeira,São Paulo,RECANTO FORTUNA,Panobianco,Limeira,São Paulo,0.0
+CHÁCARA ANTONIETA,Panobianco,Limeira,São Paulo,RECANTO FORTUNA,Panobianco,Limeira,São Paulo,0.0
+COSMÓPOLIS,Panobianco,Cosmópolis,São Paulo,ROSAMELIA,Panobianco,Cosmópolis,São Paulo,0.89
+CRUZEIRO DO SUL,Panobianco,Rio Grande da Serra,São Paulo,GUARARAPES,Panobianco,Rio Grande da Serra,São Paulo,0.0
+CRUZEIRO DO SUL,Panobianco,Rio Grande da Serra,São Paulo,ITAJAÍ – SC,Panobianco,Rio Grande da Serra,São Paulo,0.0
+CRUZEIRO DO SUL,Panobianco,Rio Grande da Serra,São Paulo,PARANAVAÍ – PR,Panobianco,Rio Grande da Serra,São Paulo,0.0
+EMBU DAS ARTES,Panobianco,Embu das Artes,São Paulo,VAZAME,Panobianco,Embu das Artes,São Paulo,0.914
+GUARARAPES,Panobianco,Rio Grande da Serra,São Paulo,ITAJAÍ – SC,Panobianco,Rio Grande da Serra,São Paulo,0.0
+GUARARAPES,Panobianco,Rio Grande da Serra,São Paulo,PARANAVAÍ – PR,Panobianco,Rio Grande da Serra,São Paulo,0.0
+ITAJAÍ – SC,Panobianco,Rio Grande da Serra,São Paulo,PARANAVAÍ – PR,Panobianco,Rio Grande da Serra,São Paulo,0.0
+PARQUE INDEPEDÊNCIA,Panobianco,São Paulo,São Paulo,VALO VELHO,Panobianco,São Paulo,São Paulo,0.811
+PAULISTA VALINHOS,Panobianco,Valinhos,São Paulo,SERRARIA,Panobianco,Valinhos,São Paulo,0.796
+PERUS,Panobianco,São Paulo,São Paulo,PERUS RECANTO,Panobianco,São Paulo,São Paulo,0.847
+SÃO CAETANO (JARDIM SÃO CAETANO),Panobianco,São Caetano do Sul,São Paulo,TAQUARITINGA,Panobianco,São Bernardo do Campo,São Paulo,0.609
+SÃO RAFAEL – ZL / SP,Panobianco,São Paulo,São Paulo,SÃO RAFAEL ZL,Panobianco,São Paulo,São Paulo,0.0

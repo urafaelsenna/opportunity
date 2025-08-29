@@ -1,0 +1,2180 @@
+id,rede,nome,latitude,longitude,estado_cdn,academias_proximas_1km
+1,Bluefit,Flamengo,-22.9341605,-43.1757575,Rio de Janeiro,4
+2,Bluefit,Saens Peña,-22.9251951,-43.2346116,Rio de Janeiro,6
+3,Bluefit,Nilópolis,-22.8097381,-43.4166488,Rio de Janeiro,1
+4,Bluefit,Recreio,-23.0173942,-43.4762191,Rio de Janeiro,2
+5,Bluefit,Juiz de Fora - São Mateus,-21.7783807,-43.3587724,Minas Gerais,0
+6,Bluefit,São José dos Campos – Vale Sul,-23.2166775,-45.8926807,São Paulo,3
+7,Bluefit,São José dos Campos - Aquarius,-23.2182487,-45.9099854,São Paulo,1
+8,Bluefit,Mogi das Cruzes,-23.512176,-46.1809037,São Paulo,1
+9,Bluefit,Savassi Mall,-19.9393108,-43.9387744,Minas Gerais,4
+10,Bluefit,Guarujá,-23.9822973,-46.2301588,São Paulo,0
+11,Bluefit,Pimentas,-23.455774,-46.4093518,São Paulo,0
+12,Bluefit,Palmares,-19.8697195,-43.9283746,Minas Gerais,2
+13,Bluefit,Santos 3,-23.9717678,-46.3106119,São Paulo,1
+14,Bluefit,Santos 1,-23.9680276,-46.3234583,São Paulo,2
+15,Bluefit,Santos 2,-23.9686464,-46.3352031,São Paulo,2
+16,Bluefit,Shopping Pátio Iporanga,-23.9648313,-46.332394,São Paulo,4
+17,Bluefit,Tambores,-23.951428,-46.3740539,São Paulo,1
+18,Bluefit,São Vicente,-23.9642138,-46.3831424,São Paulo,2
+19,Bluefit,Aricanduva,-23.5664716,-46.5120321,São Paulo,2
+20,Bluefit,Emílio Ribas,-23.4662968,-46.5447634,São Paulo,0
+21,Bluefit,Vila Galvão,-23.4515967,-46.5513459,São Paulo,1
+22,Bluefit,Carijós,-23.6787933,-46.5208113,São Paulo,0
+23,Bluefit,Praia Grande,-24.008532,-46.4140629,São Paulo,4
+24,Bluefit,Canto do Forte,-24.0045113,-46.4085648,São Paulo,5
+25,Bluefit,Anália Franco,-23.5511757,-46.5621396,São Paulo,2
+26,Bluefit,Fernando Prestes,-23.6630751,-46.5303661,São Paulo,1
+27,Bluefit,São Caetano,-23.6269381,-46.5483081,São Paulo,2
+28,Bluefit,Atlântica,-23.668537,-46.5519783,São Paulo,1
+29,Bluefit,Marechal,-23.7076427,-46.5512188,São Paulo,2
+30,Bluefit,Vila Guilherme,-23.5034171,-46.6034467,São Paulo,0
+31,Bluefit,Mooca 1,-23.5553674,-46.6005944,São Paulo,0
+32,Bluefit,Mooca 2,-23.5676812,-46.5968317,São Paulo,0
+33,Bluefit,Tremembé,-23.4575441,-46.6177702,São Paulo,1
+34,Bluefit,Demarchi,-23.7348556,-46.5534224,São Paulo,0
+35,Bluefit,Santana,-23.489662,-46.6240806,São Paulo,2
+36,Bluefit,Tancredo,-23.6057865,-46.6054633,São Paulo,1
+37,Bluefit,Vila das Mercês,-23.6273213,-46.6065608,São Paulo,0
+38,Bluefit,Liviero,-23.6476154,-46.5966904,São Paulo,0
+39,Bluefit,Alfredo Pujol,-23.5004943,-46.6376886,São Paulo,1
+40,Bluefit,Centro 2,-23.5414964,-46.642129,São Paulo,4
+41,Bluefit,Maria Antônia,-23.5468677,-46.6501304,São Paulo,5
+42,Bluefit,Centro 1,-23.5514384,-46.6447988,São Paulo,5
+43,Bluefit,Diadema,-23.6928607,-46.6210102,São Paulo,2
+44,Bluefit,Perdizes,-23.535556,-46.6650554,São Paulo,2
+45,Bluefit,Frei Caneca,-23.5570181,-46.657105,São Paulo,7
+46,Bluefit,Saúde,-23.6239505,-46.6402609,São Paulo,2
+47,Bluefit,Freguesia do Ó,-23.504273,-46.6758439,São Paulo,0
+48,Bluefit,Pinheiros,-23.5582634,-46.6793196,São Paulo,1
+49,Bluefit,Hélio Pellegrino,-23.5987905,-46.6723536,São Paulo,4
+50,Bluefit,Vila Olímpia,-23.5986019,-46.6851743,São Paulo,2
+51,Bluefit,Brooklin,-23.6199797,-46.6950318,São Paulo,1
+52,Bluefit,Verbo Divino,-23.633183,-46.7051783,São Paulo,0
+53,Bluefit,Leopoldina,-23.5300911,-46.7312631,São Paulo,2
+54,Bluefit,Butantã,-23.5845477,-46.7190979,São Paulo,2
+55,Bluefit,Shopping Continental,-23.5474428,-46.7570686,São Paulo,1
+56,Bluefit,Portal do Morumbi,-23.6186609,-46.7411247,São Paulo,0
+57,Bluefit,Osasco,-23.5381745,-46.7733577,São Paulo,3
+58,Bluefit,KM 18,-23.5273893,-46.7993643,São Paulo,2
+59,Bluefit,Novo Osasco,-23.5728624,-46.8043632,São Paulo,1
+60,Bluefit,Tamboré,-23.488682,-46.8333063,São Paulo,0
+61,Bluefit,XV de Novembro,-23.1877164,-46.8788165,São Paulo,1
+62,Bluefit,Carapicuíba,-23.5530637,-46.8374162,São Paulo,1
+63,Bluefit,Granja Viana,-23.582666,-46.837736,São Paulo,1
+64,Bluefit,Av. 9 de Julho,-23.2031759,-46.8934778,São Paulo,1
+65,Bluefit,Barueri,-23.5061707,-46.8676243,São Paulo,0
+66,Bluefit,Cotia,-23.609122,-46.9234293,São Paulo,1
+67,Bluefit,Shopping Central Park,-23.6428329,-46.9915545,São Paulo,0
+68,Bluefit,Sumaré,-22.8235251,-47.2695401,São Paulo,3
+69,Bluefit,Itu,-23.2616384,-47.2949746,São Paulo,0
+70,Bluefit,Av. Moreira César,-23.5043832,-47.4656316,São Paulo,1
+71,Bluefit,Campolim 1,-23.5388603,-47.4681283,São Paulo,1
+72,Bluefit,Piracicaba,-22.7269227,-47.623093,São Paulo,0
+73,Bluefit,Piracicaba II - Vila Rezende,-22.7154412,-47.6577161,São Paulo,0
+74,Bluefit,São Carlos,-22.0191447,-47.9096561,São Paulo,1
+75,Bluefit,Biagi,-21.2060125,-47.7922616,São Paulo,0
+76,Bluefit,Apogeo,-21.1968576,-47.8081684,São Paulo,2
+77,Bluefit,Nova Aliança,-21.217934,-47.81657,São Paulo,0
+78,Bluefit,Campos Elíseos - Pré Venda,-21.1602402,-47.8139907,São Paulo,1
+79,Bluefit,Araxá,-19.6154279,-46.9387972,Minas Gerais,0
+80,Bluefit,Botucatu,-22.8812294,-48.4440489,São Paulo,0
+81,Bluefit,Patos de Minas,-18.58126,-46.515524,Minas Gerais,0
+82,Bluefit,Uberaba Centro,-19.7515218,-47.9260234,Minas Gerais,0
+83,Bluefit,Bauru,-22.3491862,-49.0534217,São Paulo,1
+84,Bluefit,Jockey Plaza,-25.4278269,-49.2151274,Paraná,0
+85,Bluefit,Jardim das Américas,-25.4660731,-49.2216388,Paraná,0
+86,Bluefit,Mueller,-25.4233736,-49.2705198,Paraná,0
+87,Bluefit,Andaló,-20.8166816,-49.3813891,São Paulo,1
+88,Bluefit,Curitiba - Centro,-25.4378722,-49.2787963,Paraná,3
+89,Bluefit,Batel,-25.443978,-49.283774,Paraná,3
+90,Bluefit,Champagnat,-25.4339281,-49.3025294,Paraná,0
+91,Bluefit,Portão,-25.4703668,-49.2939246,Paraná,1
+92,Bluefit,Palladium,-25.477853,-49.2907974,Paraná,1
+93,Bluefit,Joinville,-26.3072542,-48.8447495,Santa Catarina,1
+94,Bluefit,Uberlândia,-18.9213277,-48.2684782,Minas Gerais,0
+95,Bluefit,Marília,-22.2155073,-49.9482651,São Paulo,1
+96,Bluefit,Campo Largo,-25.458235,-49.5271765,Paraná,0
+97,Bluefit,Catalão,-18.169104,-47.9316939,Goiás,0
+98,Bluefit,Ponta Grossa,-25.0948446,-50.1520549,Paraná,0
+99,Bluefit,Londrina Norte Shopping,-23.2860351,-51.1521686,Paraná,0
+100,Bluefit,Presidente Prudente,-22.1374179,-51.3962287,São Paulo,0
+101,Bluefit,Maringá,-23.410786,-51.9399471,Paraná,0
+102,Bluefit,Valparaíso,-16.0749605,-48.0035314,Goiás,0
+103,Bluefit,Santa Maria,-19.972642,-44.0476379,Minas Gerais,0
+104,Bluefit,Jardim Botânico,-15.8837688,-47.8154548,Distrito Federal,0
+105,Bluefit,Vitória da Conquista,-14.8610701,-40.8288605,Bahia,0
+106,Bluefit,Gama,-15.708703,-47.9143752,Distrito Federal,3
+107,Bluefit,Formosa,-15.5428473,-47.3403362,Goiás,1
+108,Bluefit,Lago,-15.8263204,-47.8876107,Distrito Federal,1
+109,Bluefit,Paranoá,-15.7495747,-47.819983,Distrito Federal,0
+110,Bluefit,Riacho Fundo,-15.7787864,-48.0005271,Distrito Federal,0
+111,Bluefit,513 SUL,-15.8271753,-47.9101552,Distrito Federal,2
+112,Bluefit,502 Sul,-15.8015894,-47.8943275,Distrito Federal,1
+113,Bluefit,Guará,-15.8377593,-47.9792583,Distrito Federal,2
+114,Bluefit,Asa Norte,-15.7878585,-47.8841141,Distrito Federal,1
+115,Bluefit,Park Sul,-15.8220418,-47.953608,Distrito Federal,0
+116,Bluefit,Sudoeste,-15.8338605,-48.0836135,Distrito Federal,0
+117,Bluefit,Águas Claras,-15.8367103,-48.0329059,Distrito Federal,3
+118,Bluefit,EPTG,-15.8093649,-47.9857228,Distrito Federal,0
+119,Bluefit,Planaltina,-15.708703,-47.9143752,Distrito Federal,3
+120,Bluefit,Águas Claras II,-15.8335193,-48.0138888,Distrito Federal,4
+121,Bluefit,Taguatinga Sul,-15.85181,-48.04185,Distrito Federal,1
+122,Bluefit,Samambaia,-15.8797462,-48.0855132,Distrito Federal,1
+123,Bluefit,Águas Claras III,-15.8418731,-48.0314442,Distrito Federal,1
+124,Bluefit,Av. Rio Verde,-16.7401787,-49.2740718,Goiás,0
+125,Bluefit,Alto da Glória,-16.6521779,-49.188767,Goiás,1
+126,Bluefit,Alto Bueno T4,-16.7100584,-49.2670868,Goiás,3
+127,Bluefit,Asa Norte 516,-15.753456,-47.8941562,Distrito Federal,2
+128,Bluefit,Jardim Goiás,-16.7045563,-49.2398795,Goiás,1
+129,Bluefit,Taguatinga,-15.8235068,-48.0618557,Distrito Federal,2
+130,Bluefit,Av. 85,-16.7093172,-49.2642484,Goiás,3
+131,Bluefit,Sobradinho,-15.6763108,-47.826099,Distrito Federal,0
+132,Bluefit,T8,-16.6962962,-49.2760949,Goiás,1
+133,Bluefit,Praça do Sol,-16.6892994,-49.2682335,Goiás,3
+134,Bluefit,República do Líbano,-16.6827314,-49.2658238,Goiás,3
+135,Bluefit,Vicente Pires II,-15.8029864,-48.032992,Distrito Federal,0
+136,Bluefit,Vicente Pires,-15.7934591,-48.0509824,Distrito Federal,0
+137,Bluefit,Setor Coimbra,-16.6871607,-49.2823427,Goiás,1
+138,Bluefit,Estação da Moda,-16.6598786,-49.2596909,Goiás,1
+139,Bluefit,Av. Milão,-16.7112113,-49.3149023,Goiás,1
+140,Bluefit,Ceilândia,-15.806783,-48.1158446,Distrito Federal,1
+141,Bluefit,Portal Shopping,-16.6545382,-49.3297188,Goiás,0
+142,Bluefit,Anápolis,-16.3348979,-48.9438306,Goiás,0
+143,Bluefit,Av. Universitária,-16.3099555,-48.9497087,Goiás,1
+144,Bluefit,Cidade Rio Verde,-17.8003121,-50.9427981,Goiás,1
+145,Bluefit,Umuarama,-23.7622072,-53.3124058,Paraná,0
+146,Bluefit,Cascavel,-24.9399791,-53.4420786,Paraná,0
+147,Bluefit,Toledo,-24.7346873,-53.7591777,Paraná,0
+148,Bluefit,Dourados,-22.225972,-54.788261,Mato Grosso do Sul,0
+149,Bluefit,Graça,-12.9982148,-38.5205159,Bahia,1
+150,Bluefit,Caminho das Árvores,-12.9792019,-38.4561128,Bahia,4
+151,Bluefit,Barreiras,-12.1421168,-44.9776614,Bahia,1
+152,Bluefit,Afonso Pena,-20.4562118,-54.6671849,Mato Grosso do Sul,0
+153,Bluefit,Av. Mato Grosso,-20.450961,-54.5864941,Mato Grosso do Sul,0
+154,Bluefit,Campo Grande Centro,-20.4682999,-54.6123199,Mato Grosso do Sul,0
+155,Bluefit,São Francisco,-20.4442694,-54.6159103,Mato Grosso do Sul,0
+156,Bluefit,Gurupi,-11.7353106,-49.0953507,Tocantins,0
+157,Bluefit,Palmas Sul,-10.2184144,-48.3302223,Tocantins,1
+158,Bluefit,Palmas Centro,-10.1961011,-48.3139582,Tocantins,0
+159,Bluefit,Av. CPA,-15.5846734,-56.0806461,Mato Grosso,1
+160,Bluefit,Várzea Grande,-15.6487728,-56.1290553,Mato Grosso,0
+161,Bluefit,Santa Rosa,-15.5862433,-56.1152826,Mato Grosso,2
+162,Bluefit,Maceió,-9.6554722,-35.7059232,Alagoas,2
+163,Bluefit,Maceió Farol,-9.6358117,-35.7338211,Alagoas,0
+164,Bluefit,Sinop,-11.857836,-55.5079867,Mato Grosso,0
+165,Bluefit,Araguaína,-7.2027595,-48.2078331,Tocantins,0
+166,Bluefit,Patos,-7.0220629,-37.2790845,Paraíba,0
+167,Bluefit,Campina Grande,-7.2255168,-35.8843731,Paraíba,1
+168,Bluefit,Epitacio Pessoa,-7.1200316,-34.8580457,Paraíba,2
+169,Bluefit,Tambaú Orla,-7.1178217,-34.8235213,Paraíba,1
+170,Bluefit,Manaíra - Liv Mall,-7.0970981,-34.8391765,Paraíba,2
+171,Bluefit,Aldeota,-3.7390075,-38.5077433,Ceará,4
+172,Bluefit,Varanda,-3.7351762,-38.4923186,Ceará,5
+173,Bluefit,Batista Campos,-1.4596949,-48.4929031,Pará,2
+174,Bluefit,Nazaré,-19.8510003,-43.8945357,Minas Gerais,0
+175,Bluefit,Doca,-1.4432073,-48.4923427,Pará,3
+176,Bluefit,Cidade Nova,-19.8856443,-43.9276355,Minas Gerais,2
+177,Bluefit,Augusto Montenegro,-1.3550696,-48.4531587,Pará,1
+178,Bluefit,Adrianópolis - pré venda,-3.1144891,-60.0163702,Amazonas,3
+179,Bluefit,Av. Efigênio Salles - Pré-venda,-3.0864258,-60.0050264,Amazonas,0
+180,Bluefit,Av. Darcy Vargas,-3.0932211,-60.0239562,Amazonas,2
+181,Bluefit,Av. Noel Nutels,-3.0294975,-59.9819906,Amazonas,0
+182,Bluefit,Village,-9.9597925,-67.8213451,Acre,1
+183,Bluefit,Estrada da Floresta,-9.9779541,-67.8360408,Acre,0
+184,Bluefit,Fernando Corrêa,-15.6172507,-56.0711912,Mato Grosso,0
+185,Selfit,ABEL CABRAL,-5.8783666,-35.2093407,Rio Grande do Norte,0
+186,Selfit,AÇAILÂNDIA,-10.1696423,-48.8928210,Tocantins,0
+187,Selfit,AFOGADOS,-8.0797119,-34.908016,Pernambuco,0
+188,Selfit,ALAGOINHAS,-12.1317391,-38.4203808,Bahia,0
+189,Selfit,ALDEOTA,-3.7392309,-38.4965539,Ceará,6
+190,Selfit,ANANINDEUA,-1.3621226,-48.4264606,Pará,2
+191,Selfit,ANIL,-2.5530708,-44.2459754,Maranhão,0
+192,Selfit,ANJO DA GUARDA,-2.5650476,-44.3320448,Maranhão,0
+193,Selfit,ANTÔNIO BASÍLIO,-5.8109794,-35.2172081,Rio Grande do Norte,1
+194,Selfit,ANTÔNIO CASSIMIRO,-9.3683924,-40.5140097,Pernambuco,0
+195,Selfit,ARACATI,-4.5735358,-37.7756888,Ceará,0
+196,Selfit,ARAPANÉS,-23.6039566,-46.6643372,São Paulo,5
+197,Selfit,ARAPIRACA,-26.0713721,-48.6178349,State of Santa Catarina,0
+198,Selfit,ARCOVERDE,-8.033735,-34.9065817,Pernambuco,5
+199,Selfit,ARENA DAS DUNAS,-5.8263835,-35.2127862,Rio Grande do Norte,1
+200,Selfit,ARIRIZAL,-2.513393,-44.241154,Maranhão,2
+201,Selfit,ARRUDA,-8.0266014,-34.8972002,Pernambuco,0
+202,Selfit,ASSIS,-1.4479416,-48.4955687,Pará,3
+203,Selfit,ATRÁS DA BANCA,-9.3986012,-40.5074675,Pernambuco,1
+204,Selfit,AUGUSTO FRANCO,-10.9270292,-37.0727228,Sergipe,0
+205,Selfit,AV. BRASIL,-2.4969006,-44.2195181,Maranhão,0
+206,Selfit,AV. DOS TRABALHADORES,-15.5873266,-56.057025,Mato Grosso,0
+207,Selfit,BAIRRO DE FÁTIMA,-2.5399332,-44.2884770,Maranhão,0
+208,Selfit,BALSAS,-7.5049153,-46.0364582,Maranhão,0
+209,Selfit,BARÃO DE CASTELO BRANCO,-5.1061364,-42.7916733,Piauí,0
+210,Selfit,BARÃO DE GURGUÉIA,-5.1224045,-42.8016508,Piauí,0
+211,Selfit,BARÃO DE ITAMBÍ,-22.9406397,-43.1809971,Rio de Janeiro,4
+212,Selfit,BARRA (CHAME-CHAME),-13.0051954,-38.523812,Bahia,2
+213,Selfit,BARRA HALL (ASSOC. ATLÉTICA),-13.0058606,-38.5304485,Bahia,1
+214,Selfit,BARRAMAR,-2.4911935,-44.2584614,Maranhão,1
+215,Selfit,BARREIRAS,-12.1428557,-44.9862722,Bahia,1
+216,Selfit,BAYEUX,-7.1195614,-34.8817282,Paraíba,0
+217,Selfit,BELO JARDIM,-8.3195165,-36.4138176,Pernambuco,0
+218,Selfit,BENFICA,-8.0593836,-34.9055169,Pernambuco,2
+219,Selfit,BERNARDO VIEIRA DE MELO,-8.1674058,-34.9143497,Pernambuco,2
+220,Selfit,BESSA,-7.0808347,-34.8393856,Paraíba,0
+221,Selfit,BEZERRA DE MENEZES,-3.735789,-38.5612488,Ceará,1
+222,Selfit,BOA VIAGEM I,-8.1327303,-34.9030674,Pernambuco,3
+223,Selfit,BOA VIAGEM II,-8.1213039,-34.9009322,Pernambuco,5
+224,Selfit,BOULEVARD SHOPPING,-14.8772199,-40.8179523,Bahia,0
+225,Selfit,BOULEVARD TROPICAL,-2.5006171,-44.2867647,Maranhão,3
+226,Selfit,CAMARAGIBE,-8.0229313,-34.994342,Pernambuco,0
+227,Selfit,CAMARÁ SHOPPING,-8.0160381,-34.9778761,Pernambuco,1
+228,Selfit,CAMINHO DAS ÁRVORES,-12.9860007,-38.458361,Bahia,4
+229,Selfit,CAMPINA GRANDE,-7.2229842,-35.8781607,Paraíba,1
+230,Selfit,CAMPO GRANDE,-8.0321188,-34.8767558,Pernambuco,0
+231,Selfit,CAMPOLIM,-23.5307624,-47.4637304,São Paulo,1
+232,Selfit,CANDEIAS,-8.2150545,-34.9218173,Pernambuco,0
+233,Selfit,CARAPICUÍBA,-23.5222405,-46.8294531,São Paulo,1
+234,Selfit,CARREFOUR JUNDIAÍ,-23.1797673,-46.9122598,São Paulo,0
+235,Selfit,CARUARU,-8.2805565,-35.9711685,Pernambuco,1
+236,Selfit,CARUARU II,-8.287998,-35.9634104,Pernambuco,0
+237,Selfit,CASA AMARELA,-8.0301332,-34.9072835,Pernambuco,4
+238,Selfit,CASA CAIADA,-7.9931574,-34.8412209,Pernambuco,3
+239,Selfit,CASA CAIADA II,-7.9889695,-34.8389906,Pernambuco,3
+240,Selfit,CASA FORTE,-8.0335534,-34.9189597,Pernambuco,2
+241,Selfit,CAXANGÁ,-8.0442618,-34.9316681,Pernambuco,0
+242,Selfit,CIDADE JARDIM,-19.9473723,-43.9498288,Minas Gerais,3
+243,Selfit,COHAFUMA,-2.5077065,-44.2644168,Maranhão,0
+244,Selfit,COHAMA,-2.5211114,-44.2462726,Maranhão,2
+245,Selfit,COLINAS,-23.2062649,-45.9064014,São Paulo,0
+246,Selfit,CONDE DE BONFIM,-22.9236177,-43.227852,Rio de Janeiro,6
+247,Selfit,CÓRREGO GRANDE,-27.6003795,-48.500121,Santa Catarina,0
+248,Selfit,COSTA AZUL,-12.9929194,-38.4489263,Bahia,1
+249,Selfit,CPA III,-21.4649748,-49.2246518,State of São Paulo,0
+250,Selfit,DANIEL DE LA TOUCHE,-2.4960896,-44.2393308,Maranhão,0
+251,Selfit,DB PONTA NEGRA MANAUS,-3.0679496,-60.096514,Amazonas,0
+252,Selfit,DIRCEU,-5.1035073,-42.7526484,Piauí,0
+253,Selfit,DOMINGOS FERREIRA,-8.100849,-34.887353,Pernambuco,0
+254,Selfit,ENCRUZILHADA,-8.0371027,-34.8903173,Pernambuco,0
+255,Selfit,EPITÁCIO PESSOA,-7.1192047,-34.8434638,Paraíba,0
+256,Selfit,ESTAÇÃO CUIABÁ,-15.5901447,-56.1206767,Mato Grosso,2
+257,Selfit,FEIRA DE SANTANA,-12.2426989167833,-38.9500937756384,,0
+258,Selfit,FORQUILHA,-2.552579,-44.2147025,Maranhão,0
+259,Selfit,FRANCA,-20.5417103,-47.3960332,São Paulo,0
+260,Selfit,GARANHUNS,-23.6109411,-46.5927939,State of São Paulo,1
+261,Selfit,GLICÉRIO,-3.1203373,-60.0101823,Amazonas,1
+262,Selfit,GODOFREDO MACIEL,-3.8302377,-38.5810782,Ceará,0
+263,Selfit,GOLDEN SHOPPING,-2.4913911,-44.2636106,Maranhão,1
+264,Selfit,GRAVATÁ,-29.9318127,-51.1586018,Rio Grande do Sul,0
+265,Selfit,HOMERO CASTELO BRANCO,-5.0751029,-42.7816265,Piauí,1
+266,Selfit,HORIZONTE,-4.099601,-38.4865591,Ceará,0
+267,Selfit,ICARAÍ,-22.9031516,-43.0998152,Rio de Janeiro,2
+268,Selfit,ILHÉUS,-12.9815734,-38.4549551,Bahia,4
+269,Selfit,ITABAIANA,-10.6936579,-37.4272805,Sergipe,0
+270,Selfit,ITAJAÍ,-26.9051188,-48.6987298,Santa Catarina,0
+271,Selfit,ITAPIPOCA,-3.4873888,-39.569285,Ceará,0
+272,Selfit,IT CENTER,-1.4163749,-48.4792392,Pará,0
+273,Selfit,JAIME BENÉVOLO,-3.7426188,-38.5289713,Ceará,1
+274,Selfit,JANGA,-7.9208646,-34.8211267,Pernambuco,0
+275,Selfit,JARDIM DAS AMÉRICAS,-15.6089132,-56.0791755,Mato Grosso,0
+276,Selfit,JARDINS,-10.9424735,-37.0647621,Sergipe,1
+277,Selfit,JEAN EMILE,-8.1085171,-34.9164584,Pernambuco,1
+278,Selfit,JOÃO PAULO,-2.5506192,-44.2645385,Maranhão,0
+279,Selfit,JÓQUEI,-5.0786677,-42.7904088,Piauí,2
+280,Selfit,JORDÃO,-8.1413671,-34.931423,Pernambuco,0
+281,Selfit,JUAZEIRO DO NORTE,-7.2223239,-39.3261608,Ceará,1
+282,Selfit,LAGOA NOVA,-5.8156228,-35.2067755,Rio Grande do Norte,3
+283,Selfit,LAGOA NOVA II,-5.8234541,-35.2093473,Rio Grande do Norte,3
+284,Selfit,LAR CENTER,-23.5144591,-46.6144346,São Paulo,0
+285,Selfit,LAURO DE FREITAS,-12.8774889,-38.3062677,Bahia,1
+286,Selfit,LIMOEIRO DO NORTE,-5.1413207,-38.0946186,Ceará,0
+287,Selfit,MADALENA,-8.0603791,-34.9045292,Pernambuco,3
+288,Selfit,MAG SHOPPING,-7.0975234,-34.8345231,Paraíba,1
+289,Selfit,MAIOBÃO,-2.5392866,-44.1743995,Maranhão,0
+290,Selfit,MANAUS PLAZA SHOPPING,-3.0975763,-60.0235425,Amazonas,2
+291,Selfit,MANGABEIRA,-7.1626717,-34.8306506,Paraíba,0
+292,Selfit,MANGABEIRAS,-9.644172,-35.7119793,Alagoas,1
+293,Selfit,MARACANAÚ,-3.8505665,-38.6454529,Ceará,0
+294,Selfit,MARAMBAIA,-1.4087458,-48.446167,Pará,0
+295,Selfit,MARÍLIA SHOPPING,-22.185943,-49.9671345,São Paulo,0
+296,Selfit,MARQUÊS DE PARANAGUÁ,-5.0717241,-42.8153429,Piauí,1
+297,Selfit,MATATU,-12.9738491,-38.492834,Bahia,1
+298,Selfit,MENDONÇA FURTADO,0.0379708,-51.0650277,Amapá,1
+299,Selfit,MOCAMBINHO,-5.0351487,-42.8158716,Piauí,0
+300,Selfit,MOEMA TINOCO,-5.7329118,-35.2309994,Rio Grande do Norte,0
+301,Selfit,MONTESE,-3.763348,-38.5453042,Ceará,0
+302,Selfit,MORADA DO OURO,-15.5685066,-56.0590985,Mato Grosso,0
+303,Selfit,MOR GOUVEIA,-5.8176167,-35.2421786,Rio Grande do Norte,1
+304,Selfit,MOSSORÓ,-5.1892025,-37.3431705,Rio Grande do Norte,1
+305,Selfit,NAZARÉ,-1.4516306,-48.4892251,Leiria District,5
+306,Selfit,NORTHWAY,-7.93904902518612,-34.8778935186546,,1
+307,Selfit,NOVA DESCOBERTA,-7.9992831,-34.9228279,Pernambuco,0
+308,Selfit,NOVA PARNAMIRIM,-5.8949244,-35.1991498,Rio Grande do Norte,0
+309,Selfit,OLARIA,-22.8430582,-43.2683938,Rio de Janeiro,2
+310,Selfit,OLHO D'ÁGUA I,-2.4923669,-44.2298114,Maranhão,1
+311,Selfit,OLHO D'ÁGUA II,-2.4847167,-44.2210264,Maranhão,0
+312,Selfit,PAISSANDÚ,-8.0613281,-34.8960582,Pernambuco,3
+313,Selfit,PARALELA,-12.9703598,-38.442275,Bahia,1
+314,Selfit,PARNAÍBA,-2.9101456,-41.7479344,Piauí,2
+315,Selfit,PARNAÍBA II,-5.4983977,-39.3206241,Ceará,0
+316,Selfit,PARQUE SHOPPING BELÉM,-1.3699133,-48.446381,Pará,0
+317,Selfit,PARQUE SHOPPING MACEIÓ,-9.6276766,-35.6992105,Alagoas,0
+318,Selfit,PÁTIO DOM LUÍS,-3.7359378,-38.4901539,Ceará,6
+319,Selfit,PÁTIO NORTE,-2.5551728,-44.1987959,Maranhão,1
+320,Selfit,PAULISTA CENTRO,-22.9012249,-43.1791747,State of Rio de Janeiro,3
+321,Selfit,PICOS,-7.0809248,-41.4524189,Piauí,0
+322,Selfit,PIEDADE,-8.188539,-34.9211138,Pernambuco,2
+323,Selfit,PIEDADE II,-8.1712878,-34.9183603,Pernambuco,3
+324,Selfit,PINHEIRO,-16.6736192,-49.299764,Goiás,0
+325,Selfit,PITUBA II,-13.0064706,-38.4622962,Bahia,2
+326,Selfit,PONTA NEGRA,-5.8667857,-35.1847062,Rio Grande do Norte,0
+327,Selfit,PONTA VERDE,-9.6564811,-35.6989508,Alagoas,2
+328,Selfit,PRESIDENTE KENNEDY,-5.0742651,-42.7723065,Piauí,0
+329,Selfit,PRESIDENTE VARGAS,-21.2034859,-47.8088965,São Paulo,2
+330,Selfit,RIO VERMELHO,-13.0126024,-38.4893506,Bahia,0
+331,Selfit,RIVERSIDE,-5.0799649,-42.7934244,Piauí,3
+332,Selfit,ROSA E SILVA,-8.0443386,-34.897372,Pernambuco,1
+333,Selfit,ROTA DO SOL,-5.8836434,-35.1809509,Rio Grande do Norte,0
+334,Selfit,SANTA CLARA,-23.5752278,-46.5644959,São Paulo,1
+335,Selfit,SANTA CRUZ DO CAPIBARIBE,-7.9366267,-36.2184241,Pernambuco,0
+336,Selfit,SANTA ROSÁLIA,27.3361939,-112.2701486,Baja California Sur,0
+337,Selfit,SÃO BRÁS,-1.4479571,-48.4665594,Pará,0
+338,Selfit,SÃO GONÇALO DO AMARANTE,-5.605995,-35.301023,Rio Grande do Norte,0
+339,Selfit,SÃO LUÍS SHOPPING,-2.5135043,-44.2889797,Maranhão,0
+340,Selfit,SÃO RAFAEL,-12.9357254,-38.4251093,Bahia,0
+341,Selfit,SCOPA PLATINUM,-3.7332159,-38.5093968,Ceará,3
+342,Selfit,SERRA TALHADA,-7.9839749,-38.2990686,Pernambuco,0
+343,Selfit,SERRINHA,-11.662842,-39.0084965,State of Bahia,0
+344,Selfit,SHOPPING COSTA DOURADA,-8.3057744,-35.0221654,Pernambuco,0
+345,Selfit,SHOPPING PARANGABA,-3.7755437,-38.5619871,Ceará,1
+346,Selfit,SHOPPING PARTAGE MARABÁ,-5.2585346,-49.3248959,Pará,0
+347,Selfit,SHOPPING PRÊMIO SOCORRO,-10.8520277,-37.0730878,Sergipe,0
+348,Selfit,SHOPPING RIO CLARO,-22.4118151,-47.5552454,São Paulo,0
+349,Selfit,SOBRAL,-3.6860925,-40.3491646,Ceará,0
+350,Selfit,SUPERFÁCIL,-11.8688495,-38.762374,Bahia,0
+351,Selfit,SURUBIM,-7.8438596,-35.754016,Pernambuco,0
+352,Selfit,TAMARINEIRA,-8.0310662,-34.9053868,Pernambuco,4
+353,Selfit,TANCREDO NEVES,-9.39588905941381,-40.4939544725743,,0
+354,Selfit,TAPANÃ,-1.337278,-48.4796602,Pará,0
+355,Selfit,TAUÁ,-5.989281,-40.2954418,Ceará,0
+356,Selfit,TENONÉ,-1.3181147,-48.4525423,Pará,0
+357,Selfit,TIMON,-7.1185864,-34.8533296,Paraíba,1
+358,Selfit,TIRIRICAL,-2.5706048,-44.2214332,Maranhão,0
+359,Selfit,TIROL,-5.7978616,-35.1999672,Rio Grande do Norte,0
+360,Selfit,TORRE,-8.0482365,-34.9090853,Pernambuco,1
+361,Selfit,TRINDADE,-27.5911349,-48.522134,Santa Catarina,2
+362,Selfit,TURU,-2.5279755,-44.2259647,Maranhão,0
+363,Selfit,VÁRZEA,-8.0359708,-34.9556777,Pernambuco,0
+364,Selfit,VIA SUL SHOPPING,-3.7946075,-38.4795714,Ceará,0
+365,Selfit,VIEIRALVES,-3.1071663,-60.019037,Amazonas,2
+366,Selfit,VITÓRIA DE SANTO ANTÃO,-8.1178852,-35.2977577,Pernambuco,0
+367,Selfit,WASHINGTON SOARES,-3.78361,-38.4819533,Ceará,0
+368,Selfit,ZEQUINHA FREIRE,-5.07255536398047,-42.7496595633191,,0
+369,BodyTech,ALPHAVILLE,-23.5047446,-46.848598,São Paulo,3
+370,BodyTech,ASA NORTE,-15.7556955,-47.8881308,Distrito Federal,2
+371,BodyTech,ASA SUL,-15.821525,-47.9105366,Distrito Federal,4
+372,BodyTech,BARRA - PENÍNSULA O2,-22.988655,-43.3606056,Rio de Janeiro,1
+373,BodyTech,BARRA - SHOPPING CITTÁ,-23.0033062,-43.3219443,Rio de Janeiro,1
+374,BodyTech,BARRA - VOGUE,-23.0017337,-43.3961446,Rio de Janeiro,1
+375,BodyTech,BARRA - ÉRICO VERÍSSIMO,-23.0120621,-43.310316,Rio de Janeiro,1
+376,BodyTech,BELVEDERE,-19.9738787,-43.9411827,Minas Gerais,0
+377,BodyTech,BOTAFOGO - RIO SUL,-22.9563473,-43.1773959,Rio de Janeiro,1
+378,BodyTech,BOTAFOGO - S. CLEMENTE,-22.9493372,-43.1884367,Rio de Janeiro,3
+379,BodyTech,BROOKLIN GUARARAPES,-23.6128652,-46.6803701,São Paulo,2
+380,BodyTech,CAMPINAS DOM PEDRO,-22.8475018,-47.0643845,São Paulo,0
+381,BodyTech,CAMPOS,-21.755555,-41.3359471,Rio de Janeiro,2
+382,BodyTech,CATUAÍ SHOPPING LONDRINA,-23.3417416,-51.191953,Paraná,0
+383,BodyTech,CENTER SHOPPING RIO,-22.9250927,-43.3611752,Rio de Janeiro,1
+384,BodyTech,COMPLEXO JK,-23.5913723,-46.6895497,São Paulo,2
+385,BodyTech,COPA - N.S COPACABANA 1144,-22.9801486,-43.1912316,Rio de Janeiro,7
+386,BodyTech,COPA - N.S COPACABANA 446,-22.9674777,-43.1824709,Rio de Janeiro,7
+387,BodyTech,COPA - N.S. COPACABANA 801,-22.9734989,-43.1882986,Rio de Janeiro,9
+388,BodyTech,FREI CANECA,-23.5537114,-46.6526142,São Paulo,7
+389,BodyTech,GOIABEIRAS SHOPPING,-15.5880968,-56.1123837,Mato Grosso,3
+390,BodyTech,GUARULHOS PARQUE SHOP MAIA,-23.4435922,-46.5393892,São Paulo,2
+391,BodyTech,GÁVEA - SHOP. DA GÁVEA,-22.9752405,-43.2284282,Rio de Janeiro,2
+392,BodyTech,IGUATEMI CAMPINAS,-22.8919699,-47.0272926,São Paulo,0
+393,BodyTech,IGUATEMI - SÃO PAULO,-23.5769093,-46.6880827,São Paulo,1
+394,BodyTech,IGUATEMI FORTALEZA,-3.7553654,-38.488606,Ceará,0
+395,BodyTech,IGUATEMI PORTO ALEGRE,-30.0253178,-51.1624681,Rio Grande do Sul,0
+396,BodyTech,INDIANÓPOLIS - RUBEM B,-23.6028813,-46.650696,São Paulo,0
+397,BodyTech,IPANEMA - B. DA TORRE,-22.983003,-43.2110062,Rio de Janeiro,4
+398,BodyTech,IPANEMA - G. CARNEIRO,-22.9851968,-43.1954099,Rio de Janeiro,4
+399,BodyTech,IPANEMA - PÇ NS DA PAZ,-22.9843934,-43.2061064,Rio de Janeiro,4
+400,BodyTech,ITAIM - JOÃO CACHOEIRA,-23.581317,-46.6790737,São Paulo,3
+401,BodyTech,ITAIM - LEOPOLDO,-23.5872015,-46.6778138,São Paulo,4
+402,BodyTech,JARDINS - CONSOLAÇÃO,-23.5587952,-46.6664435,São Paulo,5
+403,BodyTech,JD. BOTÂNICO - M. ANGÉLICA,-22.9616005,-43.2080417,Rio de Janeiro,1
+404,BodyTech,LAGO NORTE - IGUATEMI,-15.7196664,-47.8842787,Distrito Federal,1
+405,BodyTech,LAGO SUL - SET. CLUBES,-15.8263204,-47.8876107,Distrito Federal,1
+406,BodyTech,LEBLON - ATAULFO 1100,-22.9849701,-43.2262491,Rio de Janeiro,5
+407,BodyTech,LEBLON - ATAULFO 467,-22.9841525,-43.2203671,Rio de Janeiro,7
+408,BodyTech,LEBLON - GAL URQUIZA,-22.9841034,-43.2239948,Rio de Janeiro,6
+409,BodyTech,MARISTA,-16.6914945,-49.2612487,Goiás,2
+410,BodyTech,MONT SERRAT,-30.0253931,-51.1905274,Rio Grande do Sul,1
+411,BodyTech,MORUMBI - MARKET PLACE,-23.6215452,-46.6996642,São Paulo,2
+412,BodyTech,MÉIER,-22.9058265,-43.2886053,Rio de Janeiro,2
+413,BodyTech,NATAL SHOPPING,-5.8422078,-35.2117558,Rio Grande do Norte,1
+414,BodyTech,NORTE SHOPPING,-22.8860276,-43.2820075,Rio de Janeiro,2
+415,BodyTech,PANTANAL SHOPPING,-15.5888645,-56.0793985,Mato Grosso,1
+416,BodyTech,PINHEIROS - ELDORADO,-23.5726116,-46.6964938,São Paulo,1
+417,BodyTech,PONTEIO,-19.9638289,-43.939458,Minas Gerais,0
+418,BodyTech,PRAIA DE BELAS SHOPPING,-30.0500065,-51.2288272,Rio Grande do Sul,0
+419,BodyTech,RECREIO - S. ALLENDE,-23.0044962,-43.4356046,Rio de Janeiro,0
+420,BodyTech,RECREIO SHOPPING,-23.0212905,-43.4890213,Rio de Janeiro,2
+421,BodyTech,SHOPPING IGUATEMI - RIBEIRÃO,-21.2257148,-47.8356008,São Paulo,0
+422,BodyTech,RIO OFFICE & MALL,-22.943743,-43.345463,Rio de Janeiro,2
+423,BodyTech,RIO VERDE - BURITI SHOPPING,-17.8161021,-50.9429143,Goiás,0
+424,BodyTech,SANTA ROSA,-22.901515,-43.1004239,Rio de Janeiro,2
+425,BodyTech,SAVASSI,-19.932511,-43.9343894,Minas Gerais,4
+426,BodyTech,SERENA,-19.9869948,-43.9392826,Minas Gerais,0
+427,BodyTech,SHOPPING CRYSTAL,-25.4385805,-49.2817076,Paraná,3
+428,BodyTech,SHOPPING DA BAHIA,-12.9818892,-38.4631313,Bahia,4
+429,BodyTech,SHOPPING DA ILHA,-2.51297,-44.2444344,Maranhão,3
+430,BodyTech,SHOPPING GRANJA VIANNA,-23.5910044,-46.8322065,São Paulo,0
+431,BodyTech,SHOPPING LEBLON,-22.9823457,-43.2167755,Rio de Janeiro,5
+432,BodyTech,SHOPPING NEUMARKT,-26.9206988,-49.0699147,Santa Catarina,0
+433,BodyTech,SHOPPING NOVA AMÉRICA,-22.8776441,-43.271047,Rio de Janeiro,0
+434,BodyTech,SHOPPING NOVA IGUAÇU,-22.7628932,-43.4651577,Rio de Janeiro,2
+435,BodyTech,SHOP. PRAIA DA COSTA,-20.3420856,-40.2889761,Espírito Santo,1
+436,BodyTech,SHOPPING PÁTIO PAULISTA,-23.5705383,-46.6435321,São Paulo,5
+437,BodyTech,SHOPPING RECIFE,-8.1199279,-34.9014793,Pernambuco,5
+438,BodyTech,SHOPPING RIO POTY,-5.077199,-42.8019226,Piauí,1
+439,BodyTech,SHOPPING VITÓRIA,-20.3129165,-40.2879598,Espírito Santo,0
+440,BodyTech,IGUATEMI ESPLANADA,-23.5429756,-47.4664787,São Paulo,1
+441,BodyTech,SUDOESTE,-15.8000821,-47.9312898,Distrito Federal,1
+442,BodyTech,SÃO CONRADO - FASHION MALL,-22.9965592,-43.2596308,Rio de Janeiro,0
+443,BodyTech,SÃO FRANCISCO,-22.9200855,-43.0915155,Rio de Janeiro,0
+444,BodyTech,SHOPPING TIJUCA,-22.9217884,-43.2361173,Rio de Janeiro,6
+445,BodyTech,TIJUCA HADDOCK LOBO,-22.9214782,-43.2191226,Rio de Janeiro,2
+446,BodyTech,VILLA ROMANA SHOPPING,-27.5905221,-48.5148694,Santa Catarina,1
+447,Pratique Fitness,Guarani,-19.8437747,-43.9185257,Minas Gerais,0
+448,Pratique Fitness,São Sebastião,-27.643221,-48.7120449,Santa Catarina,1
+449,Pratique Fitness,Cachoeirinha,-19.8835825,-43.9408974,Minas Gerais,1
+450,Pratique Fitness,Sagrada Família,-19.8997028,-43.9230298,Minas Gerais,0
+451,Pratique Fitness,Alípio de Melo,-19.9103967,-43.9982468,Minas Gerais,0
+452,Pratique Fitness,São Benedito,-19.793686,-43.9364236,Minas Gerais,0
+453,Pratique Fitness,Céu Azul,-19.8217706,-43.9971834,Minas Gerais,0
+454,Pratique Fitness,Castelo,-19.89245,-43.99589,Minas Gerais,1
+455,Pratique Fitness,Pampulha,-19.8404752,-43.9665597,Minas Gerais,0
+456,Pratique Fitness,Lagoa,-19.803366,-44.0002348,Minas Gerais,0
+457,Pratique Fitness,São Gabriel,-19.8563907,-43.9203035,Minas Gerais,0
+458,Pratique Fitness,Fernão Dias,-19.8719871,-43.9216326,Minas Gerais,3
+459,Pratique Fitness,Cabral,-19.8780625,-44.0440461,Minas Gerais,2
+460,Pratique Fitness,Floresta,-19.9136165,-43.9254569,Minas Gerais,0
+461,Pratique Fitness,Santa Inês,-19.8813193,-43.9080135,Minas Gerais,2
+462,Pratique Fitness,Santa Inês II,-19.8786453,-43.9116576,Minas Gerais,2
+463,Pratique Fitness,Novo Eldorado,-19.9342847,-44.0529519,Minas Gerais,0
+464,Pratique Fitness,Ouro Preto Prime,-19.8715534,-43.9835458,Minas Gerais,1
+465,Pratique Fitness,Jaragua,-19.8669364,-43.9504213,Minas Gerais,0
+466,Pratique Fitness,Santa Mônica,-19.8239016,-43.9792095,Minas Gerais,1
+467,Pratique Fitness,Santa Efigênia,-19.9200486,-43.9105574,Minas Gerais,1
+468,Pratique Fitness,Londrina,-19.7960021,-43.9218782,Minas Gerais,0
+469,Pratique Fitness,Industrial,-19.9750626,-44.0347538,Minas Gerais,0
+470,Pratique Fitness,Rio Branco,-19.81743,-43.98334,Minas Gerais,1
+471,Pratique Fitness,Sete Lagoas,-19.4541094,-44.2468127,Minas Gerais,1
+472,Pratique Fitness,Heliópolis,-19.8466246,-43.9393007,Minas Gerais,0
+473,Pratique Fitness,Nova Floresta,-19.889575,-43.9350778,Minas Gerais,2
+474,Pratique Fitness,Santa Helena,-19.9899165,-44.0128732,Minas Gerais,0
+475,Pratique Fitness,Centro Contagem,-19.9090611,-44.082216,Minas Gerais,0
+476,Pratique Fitness,Floramar,-19.8339424,-43.9306754,Minas Gerais,0
+477,Pratique Fitness,Goiania,-19.8644297,-43.8973375,Minas Gerais,0
+478,Pratique Fitness,Flávio Marques Lisboa,-19.9947235,-44.0037966,Minas Gerais,0
+479,Pratique Fitness,Cardoso,-20.0057252,-44.0049901,Minas Gerais,0
+480,Pratique Fitness,Paqueta,-19.868948,-43.9977044,Minas Gerais,1
+481,Pratique Fitness,Prado,-19.924047,-43.95911,Minas Gerais,0
+482,Pratique Fitness,São Bento,-19.9540964,-43.9484285,Minas Gerais,1
+483,Pratique Fitness,Lagoa Santa,-19.6437309,-43.9017422,Minas Gerais,0
+484,Pratique Fitness,Gavea II,-19.7587385,-43.9373271,Minas Gerais,0
+485,Pratique Fitness,Castelinho,-19.9346232,-44.0385465,Minas Gerais,0
+486,Pratique Fitness,Mangabeiras,-19.9506517,-43.9219551,Minas Gerais,1
+487,Pratique Fitness,Veneza,-19.7677501,-44.1353969,Minas Gerais,0
+488,Pratique Fitness,Camelão,-27.6397988,-48.6678542,Santa Catarina,0
+489,Pratique Fitness,Aririu,-27.6724112,-48.6756392,Santa Catarina,0
+490,Pratique Fitness,Centro de Florianópolis,-27.5947552,-48.5573695,Santa Catarina,1
+491,Pratique Fitness,Ibirite,-20.0280901,-44.0574675,Minas Gerais,0
+492,Pratique Fitness,Justinópolis,-19.7994613,-44.018438,Minas Gerais,0
+493,Pratique Fitness,Itabira Esplanada,-19.635306,-43.2321795,Minas Gerais,0
+494,Pratique Fitness,Betim,-19.9373021,-44.1231889,Minas Gerais,0
+495,Pratique Fitness,Glória,-19.9047533,-44.0061772,Minas Gerais,0
+496,Pratique Fitness,Pará de Minas,-19.8505082,-44.6105485,Minas Gerais,0
+497,Pratique Fitness,Pagani Prime,-27.6390483,-48.6827811,Santa Catarina,2
+498,Pratique Fitness,Funcionários,-19.9297008,-43.9225886,Minas Gerais,1
+499,Pratique Fitness,Biguaçu,-27.4982014,-48.6547689,Santa Catarina,0
+500,Pratique Fitness,Santo Amaro Vila Becker,-27.6825913,-48.7523574,Santa Catarina,0
+501,Pratique Fitness,Nova Palhoça - Palhoça,-27.6713804,-48.6628935,Santa Catarina,1
+502,Pratique Fitness,Bela Vista,-27.6488707,-48.7097805,Santa Catarina,1
+503,Pratique Fitness,Serrano,-19.8772491,-44.012147,Minas Gerais,0
+504,Pratique Fitness,São Geraldo,-19.9015035,-43.8971209,Minas Gerais,0
+505,Pratique Fitness,Matozinhos Centro,-19.5581397,-44.0824836,Minas Gerais,0
+506,Pratique Fitness,João Monlevade Carneirinho,-19.8085839,-43.1865584,Minas Gerais,1
+507,Pratique Fitness,Sertão do Maruim,-27.6048247,-48.6671359,Santa Catarina,0
+508,Pratique Fitness,Pedro Leolpoldo,-19.6268412,-44.036125,Minas Gerais,0
+509,Pratique Fitness,Mart Minas,-19.8823828,-44.0283734,Minas Gerais,1
+510,Pratique Fitness,Ribeirão das Neves,-19.7684348,-44.0863985,Minas Gerais,0
+511,Pratique Fitness,Ipiranga,-27.5677481,-48.6315875,Santa Catarina,0
+512,Pratique Fitness,Itabira Gabiroba,-19.6519443,-43.215588,Minas Gerais,0
+513,Pratique Fitness,Vale do Jatoba,-20.0036099,-44.0357111,Minas Gerais,0
+514,Pratique Fitness,Palmeiras,-19.9698727,-43.9802106,Minas Gerais,0
+515,Pratique Fitness,Jardim Atlântico,-27.5770806,-48.5935841,Santa Catarina,1
+516,Pratique Fitness,São João Itajaí,-26.9080159,-48.6772057,Santa Catarina,0
+517,Pratique Fitness,João Monlevade Loanda,-19.826896,-43.1629623,Minas Gerais,0
+518,Pratique Fitness,Fernão Dias II,-19.8751137,-43.9146864,Minas Gerais,3
+519,Pratique Fitness,Só Marcas,-19.9537529,-44.0218636,Minas Gerais,1
+520,Pratique Fitness,Vista Alegre,-19.9514649,-43.999579,Minas Gerais,0
+521,Pratique Fitness,Campinas,-27.5988659,-48.6124488,Santa Catarina,1
+522,Pratique Fitness,Shopping Contagem,-19.8811356,-44.038658,Minas Gerais,3
+523,Pratique Fitness,Meia Praia,-27.1316804,-48.6060502,Santa Catarina,0
+524,Pratique Fitness,Pedra Branca,-27.6235666,-48.6803292,Santa Catarina,0
+525,Pratique Fitness,Forquilhas,-27.5799964,-48.6762695,Santa Catarina,0
+526,Pratique Fitness,Tirol,-19.993788,-44.0445603,Minas Gerais,0
+527,Pratique Fitness,Xangrila,-19.8348424,-44.0170416,Minas Gerais,0
+528,Pratique Fitness,Venda Nova (Vilarinho),-19.8016307,-43.9862269,Minas Gerais,0
+529,Pratique Fitness,Navegantes,-26.898301,-48.6553542,Santa Catarina,1
+530,Pratique Fitness,Ouro Preto II,-19.8714802,-43.9833612,Minas Gerais,1
+531,Pratique Fitness,Areias,-27.5585226,-48.6292215,Santa Catarina,0
+532,Pratique Fitness,Abraão SC,-27.6053621,-48.5941182,Santa Catarina,1
+533,Pratique Fitness,Forquilhinhas,-27.5955472,-48.6453033,Santa Catarina,0
+534,Pratique Fitness,Betim Decamão,-19.9694212,-44.2122139,Minas Gerais,0
+535,Pratique Fitness,Trindade,-27.5842809,-48.5245406,Santa Catarina,1
+536,Pratique Fitness,"Bortot, Pato Branco",-26.2141452,-52.674431,Paraná,0
+537,Pratique Fitness,Muquiçaba Guarapari,-20.6589772,-40.4970663,Espírito Santo,0
+538,Pratique Fitness,Igarapé,-20.0735885,-44.304082,Minas Gerais,0
+539,Pratique Fitness,Limoeiros,-20.2145061,-40.2634739,Espírito Santo,0
+540,Pratique Fitness,Brasil Atacadista II,-27.6576363,-48.6795576,Santa Catarina,1
+541,Pratique Fitness,Morro Alto,-19.7738533,-43.9584232,Minas Gerais,0
+542,Pratique Fitness,Fundos Biguacu,-27.5172045,-48.6516873,Santa Catarina,0
+543,Pratique Fitness,Jardim Eldorado,-27.6278782,-48.659174,Santa Catarina,0
+544,Pratique Fitness,Centro Palhoça,-27.6531584,-48.6733385,Santa Catarina,1
+545,Pratique Fitness,Oiapoque Eldorado,-19.944157,-44.0414651,Minas Gerais,2
+546,Pratique Fitness,Três Barras,-19.917041,-44.0775498,Minas Gerais,0
+547,Pratique Fitness,Itacorubi,-27.5878278,-48.5022867,Santa Catarina,0
+548,Pratique Fitness,Pato Branco 2,-26.225725,-52.6741099,Paraná,0
+549,Pratique Fitness,Camargos,-19.9376809,-44.0232505,Minas Gerais,0
+550,Pratique Fitness,Francisco Beltrão,-26.078202,-53.0581302,Paraná,0
+551,Pratique Fitness,Ingleses,-27.4430909,-48.4090036,Santa Catarina,0
+552,Pratique Fitness,Chapecó,-27.0964797,-52.6168353,Santa Catarina,0
+553,Pratique Fitness,Tijucas,-27.2299069,-48.6468969,Santa Catarina,0
+554,Pratique Fitness,Riacho das Pedras,-19.9484109,-44.045818,Minas Gerais,2
+555,Pratique Fitness,Capoeiras,-27.5976006,-48.5933226,Santa Catarina,1
+556,Pratique Fitness,Pagani 2,-27.6406652,-48.6835537,Santa Catarina,2
+557,Pratique Fitness,Criciúma Pio Corrêa,-28.6774357,-49.3600328,Santa Catarina,1
+558,Pratique Fitness,Abrahão Caram,-19.8600054,-43.9619859,Minas Gerais,0
+559,Pratique Fitness,Nacional,-19.8403767,-44.0300618,Minas Gerais,0
+560,Pratique Fitness,Nova Palhoça Rio Grande,-27.6637868,-48.6584547,Santa Catarina,2
+561,Pratique Fitness,Curvelo,-18.7663848,-44.430162,Minas Gerais,0
+562,Pratique Fitness,Vila Olimpica,-19.8295412,-43.9531032,Minas Gerais,1
+563,Pratique Fitness,Jurere,-27.4456962,-48.4877128,Santa Catarina,0
+564,Pratique Fitness,Içara,-28.712879,-49.2975919,Santa Catarina,0
+565,Pratique Fitness,Shopping Itaguaçu,-27.5835333,-48.6144969,Santa Catarina,0
+566,Pratique Fitness,Monte Azul,-19.8166839,-43.8862764,Minas Gerais,0
+567,Pratique Fitness,Gutierrez,-19.9332545,-43.9602441,Minas Gerais,0
+568,Pratique Fitness,Hercílio Luz,-27.5967312,-48.5457613,Santa Catarina,0
+569,Pratique Fitness,Tabuleiro Camboriú,-27.0041766,-48.6557267,Santa Catarina,0
+570,Pratique Fitness,Campinas Privillege,-27.5949315,-48.6110284,Santa Catarina,1
+571,Pratique Fitness,Centro de Críciuma,-28.6769735,-49.3747716,Santa Catarina,1
+572,Pratique Fitness,Brasil Atacadista 3,-27.6637251,-48.6684996,Santa Catarina,1
+573,Pratique Fitness,Diamantina,-18.2330867,-43.6073138,Minas Gerais,0
+574,Pratique Fitness,Planalto,-19.8388376,-43.9493798,Minas Gerais,0
+575,Pratique Fitness,Campeche,-27.7025927,-48.5088517,Santa Catarina,0
+576,Pratique Fitness,Santo Amaro - Centro,-27.686977,-48.7762712,Santa Catarina,0
+577,Pratique Fitness,Fazenda Santo Antônio,-27.6197986,-48.6405343,Santa Catarina,0
+578,Pratique Fitness,Balneário Camboriú,-26.9951955,-48.6348247,Santa Catarina,0
+579,Pratique Fitness,EFAPI,-27.0990302,-52.6739187,Santa Catarina,0
+580,Pratique Fitness,Vila Maria,-19.6080646,-43.9055009,Minas Gerais,0
+581,Pratique Fitness,Cabral 2,-19.8785163,-44.0441326,Minas Gerais,2
+582,Pratique Fitness,Rio Vermelho,-27.478674,-48.418656,Santa Catarina,0
+583,Pratique Fitness,Chácaras Betim,-19.9636596,-44.1901557,Minas Gerais,0
+584,Pratique Fitness,Ouro Minas,-19.8493145,-43.9078159,Minas Gerais,0
+586,Smartfit,Augusta,-23.5574007,-46.6590494,São Paulo,8
+587,Smartfit,Rua da Consolação II,-23.5594922,-46.667308,São Paulo,4
+588,Smartfit,Avenida Angélica,-23.5531634,-46.6620033,São Paulo,6
+589,Smartfit,Baixo Augusta,-23.5538577,-46.6554829,São Paulo,6
+590,Smartfit,Oscar Freire,-23.5671625,-46.6641578,São Paulo,3
+591,Smartfit,Alameda Santos,-23.5642406,-46.6553474,São Paulo,5
+592,Smartfit,Bela Vista II,-23.5545247,-46.6516604,São Paulo,6
+593,Smartfit,Club Homs,-23.5670161,-46.6505858,São Paulo,5
+594,Smartfit,Paulista,-23.5668636,-46.6492442,São Paulo,5
+595,Smartfit,Bela Vista I,-23.5623819,-46.6426649,São Paulo,4
+596,Smartfit,Liberdade,-23.5604152,-46.6385656,São Paulo,1
+597,Smartfit,Rua Cubatão,-23.573865,-46.6448848,São Paulo,4
+598,Smartfit,Higienópolis,-23.5371513,-46.657842,São Paulo,3
+599,Smartfit,Santa Cecília,-23.5383133,-46.6522792,São Paulo,3
+600,Smartfit,Teodoro Sampaio,-23.5632727,-46.6868776,São Paulo,1
+601,Smartfit,Bernardino de Campos,-23.5747213,-46.6422581,São Paulo,3
+602,Smartfit,Shopping Light,-23.5476173,-46.6392154,São Paulo,6
+603,Smartfit,Anhangabaú,-23.5474244,-46.6358326,São Paulo,5
+604,Smartfit,Av. Ipiranga,-23.5416456,-46.6391502,São Paulo,4
+605,Smartfit,Campos Elíseos,-23.5331018,-46.6492983,São Paulo,3
+606,Smartfit,Barra Funda,-23.5300717,-46.6659127,São Paulo,1
+607,Smartfit,Aclimação,-23.5698786,-46.6328631,São Paulo,0
+608,Smartfit,Alfonso Bovero,-23.5367853,-46.6848469,São Paulo,0
+609,Smartfit,Joaquim Floriano,-23.585953,-46.6788873,São Paulo,4
+610,Smartfit,Rodrigues Alves,-23.5833513,-46.6417316,São Paulo,2
+611,Smartfit,Vila Madalena,-23.5465781,-46.6959625,São Paulo,0
+612,Smartfit,Vila Mariana,-23.584608,-46.6373423,São Paulo,1
+613,Smartfit,Clodomiro Amazonas II,-23.5920168,-46.677359,São Paulo,4
+614,Smartfit,Bom Retiro,-23.5273214,-46.6420627,São Paulo,1
+615,Smartfit,Água Branca,-23.524603,-46.6819335,São Paulo,0
+616,Smartfit,Cambuci,-23.5703724,-46.6221407,São Paulo,0
+617,Smartfit,Clélia I,-23.5253884,-46.6925166,São Paulo,3
+618,Smartfit,Gomes de Carvalho,-23.5962757,-46.6870989,São Paulo,2
+619,Smartfit,Canário,-23.6025483,-46.6682811,São Paulo,4
+620,Smartfit,Casa Verde Baixa,-23.5136032,-46.6593694,São Paulo,1
+621,Smartfit,Rua Fábia,-23.5272831,-46.6974599,São Paulo,4
+622,Smartfit,Santa Cruz,-23.5975332,-46.6362277,São Paulo,0
+623,Smartfit,Carrefour Casa Verde,-23.5140863,-46.6554568,São Paulo,1
+624,Smartfit,Jamaris,-23.6065638,-46.6599301,São Paulo,3
+625,Smartfit,Bem-te-vi,-23.6066708,-46.6699277,São Paulo,4
+626,Smartfit,Clelia III,-23.5250411,-46.7018665,São Paulo,4
+627,Smartfit,Maracatins,-23.6111698,-46.6644798,São Paulo,4
+628,Smartfit,Berrini,-23.6048356,-46.6936976,São Paulo,0
+629,Smartfit,Brooklin Paulista,-23.6101194,-46.682928,São Paulo,2
+630,Smartfit,Praça da Árvore,-23.6099732,-46.638226,São Paulo,1
+631,Smartfit,Planalto Paulista,-23.6122063,-46.6448553,São Paulo,1
+632,Smartfit,Av. Santo Amaro,-23.6136335,-46.6788016,São Paulo,3
+633,Smartfit,Campo Belo,-23.6170002,-46.6704963,São Paulo,2
+634,Smartfit,Av. Prof. Francisco Morato,-23.5854901,-46.7200434,São Paulo,2
+635,Smartfit,Alto do Ipiranga,-23.6004356,-46.6136927,São Paulo,1
+636,Smartfit,Butantã Shopping,-23.5846118,-46.7251668,São Paulo,2
+637,Smartfit,Belenzinho,-23.5398448,-46.5939032,São Paulo,2
+638,Smartfit,Corifeu,-23.5739285,-46.7357643,São Paulo,1
+639,Smartfit,Casa Verde Alta,-23.4924566,-46.6617833,São Paulo,0
+640,Smartfit,Imperatriz Leopoldina,-23.5327099,-46.7299221,São Paulo,1
+641,Smartfit,Cassandoca,-23.555297,-46.5889289,São Paulo,0
+642,Smartfit,Sacomã,-23.6013697,-46.6040685,São Paulo,2
+643,Smartfit,Mooca,-23.5767576,-46.5873563,São Paulo,2
+644,Smartfit,Mirandópolis,-23.6293658,-46.644691,São Paulo,1
+645,Smartfit,Av. Morumbi,-23.6175192,-46.7083839,São Paulo,1
+646,Smartfit,Tiete Plaza Shopping,-23.5058259,-46.717888,São Paulo,0
+647,Smartfit,Bonfiglioli,-23.5760464,-46.7419881,São Paulo,1
+648,Smartfit,Guaipá,-23.5227943,-46.7354109,São Paulo,2
+649,Smartfit,Av. Itaberaba II,-23.48741,-46.6930234,São Paulo,1
+650,Smartfit,Max Atacadista Butantã,-23.5901913,-46.7401679,São Paulo,0
+651,Smartfit,Imirim,-23.4843665,-46.637676,São Paulo,1
+652,Smartfit,Vila Prudente,-23.5853837,-46.5822475,São Paulo,2
+653,Smartfit,Assaí Jaguaré,-23.55763,-46.7485,São Paulo,1
+654,Smartfit,Av. Itaberaba I,-23.4846923,-46.6911536,São Paulo,2
+655,Smartfit,Central Plaza,-23.5939184,-46.5851343,São Paulo,1
+656,Smartfit,Francisco Ranieri,-23.4802627,-46.6433874,São Paulo,1
+657,Smartfit,Bem Barato Miguel Stefano,-23.6340593,-46.6276576,São Paulo,0
+658,Smartfit,Sam's Club Jabaquara,-23.6393149,-46.6417202,São Paulo,2
+659,Smartfit,Leonardo da Vinci,-23.6402347,-46.6405238,São Paulo,2
+660,Smartfit,Bom Parto,-23.5493167,-46.5704845,São Paulo,1
+661,Smartfit,Av. Santa Catarina I,-23.6437441,-46.6649137,São Paulo,2
+662,Smartfit,Água Fria,-23.4818962,-46.6217262,São Paulo,2
+663,Smartfit,Rio Pequeno,-23.5667123,-46.7539253,São Paulo,0
+664,Smartfit,Raposo Tavares,-23.5845985,-46.7794604,São Paulo,0
+665,Smartfit,Shopping Heliópolis,-23.6196307,-46.5922451,São Paulo,1
+666,Smartfit,Jabaquara,-23.6444428,-46.6425518,São Paulo,2
+667,Smartfit,Parque São Domingos,-23.5002133,-46.7343485,São Paulo,0
+668,Smartfit,Vila Nova Cachoeirinha,-23.4694278,-46.6570521,São Paulo,0
+669,Smartfit,Avenida Mascote,-23.648478,-46.6637138,São Paulo,2
+670,Smartfit,Avenida Celso Garcia,-23.533987,-46.5653991,São Paulo,1
+671,Smartfit,Terminal Pirituba,-23.4846815,-46.7238836,São Paulo,0
+672,Smartfit,Assaí SCS - Av. Goiás,-23.6134372,-46.5778927,São Paulo,1
+673,Smartfit,Av. das Cerejeiras,-23.5070691,-46.5776399,São Paulo,1
+674,Smartfit,Pátio Osasco,-23.5440283,-46.7632198,São Paulo,3
+675,Smartfit,Antônio Bento,-23.6455168,-46.7027543,São Paulo,0
+676,Smartfit,Tatuapé,-23.5457493,-46.5594098,São Paulo,2
+677,Smartfit,Bem Barato Parque Novo Mundo,-23.5119076,-46.5715731,São Paulo,1
+678,Smartfit,Estação Oratório,-23.582531,-46.5610473,São Paulo,1
+679,Smartfit,Open Mall Panamby,-23.6334758,-46.7288485,São Paulo,0
+680,Smartfit,União Osasco,-23.5414394,-46.7660126,São Paulo,3
+681,Smartfit,Roldão Brasilândia,-23.4679436,-46.6982274,São Paulo,0
+682,Smartfit,Shopping Metrô Tucuruvi,-23.479573,-46.6023408,São Paulo,1
+683,Smartfit,Av. Santa Catarina II,-23.656144,-46.6556736,São Paulo,0
+684,Smartfit,Morumbi,-23.6300598,-46.7379398,São Paulo,0
+685,Smartfit,Washington Luís,-23.6548246,-46.6932759,São Paulo,1
+686,Smartfit,Vila Formosa,-23.5695546,-46.5532735,São Paulo,1
+687,Smartfit,Largo do Taboão,-23.6093862,-46.7575032,São Paulo,2
+688,Smartfit,Carrefour Fundação,-23.6083637,-46.5665944,São Paulo,1
+689,Smartfit,Avenida Conselheiro Carrão,-23.5400564,-46.5511369,São Paulo,2
+690,Smartfit,Mais Shopping,-23.6530286,-46.7105358,São Paulo,1
+691,Smartfit,Sezefredo Fagundes,-23.4677778,-46.6036111,São Paulo,0
+692,Smartfit,João Dias,-23.641824,-46.735164,São Paulo,1
+693,Smartfit,Primitiva,-23.5318267,-46.7760416,São Paulo,2
+694,Smartfit,Av. Jardim Japão,-23.4782714,-46.5830268,São Paulo,1
+695,Smartfit,Vila Carrão,-23.5605888,-46.5436999,São Paulo,1
+696,Smartfit,Av. Nova Cantareira,-23.4885519,-46.6240422,São Paulo,2
+697,Smartfit,Taboão Outlet,-23.6107779,-46.7679387,São Paulo,1
+698,Smartfit,Santa Paula,-23.6237591,-46.5642806,São Paulo,0
+699,Smartfit,Shopping Penha,-23.5251244,-46.5468072,São Paulo,1
+700,Smartfit,Avenida Taboão,-23.6568665,-46.6022637,São Paulo,1
+701,Smartfit,Vila Ema,-23.5881916,-46.5436989,São Paulo,1
+702,Smartfit,Vila Alpina,-23.6034288,-46.5495165,São Paulo,0
+703,Smartfit,Raposo Shopping,-23.5879026,-46.7510194,São Paulo,0
+704,Smartfit,Shopping Taboão,-23.608103,-46.7530892,São Paulo,2
+705,Smartfit,Jaguaribe,-23.563498,-46.7908461,São Paulo,0
+706,Smartfit,Shopping Interlagos,-23.6742976,-46.6750811,São Paulo,0
+707,Smartfit,Sabará,-23.6768295,-46.6852479,São Paulo,1
+708,Smartfit,Avenida Amador Bueno,-23.5237948,-46.5344477,São Paulo,1
+709,Smartfit,Jardim Miriam,-23.6810694,-46.6391965,São Paulo,1
+710,Smartfit,Osasco KM 18,-23.5293886,-46.7941875,São Paulo,2
+711,Smartfit,SP Market,-23.6791359,-46.6949087,São Paulo,1
+712,Smartfit,Shopping Campo Limpo,-23.6495485,-46.7573709,São Paulo,0
+713,Smartfit,Internacional Shopping,-23.4889788,-46.548651,São Paulo,2
+714,Smartfit,Av. Guarulhos,-23.4914328,-46.5455167,São Paulo,2
+715,Smartfit,Osasco - Av. Getúlio Vargas,-23.5061121,-46.788828,São Paulo,0
+716,Smartfit,Parque São Lucas,-23.6020236,-46.5308739,São Paulo,1
+717,Smartfit,Bem Barato Rudge Ramos,-23.6581043,-46.5680713,São Paulo,2
+718,Smartfit,Cantareira Norte Shopping,-23.445098,-46.723084,São Paulo,0
+719,Smartfit,Assaí Anchieta,-23.6688917,-46.5760158,São Paulo,1
+720,Smartfit,Campestre,-23.6372776,-46.5443008,São Paulo,0
+721,Smartfit,Taboão - Kizaemon 1047,-23.6351578,-46.786961,São Paulo,2
+722,Smartfit,Capelinha,-23.6582396,-46.7657983,São Paulo,1
+723,Smartfit,Shopping Praça da Moça,-23.6914357,-46.6230788,São Paulo,2
+724,Smartfit,Sapopemba,-23.5986894,-46.5173338,São Paulo,2
+725,Smartfit,D'avó Jardim Clementino,-23.635455,-46.7891228,São Paulo,2
+726,Smartfit,Rio das Pedras,-23.5682541,-46.5100367,São Paulo,2
+727,Smartfit,Estrada do Alvarenga,-23.7000258,-46.6460358,São Paulo,0
+728,Smartfit,Estrada do M'Boi Mirim,-23.6753742,-46.7550235,São Paulo,0
+729,Smartfit,Roldão Osasco,-23.5248568,-46.8147991,São Paulo,0
+730,Smartfit,Príncipe de Gales,-23.6618792,-46.54978,São Paulo,1
+731,Smartfit,Grand Plaza,-23.6466779,-46.5337893,São Paulo,1
+732,Smartfit,Parque Santa Teresa,-23.5670428,-46.8192145,São Paulo,0
+733,Smartfit,Ponte Rasa,-23.5104171,-46.5079457,São Paulo,0
+734,Smartfit,Shopping Diadema,-23.7047254,-46.6175221,São Paulo,0
+735,Smartfit,Gamelinha,-23.5503543,-46.4970137,São Paulo,1
+736,Smartfit,Capão Redondo,-23.6723612,-46.7738029,São Paulo,1
+737,Smartfit,Avenida João Paulo II - Embu das Artes,-23.6470531,-46.7997395,São Paulo,1
+738,Smartfit,Parque das Nações,-23.6366379,-46.5165953,São Paulo,1
+739,Smartfit,Bosque Maia,-23.4636745,-46.5280186,São Paulo,1
+740,Smartfit,Metrô Sapopemba,-23.5953555,-46.5245439,São Paulo,2
+741,Smartfit,Vila Dirce,-23.5525322,-46.8351214,São Paulo,1
+742,Smartfit,Centro,-23.519823,-46.8342984,São Paulo,1
+743,Smartfit,Transguarulhense,-23.4330561,-46.537633,São Paulo,1
+744,Smartfit,Lar ABC Shopping,-23.6781047,-46.5382059,São Paulo,1
+745,Smartfit,Parque Oratório,-23.6359585,-46.5033011,São Paulo,1
+746,Smartfit,Shopping Metrópole,-23.6944977,-46.5517723,São Paulo,0
+747,Smartfit,Granja Viana - São Camilo,-23.5759764,-46.8479447,São Paulo,1
+748,Smartfit,Poupaki Cidade Dutra,-23.7272074,-46.6979752,São Paulo,1
+749,Smartfit,Teotonio Vilela I,-23.7276993,-46.6988468,São Paulo,1
+750,Smartfit,Avenida São Miguel I,-23.5074508,-46.4841016,São Paulo,1
+751,Smartfit,Avenida Castelo Branco,-23.7167949,-46.5844915,São Paulo,1
+752,Smartfit,Pirelli,-23.6635608,-46.5134847,São Paulo,1
+753,Smartfit,Shopping Pátio Guarulhos,-23.4286409,-46.5366889,São Paulo,1
+754,Smartfit,Granja Viana Km 25,-23.6013344,-46.8470398,São Paulo,0
+755,Smartfit,Estação São Mateus,-23.600541,-46.5120059,São Paulo,1
+756,Smartfit,Shopping Metrô Itaquera,-23.5326001,-46.4505396,São Paulo,3
+757,Smartfit,Cocaia,-23.440593,-46.5221896,São Paulo,0
+758,Smartfit,Alphaville II,-23.4996348,-46.843645,São Paulo,1
+759,Smartfit,Parque Shopping Barueri,-23.5134029,-46.855564,São Paulo,0
+760,Smartfit,Av. Prestes Maia,-23.7069565,-46.5473627,São Paulo,2
+761,Smartfit,Avenida São Miguel II,-23.5019775,-46.471602,São Paulo,0
+762,Smartfit,Valo Velho,-23.6887425,-46.8099014,São Paulo,0
+763,Smartfit,Jardim Adriana,-23.4244649,-46.523924,São Paulo,1
+764,Smartfit,Alphaville I,-23.4990905,-46.854087,São Paulo,2
+765,Smartfit,Rua João Pessoa,-23.7134241,-46.5482374,São Paulo,2
+766,Smartfit,Teotonio Vilela II,-23.7442476,-46.7071933,São Paulo,0
+767,Smartfit,Belmira Marin,-23.7472543,-46.6879609,São Paulo,1
+768,Smartfit,Estrada das Pitas,-23.5474947,-46.870877,São Paulo,0
+769,Smartfit,Vianas,-23.707179,-46.5275606,São Paulo,1
+770,Smartfit,Parque Boa Esperança,-23.5964488,-46.4540654,São Paulo,1
+771,Smartfit,Residencial Cocaia,-23.74658,-46.6714893,São Paulo,1
+772,Smartfit,Embu das Artes,-23.6519399,-46.8497683,São Paulo,0
+773,Smartfit,Plaza Shopping,-23.7232218,-46.543195,São Paulo,1
+774,Smartfit,Vila Carmosina,-23.55732,-46.44626,São Paulo,1
+775,Smartfit,Sábbado D’Angelo,-23.551365,-46.4453884,São Paulo,1
+776,Smartfit,D'avó São Miguel Paulista,-23.4991118,-46.4546863,São Paulo,1
+777,Smartfit,Vila Luzita,-23.6981622,-46.5042563,São Paulo,1
+778,Smartfit,Mendes Vila Natal,-23.7556313,-46.7082896,São Paulo,0
+779,Smartfit,Barueri - Av Zélia,-23.5411246,-46.885461,São Paulo,0
+780,Smartfit,Barueri Centro,-23.5111036,-46.8822247,São Paulo,0
+781,Smartfit,Jardim Capela,-23.7334395,-46.7873259,São Paulo,1
+782,Smartfit,São Miguel Paulista,-23.492297,-46.445579,São Paulo,0
+783,Smartfit,Mauá,-23.6650001,-46.458724,São Paulo,1
+784,Smartfit,Terminal Varginha,-23.7718542,-46.7125514,São Paulo,0
+785,Smartfit,Guaianazes,-23.5424655,-46.4248518,São Paulo,0
+786,Smartfit,Nordestina,-23.5126543,-46.4276671,São Paulo,0
+787,Smartfit,Caieiras,-23.3496586,-46.7432423,São Paulo,1
+788,Smartfit,Jandira Centro,-23.5304399,-46.9028053,São Paulo,1
+789,Smartfit,Jandira Ouro Verde,-23.5270797,-46.9022205,São Paulo,1
+790,Smartfit,Shopping Cidade Tiradentes,-23.5770229,-46.4162866,São Paulo,2
+791,Smartfit,Itapecerica da Serra,-23.7114643,-46.8484087,São Paulo,1
+792,Smartfit,Cidade Tiradentes,-23.5798456,-46.4113863,São Paulo,2
+793,Smartfit,Barão de Mauá,-23.664824,-46.4342158,São Paulo,0
+794,Smartfit,Franco da Rocha,-23.3287797,-46.7275339,São Paulo,0
+795,Smartfit,Cajamar,-23.4059942,-46.8645368,São Paulo,1
+796,Smartfit,Itapevi Centro,-23.5472194,-46.9346897,São Paulo,2
+797,Smartfit,Itaim Paulista,-23.5068686,-46.3960126,São Paulo,2
+798,Smartfit,Itapevi,-23.5418973,-46.9347897,São Paulo,2
+799,Smartfit,Cidade Kemel,-23.4615674,-46.4977554,São Paulo,0
+800,Smartfit,Marechal Tito,-23.4930945,-46.3887277,São Paulo,0
+801,Smartfit,Shopping Bonsucesso,-23.44396,-46.40809,São Paulo,1
+802,Smartfit,Ribeirão Pires,-23.7076017,-46.4032526,São Paulo,1
+803,Smartfit,Avenida Brasil,-23.5352,-46.3560447,São Paulo,0
+804,Smartfit,Shopping Pateo Itaquá,-23.4960988,-46.3483928,São Paulo,0
+805,Smartfit,Embu-Guaçu,-23.8229437,-46.8173482,São Paulo,0
+806,Smartfit,Suzano,-23.5418933,-46.3191107,São Paulo,0
+807,Smartfit,Arujá,-23.3946557,-46.3154974,São Paulo,0
+808,Smartfit,Cubatão,-23.8882576,-46.4201975,São Paulo,1
+809,Smartfit,Av. Imigrantes Italianos,-23.1877473,-46.8544538,São Paulo,1
+810,Smartfit,Leroy Jundiaí,-23.191077,-46.8712754,São Paulo,1
+811,Smartfit,Jundiaí Shopping,-23.1996761,-46.889651,São Paulo,1
+812,Smartfit,Av. Fernando Costa,-23.5306796,-46.2071045,São Paulo,2
+813,Smartfit,Maxi Shopping,-23.1692949,-46.8917403,São Paulo,0
+814,Smartfit,Av. Vereador Narciso,-23.5159098,-46.1795654,São Paulo,1
+815,Smartfit,Av. Antônio Pincinato,-23.1818406,-46.9232494,São Paulo,0
+816,Smartfit,Atibaia,-23.1176132,-46.5604523,São Paulo,1
+817,Smartfit,Jundiaí - R. Dr Ramiro,-23.1692423,-46.9107107,São Paulo,0
+818,Smartfit,Roldão São Vicente,-23.9492435,-46.3972523,São Paulo,0
+819,Smartfit,Rua Frei Gaspar,-23.9616911,-46.3946819,São Paulo,0
+820,Smartfit,Jundiaí CECAP,-23.143748,-46.9146349,São Paulo,0
+821,Smartfit,Avenida Presidente Wilson,-23.9659488,-46.381104,São Paulo,2
+822,Smartfit,Litoral Plaza,-23.9960843,-46.4076257,São Paulo,1
+823,Smartfit,Ocian,-24.0240512,-46.4739947,São Paulo,0
+824,Smartfit,Ana Costa II,-23.9557792,-46.3320642,São Paulo,1
+825,Smartfit,Emissário,-23.9674725,-46.3475499,São Paulo,1
+826,Smartfit,Assaí Ana Costa,-23.9588201,-46.3323225,São Paulo,2
+827,Smartfit,Pres. Costa e Silva,-24.0061566,-46.4132149,São Paulo,4
+828,Smartfit,Ana Costa 1,-23.968769,-46.3332901,São Paulo,3
+829,Smartfit,Vicente de Carvalho,-23.9564781,-46.2891807,São Paulo,1
+830,Smartfit,Embaré,-23.9755723,-46.3138573,São Paulo,1
+831,Smartfit,Enseada,-23.9685212,-46.2128381,São Paulo,0
+832,Smartfit,Pão de Açúcar Enseada,-23.9882974,-46.248482,São Paulo,0
+833,Smartfit,Pitangueiras,-23.9960173,-46.2557418,São Paulo,0
+834,Smartfit,Bragança Paulista,-22.9742608,-46.5355655,São Paulo,0
+835,Smartfit,Jacareí,-23.3014653,-45.9678491,São Paulo,2
+836,Smartfit,Indaiatuba,-23.0958316,-47.2235547,São Paulo,1
+837,Smartfit,Boa Supermercados Vila Hortência,-23.5119307,-47.4338388,São Paulo,0
+838,Smartfit,Prado Boulevard,-22.9376867,-47.0499212,São Paulo,0
+839,Smartfit,Abolição,-22.918021,-47.0533035,São Paulo,2
+840,Smartfit,Além Ponte,-23.500438,-47.449006,São Paulo,0
+841,Smartfit,Villa Branca,-23.2678015,-45.9406698,São Paulo,0
+842,Smartfit,Pereira Inácio,-23.513256,-47.4559346,São Paulo,2
+843,Smartfit,Campinas Shopping,-22.9310074,-47.0790181,São Paulo,2
+844,Smartfit,Campolim,-23.5222048,-47.4644423,São Paulo,1
+845,Smartfit,Assaí Amoreiras,-22.9447652,-47.1094146,São Paulo,2
+846,Smartfit,General Carneiro,-23.5041834,-47.479272,São Paulo,1
+847,Smartfit,Cambuí II,-22.8979276,-47.0567714,São Paulo,2
+848,Smartfit,Tauste Itavuvu,-23.4809616,-47.4733208,São Paulo,2
+849,Smartfit,Shopping Cidade Sorocaba,-23.4662006,-47.4790543,São Paulo,1
+850,Smartfit,Jorge Krug,-22.891493,-47.061323,São Paulo,2
+851,Smartfit,Parque Industrial,-23.2388863,-45.9098966,São Paulo,2
+852,Smartfit,Parque das Bandeiras,-22.9254442,-47.1272285,São Paulo,0
+853,Smartfit,Avenida Ipanema,-23.4581337,-47.5029595,São Paulo,1
+854,Smartfit,Aquarius,-23.2149446,-45.9020974,São Paulo,2
+855,Smartfit,Chácara Primavera,-22.8581252,-47.0469088,São Paulo,2
+856,Smartfit,Satelite,-23.2224016,-45.8853578,São Paulo,2
+857,Smartfit,Center Vale,-23.200802,-45.8804556,São Paulo,0
+858,Smartfit,Barão Geraldo,-22.8220271,-47.0870861,São Paulo,1
+859,Smartfit,Hortolândia,-22.8637238,-47.2136602,São Paulo,1
+860,Smartfit,Paulínia,-22.7714791,-47.147559,São Paulo,1
+861,Smartfit,Boituva,-23.2842027,-47.6739941,São Paulo,1
+862,Smartfit,Americana,-22.7532856,-47.3477901,São Paulo,0
+863,Smartfit,Santa Bárbara D’Oeste,-22.7499692,-47.3740211,São Paulo,0
+864,Smartfit,Taubaté,-23.0299512,-45.5792025,São Paulo,1
+865,Smartfit,Serramar Shopping,-23.6548536,-45.4362724,São Paulo,0
+866,Smartfit,Extra Taubaté,-23.0371719,-45.5596027,São Paulo,1
+867,Smartfit,Limeira,-22.5692982,-47.3991208,São Paulo,1
+868,Smartfit,Limeira II - Av. Comendador Agostinho Prada,-22.578429,-47.4209606,São Paulo,1
+869,Smartfit,Mogi Guaçu,-22.3759811,-46.9433946,São Paulo,1
+870,Smartfit,Av. 31 de Março,-22.748004,-47.643919,São Paulo,1
+871,Smartfit,Vila Rezende,-22.7036165,-47.6531081,São Paulo,0
+872,Smartfit,Pinda,-22.9376825,-45.4618625,São Paulo,1
+873,Smartfit,Itapetininga,-23.5859938,-48.0484642,São Paulo,0
+874,Smartfit,Araras,-22.3593091,-47.3928742,São Paulo,1
+875,Smartfit,Rio Claro,-22.4202521,-47.5673872,São Paulo,0
+876,Smartfit,Bretas Pouso Alegre,-22.233982,-45.9289016,Minas Gerais,0
+877,Smartfit,Buriti Shopping Guaratinguetá,-22.8125976,-45.1975704,São Paulo,1
+878,Smartfit,São João da Boa Vista,-21.9803791,-46.7865486,São Paulo,1
+879,Smartfit,Lorena,-22.7458196,-45.1086725,São Paulo,0
+880,Smartfit,Poços de Caldas,-21.7859415,-46.5789317,Minas Gerais,1
+881,Smartfit,Avaré,-23.0953453,-48.9400249,São Paulo,1
+882,Smartfit,Jaú,-22.2980566,-48.5436247,São Paulo,0
+883,Smartfit,Shopping Piratas,-23.0031218,-44.2996996,Rio de Janeiro,0
+884,Smartfit,Av. Trinta e Seis,-21.781122,-48.1880326,São Paulo,1
+885,Smartfit,Maurício Galli,-21.7630764,-48.1644867,São Paulo,0
+886,Smartfit,Varginha,-21.5598997,-45.4426434,Minas Gerais,0
+887,Smartfit,Resende Shopping,-22.4658559,-44.4523229,Rio de Janeiro,0
+888,Smartfit,Av. Getúlio Vargas I,-22.3558933,-49.0482399,São Paulo,1
+889,Smartfit,Barra Mansa,-22.5446103,-44.1737478,Rio de Janeiro,0
+890,Smartfit,Av. Getúlio Vargas II,-22.3407492,-49.0615545,São Paulo,1
+891,Smartfit,Paranaguá,-25.5192307,-48.5077374,Paraná,0
+892,Smartfit,Trio,-21.1995499,-47.8079042,São Paulo,2
+893,Smartfit,Volta Redonda,-22.5124491,-44.0901612,Rio de Janeiro,0
+894,Smartfit,Neo,-21.1899608,-47.7925206,São Paulo,2
+895,Smartfit,Shopping Santa Úrsula,-21.1824408,-47.8083188,São Paulo,0
+896,Smartfit,Mall Dom Pedro I,-21.1499594,-47.8271251,São Paulo,0
+897,Smartfit,Itaguaí,-22.8699079,-43.7671618,Rio de Janeiro,0
+898,Smartfit,Pedra de Guaratiba,-22.9676859,-43.6480084,Rio de Janeiro,0
+899,Smartfit,ParkShopping Campo Grande,-22.9268456,-43.5757112,Rio de Janeiro,0
+900,Smartfit,Colombo,-25.3607166,-49.1868356,Paraná,0
+901,Smartfit,Mall Cachamorra,-22.9280524,-43.5539796,Rio de Janeiro,0
+902,Smartfit,Calçadão Campo Grande,-22.9042576,-43.5586476,Rio de Janeiro,0
+903,Smartfit,Santa Cândida,-25.3744783,-49.2194135,Paraná,0
+904,Smartfit,Bacacheri,-25.3905361,-49.2232711,Paraná,0
+905,Smartfit,Pinhais,-25.4121513,-49.1901979,Paraná,0
+906,Smartfit,Guiomar Novaes,-23.0190533,-43.4833057,Rio de Janeiro,3
+907,Smartfit,Av. Iraí,-25.4476341,-49.1874299,Paraná,0
+908,Smartfit,Queimados,-22.7172866,-43.5540108,Rio de Janeiro,1
+909,Smartfit,Taruma,-25.427986,-49.2300269,Paraná,0
+910,Smartfit,Crispim Laranjeira,-23.0129986,-43.4581984,Rio de Janeiro,0
+911,Smartfit,Ourinhos Plaza Shopping,-22.9803653,-49.8634168,São Paulo,0
+912,Smartfit,Juvevê,-25.417824,-49.2461558,Paraná,0
+913,Smartfit,Gelson Fonseca,-23.0008718,-43.3692248,Rio de Janeiro,1
+914,Smartfit,Bangu Shopping,-22.8780848,-43.4674897,Rio de Janeiro,0
+915,Smartfit,Nova Iguaçu - Jardim Alvorada,-22.7631337,-43.4993197,Rio de Janeiro,0
+916,Smartfit,Express Mall Uberaba,-25.4822575,-49.2243252,Paraná,0
+917,Smartfit,Shopping Estação,-25.4381052,-49.2665602,Paraná,0
+918,Smartfit,Abílio Távora,-22.7611204,-43.4572197,Rio de Janeiro,3
+919,Smartfit,Rebouças,-25.452839,-49.2616142,Paraná,0
+920,Smartfit,Shopping Curitiba,-25.4409909,-49.2774894,Paraná,3
+921,Smartfit,Hauer,-25.4743278,-49.2587853,Paraná,0
+922,Smartfit,Riocentro,-22.9798861,-43.4116707,Rio de Janeiro,0
+923,Smartfit,Shopping São José,-25.5392144,-49.203886,Paraná,0
+924,Smartfit,Allways Mall,-22.9991632,-43.4049766,Rio de Janeiro,1
+925,Smartfit,Santa Felicidade,-25.4054641,-49.3264339,Paraná,0
+926,Smartfit,Água Verde,-25.4539753,-49.288673,Paraná,0
+927,Smartfit,Mário Guimarães,-22.7579988,-43.457613,Rio de Janeiro,3
+928,Smartfit,Boqueirão,-25.5205898,-49.2357294,Paraná,0
+929,Smartfit,Parque Barigui,-25.4327589,-49.3128456,Paraná,0
+930,Smartfit,Avenida Sete de Setembro,-25.4506516,-49.3001445,Paraná,0
+931,Smartfit,Dom Walmor,-22.7565784,-43.4529533,Rio de Janeiro,3
+932,Smartfit,Alto da Posse,-22.7069101,-43.4373956,Rio de Janeiro,0
+933,Smartfit,Atacadão Arthur Bernardes,-25.4638999,-49.3013401,Paraná,0
+934,Smartfit,Via Light,-22.7592562,-43.4437,Rio de Janeiro,1
+935,Smartfit,Pedro Corrêa,-22.9613339,-43.3903637,Rio de Janeiro,0
+936,Smartfit,Bosque da Barra,-23.0010151,-43.3735815,Rio de Janeiro,1
+937,Smartfit,Mesquita,-22.7841551,-43.4304396,Rio de Janeiro,0
+938,Smartfit,Rancho Novo Supermercado Royal,-22.7451686,-43.4391833,Rio de Janeiro,0
+939,Smartfit,Carmela Dutra,-22.8072672,-43.4152457,Rio de Janeiro,1
+940,Smartfit,Avenida dos Mananciais,-22.9172162,-43.3849493,Rio de Janeiro,0
+941,Smartfit,Pinheirinho,-25.5071403,-49.2865033,Paraná,0
+942,Smartfit,Via Parque,-22.9827365,-43.360893,Rio de Janeiro,1
+943,Smartfit,Franca,-20.5504537,-47.4030206,São Paulo,0
+944,Smartfit,Estrada do Cafundá,-22.9142731,-43.3738455,Rio de Janeiro,0
+945,Smartfit,Cidade de Deus,-22.9398582,-43.3684169,Rio de Janeiro,0
+946,Smartfit,Tindiba,-22.9250266,-43.3705086,Rio de Janeiro,2
+947,Smartfit,Pedro Gusso,-25.4989858,-49.3097593,Paraná,0
+948,Smartfit,Fazendinha,-25.4780634,-49.3298476,Paraná,1
+949,Smartfit,Sítio Cercado,-25.5362358,-49.2838361,Paraná,0
+950,Smartfit,Barra Garden,-23.001079,-43.3418563,Rio de Janeiro,1
+951,Smartfit,Guanabara Tanque,-22.9134872,-43.361199,Rio de Janeiro,0
+952,Smartfit,Vila Valqueire,-22.8833215,-43.3684485,Rio de Janeiro,0
+953,Smartfit,Belford Roxo,-22.7654655,-43.3998112,Rio de Janeiro,0
+954,Smartfit,Guanabara Barra,-23.001215,-43.3382973,Rio de Janeiro,1
+955,Smartfit,Praça Seca,-22.90125,-43.3551483,Rio de Janeiro,0
+956,Smartfit,Guadalupe,-22.8350525,-43.3610171,Rio de Janeiro,0
+957,Smartfit,Estrada de Jacarepaguá,-22.9417118,-43.3426011,Rio de Janeiro,3
+958,Smartfit,Park Jacarepaguá,-22.954455,-43.3375572,Rio de Janeiro,0
+959,Smartfit,Shopping Rio das Pedras,-22.9719464,-43.3315307,Rio de Janeiro,1
+960,Smartfit,Jacarepaguá,-22.9373827,-43.3382306,Rio de Janeiro,2
+961,Smartfit,Assaí Barra Américas,-23.0018906,-43.3232791,Rio de Janeiro,1
+962,Smartfit,Pavuna,-22.8039936,-43.3598922,Rio de Janeiro,0
+963,Smartfit,Guanabara Campinho,-22.8808915,-43.3397254,Rio de Janeiro,2
+964,Smartfit,Madureira Shopping,-22.870455,-43.3410831,Rio de Janeiro,1
+965,Smartfit,Madureira,-22.8736594,-43.3379905,Rio de Janeiro,2
+966,Smartfit,Olegário Maciel,-23.0097112,-43.3043122,Rio de Janeiro,1
+967,Smartfit,Vilar dos Teles,-22.7766776,-43.3614067,Rio de Janeiro,0
+968,Smartfit,Shopping Grande Rio,-22.795967,-43.3510244,Rio de Janeiro,0
+969,Smartfit,Cascadura,-22.8832478,-43.3216522,Rio de Janeiro,0
+970,Smartfit,Irajá,-22.8336061,-43.3273088,Rio de Janeiro,0
+971,Smartfit,Carioca Shopping,-22.849763,-43.311054,Rio de Janeiro,0
+972,Smartfit,Vila da Penha,-22.8343156,-43.3086011,Rio de Janeiro,0
+973,Smartfit,Shopping Méier,-22.9037716,-43.2833239,Rio de Janeiro,2
+974,Smartfit,Duque de Caxias 2,-22.785267,-43.3118328,Rio de Janeiro,2
+975,Smartfit,Méier,-22.9031453,-43.2814034,Rio de Janeiro,2
+976,Smartfit,NorteShopping,-22.886543,-43.2841786,Rio de Janeiro,2
+977,Smartfit,Dom Helder,-22.887681,-43.2817998,Rio de Janeiro,2
+978,Smartfit,Duque de Caxias,-22.7891035,-43.3063457,Rio de Janeiro,2
+979,Smartfit,Fazenda Rio Grande,-25.64583,-49.3144639,Paraná,0
+980,Smartfit,Av. Brás de Pina,-22.8417378,-43.2814961,Rio de Janeiro,0
+981,Smartfit,Penha Circular,-22.836265,-43.2730769,Rio de Janeiro,1
+982,Smartfit,Olaria,-22.8489618,-43.2705331,Rio de Janeiro,1
+983,Smartfit,Caxias Shopping,-22.7866898,-43.2864439,Rio de Janeiro,0
+984,Smartfit,Uruguai,-22.9255337,-43.2459543,Rio de Janeiro,2
+985,Smartfit,Vila Isabel,-22.9160583,-43.2480545,Rio de Janeiro,1
+986,Smartfit,Dias Ferreira,-22.985588,-43.2287162,Rio de Janeiro,5
+987,Smartfit,Rua Conde de Bonfim II,-22.930674,-43.2386193,Rio de Janeiro,4
+988,Smartfit,Av. Maracanã I,-22.9266786,-43.2390013,Rio de Janeiro,5
+989,Smartfit,Bonsucesso,-22.8650793,-43.2533427,Rio de Janeiro,0
+990,Smartfit,Bartolomeu Mitre,-22.982842,-43.2237989,Rio de Janeiro,7
+991,Smartfit,Boulevard 28,-22.9141566,-43.2387746,Rio de Janeiro,3
+992,Smartfit,Rua Conde de Bonfim I,-22.9252986,-43.2347497,Rio de Janeiro,6
+993,Smartfit,Gávea,-22.9736225,-43.2253161,Rio de Janeiro,1
+994,Smartfit,Leblon,-22.9848409,-43.2211988,Rio de Janeiro,6
+995,Smartfit,Prezunic Benfica,-22.8923315,-43.2411632,Rio de Janeiro,0
+996,Smartfit,Av. Maracanã II,-22.9174328,-43.2314173,Rio de Janeiro,5
+997,Smartfit,São Cristovão,-22.9001759,-43.2269876,Rio de Janeiro,0
+998,Smartfit,Barão da Torre,-22.9827234,-43.2065476,Rio de Janeiro,4
+999,Smartfit,Haddock Lobo,-22.9208471,-43.2199267,Rio de Janeiro,2
+1000,Smartfit,Visconde de Pirajá,-22.9848286,-43.2000896,Rio de Janeiro,5
+1001,Smartfit,Ipanema,-22.9842981,-43.1991249,Rio de Janeiro,6
+1002,Smartfit,Humaitá,-22.959491,-43.2019964,Rio de Janeiro,2
+1003,Smartfit,Francisco Sá,-22.9833761,-43.1916661,Rio de Janeiro,5
+1004,Smartfit,Pompeu Loureiro,-22.9732756,-43.1922221,Rio de Janeiro,8
+1005,Smartfit,Voluntários da Pátria II,-22.9551878,-43.1954855,Rio de Janeiro,3
+1006,Smartfit,Nsa. Copacabana 928,-22.9754333,-43.1901259,Rio de Janeiro,8
+1007,Smartfit,Nsa. Copacabana 749,-22.9725622,-43.187848,Rio de Janeiro,10
+1008,Smartfit,Barata Ribeiro,-22.9699165,-43.1880607,Rio de Janeiro,9
+1009,Smartfit,Nsa. Copacabana 690,-22.9709036,-43.1870008,Rio de Janeiro,9
+1010,Smartfit,Voluntários da Pátria I,-22.9530569,-43.1897513,Rio de Janeiro,4
+1011,Smartfit,Copacabana Siqueira Campos,-22.9667914,-43.1862918,Rio de Janeiro,8
+1012,Smartfit,Laranjeiras,-22.9358613,-43.1901688,Rio de Janeiro,0
+1013,Smartfit,Tonelero,-22.9655568,-43.1827375,Rio de Janeiro,6
+1014,Smartfit,Bambina,-22.9479808,-43.1862747,Rio de Janeiro,4
+1015,Smartfit,Rua da Passagem,-22.955419,-43.181019,Rio de Janeiro,3
+1016,Smartfit,Rua Riachuelo,-22.9141038,-43.1855439,Rio de Janeiro,1
+1017,Smartfit,Largo do Machado,-22.9315062,-43.1787761,Rio de Janeiro,3
+1018,Smartfit,Ilha do Governador,-22.8060016,-43.2094187,Rio de Janeiro,0
+1019,Smartfit,Marquês de Abrantes,-22.9340614,-43.1775854,Rio de Janeiro,4
+1020,Smartfit,Senador Vergueiro,-22.9359742,-43.175088,Rio de Janeiro,4
+1021,Smartfit,Uruguaiana,-22.9038646,-43.1809403,Rio de Janeiro,4
+1022,Smartfit,Praça Passeio Público,-22.9121975,-43.1779717,Rio de Janeiro,4
+1023,Smartfit,Metrô Carioca,-22.9068423,-43.1781471,Rio de Janeiro,4
+1024,Smartfit,Cocotá,-22.8050714,-43.1822078,Rio de Janeiro,0
+1025,Smartfit,Comendador Fragata,-22.2258925,-49.9353683,São Paulo,0
+1026,Smartfit,Ingá,-22.901276,-43.1235888,Rio de Janeiro,0
+1027,Smartfit,Moreira César,-22.8194897,-43.3787388,Rio de Janeiro,0
+1028,Smartfit,Aventureiro,-26.2511649,-48.8205593,Santa Catarina,0
+1029,Smartfit,Mariz e Barros,-22.9097081,-43.1081872,Rio de Janeiro,1
+1030,Smartfit,João Pessoa,-22.9034915,-43.1018899,Rio de Janeiro,3
+1031,Smartfit,Fonseca,-22.8815816,-43.092327,Rio de Janeiro,0
+1032,Smartfit,Saguaçu,-26.2772492,-48.8492737,Santa Catarina,0
+1033,Smartfit,Petrópolis,-22.512279,-43.179689,Rio de Janeiro,0
+1034,Smartfit,Niterói - Itaipu,-22.9476198,-43.0312848,Rio de Janeiro,0
+1035,Smartfit,Bucarein,-26.3158143,-48.8427853,Santa Catarina,2
+1036,Smartfit,Shopping Estação Joinville,-26.3206336,-48.8457141,Santa Catarina,1
+1037,Smartfit,São Gonçalo Centro,-22.8231884,-43.0487912,Rio de Janeiro,0
+1038,Smartfit,Jardim Alcântara,-22.8330235,-43.0059922,Rio de Janeiro,0
+1039,Smartfit,Alfredo Backer,-22.819017,-43.0076463,Rio de Janeiro,0
+1040,Smartfit,Magé,-22.6583061,-43.0400091,Rio de Janeiro,0
+1041,Smartfit,Barcelos Vista Alegre,-22.8023789,-42.9640424,Rio de Janeiro,0
+1042,Smartfit,São Pedro,-21.7728754,-43.3759526,Minas Gerais,0
+1043,Smartfit,Moinho,-21.7335329,-43.3944854,Minas Gerais,0
+1044,Smartfit,Independência,-21.7663319,-43.347758,Minas Gerais,0
+1045,Smartfit,Avenida Rio Branco,-21.75628,-43.3511731,Minas Gerais,0
+1046,Smartfit,Teresópolis,-22.4163839,-42.9724604,Rio de Janeiro,0
+1047,Smartfit,Itaborai,-22.7459282,-42.8623484,Rio de Janeiro,1
+1048,Smartfit,Maricá,-22.9157037,-42.8170052,Rio de Janeiro,1
+1049,Smartfit,Jaraguá do Sul,-26.4795646,-49.0856198,Santa Catarina,0
+1050,Smartfit,Avenida JK,-20.827681,-49.4048321,São Paulo,0
+1051,Smartfit,Shopping Cidade Norte,-20.7713353,-49.3865477,São Paulo,0
+1052,Smartfit,Divinópolis,-20.1445396,-44.8952617,Minas Gerais,1
+1053,Smartfit,Itajaí,-26.9063742,-48.6583531,Santa Catarina,1
+1054,Smartfit,Mata do Ipê,-19.7632045,-47.936222,Minas Gerais,0
+1055,Smartfit,Blumenau,-26.886531,-49.0687685,Santa Catarina,1
+1056,Smartfit,Shopping Uberaba,-19.7661205,-47.9519722,Minas Gerais,0
+1057,Smartfit,Uberaba,-19.7516543,-47.9453891,Minas Gerais,0
+1058,Smartfit,Nova Friburgo,-22.290009,-42.5371696,Rio de Janeiro,0
+1059,Smartfit,Shopping Araruama,-22.8787796,-42.3411676,Rio de Janeiro,0
+1060,Smartfit,Quintino,-23.3054366,-51.16854,Paraná,2
+1061,Smartfit,Londrina - Av Maringá,-23.3175296,-51.1767173,Paraná,0
+1062,Smartfit,Aurora Shopping,-23.3290717,-51.1778634,Paraná,0
+1063,Smartfit,Araçatuba,-21.2220969,-50.4354996,São Paulo,1
+1064,Smartfit,Cambé - Max Santo Amaro,-23.2952959,-51.2339721,Paraná,0
+1065,Smartfit,São Pedro da Aldeia,-22.8325,-42.0962,Rio de Janeiro,0
+1066,Smartfit,Betim Shopping,-19.9608251,-44.1998199,Minas Gerais,0
+1067,Smartfit,Cabo Frio,-22.8981761,-42.0393152,Rio de Janeiro,1
+1068,Smartfit,Barreiro II,-19.9938418,-44.0333031,Minas Gerais,0
+1069,Smartfit,Floripa Shopping,-27.5356933,-48.5100149,Santa Catarina,0
+1070,Smartfit,Barreiro I,-19.9748569,-44.0215245,Minas Gerais,0
+1071,Smartfit,Agronômica,-27.5752647,-48.5272417,Santa Catarina,0
+1072,Smartfit,Contagem,-19.9439787,-44.0404427,Minas Gerais,2
+1073,Smartfit,Itaú Power Shopping,-19.9473819,-44.0237833,Minas Gerais,1
+1074,Smartfit,Novo Buritis,-19.9760093,-43.9708997,Minas Gerais,0
+1075,Smartfit,Beira Mar Norte,-27.588666,-48.5573413,Santa Catarina,1
+1076,Smartfit,Buritis,-19.9680923,-43.9640852,Minas Gerais,0
+1077,Smartfit,Estreito,-27.5798787,-48.5870899,Santa Catarina,1
+1078,Smartfit,BH Shopping,-19.9916123,-43.9577834,Minas Gerais,0
+1079,Smartfit,Votuporanga,-20.4219142,-49.9686812,São Paulo,1
+1080,Smartfit,Coração Eucarístico,-19.9261186,-43.9927611,Minas Gerais,0
+1081,Smartfit,Coqueiros,-27.6054208,-48.5766282,Santa Catarina,0
+1082,Smartfit,Luxemburgo,-19.9472458,-43.9548554,Minas Gerais,1
+1083,Smartfit,Nova Suissa,-19.930014,-43.972302,Minas Gerais,0
+1084,Smartfit,Avenida Prudente de Morais,-19.9407017,-43.9478194,Minas Gerais,2
+1085,Smartfit,Anchieta,-19.9516996,-43.927955,Minas Gerais,1
+1086,Smartfit,Savassi,-19.9395482,-43.9364882,Minas Gerais,2
+1087,Smartfit,Rua Rio de Janeiro,-19.9309559,-43.9416885,Minas Gerais,3
+1088,Smartfit,Castelo 2,-19.8867656,-44.0063458,Minas Gerais,0
+1089,Smartfit,Cláudio Manoel,-19.935195,-43.9257406,Minas Gerais,2
+1090,Smartfit,Castelo 1,-19.8887595,-43.9938905,Minas Gerais,1
+1091,Smartfit,Shopping Cidade,-19.9220671,-43.9404003,Minas Gerais,1
+1092,Smartfit,Shopping Del Rey,-19.8891253,-43.967888,Minas Gerais,0
+1093,Smartfit,Horto,-19.9081591,-43.9131275,Minas Gerais,1
+1094,Smartfit,Rio das Ostras,-22.528883,-41.9529797,Rio de Janeiro,0
+1095,Smartfit,Búzios,-22.7693967,-41.9036769,Rio de Janeiro,0
+1096,Smartfit,Supernosso Cidade Nova,-19.8831039,-43.9270176,Minas Gerais,1
+1097,Smartfit,Palhoça,-27.6405271,-48.6833768,Santa Catarina,2
+1098,Smartfit,Minas Shopping,-19.8736522,-43.9272745,Minas Gerais,2
+1099,Smartfit,Shopping Plaza Rio das Ostras,-22.4943387,-41.9238496,Rio de Janeiro,0
+1100,Smartfit,Green Plaza Shopping,-19.8274509,-43.9673433,Minas Gerais,0
+1101,Smartfit,Venda Nova,-19.8149256,-43.9597902,Minas Gerais,1
+1102,Smartfit,Estação BH,-19.82032,-43.9465,Minas Gerais,1
+1103,Smartfit,Vespasiano,-19.6904987,-43.9204546,Minas Gerais,0
+1104,Smartfit,Compre Mais Boqueirão,-25.4085287,-51.4814606,Paraná,0
+1105,Smartfit,Maringá - Av. Tuiuti,-23.4262379,-51.9127932,Paraná,1
+1106,Smartfit,Condor Maringá - Av. Kakogawa,-23.393198,-51.9277535,Paraná,0
+1107,Smartfit,Uberlândia Centro,-18.9124242,-48.2730522,Minas Gerais,0
+1108,Smartfit,Bretas Custódio Pereira,-18.8866045,-48.2516388,Minas Gerais,0
+1109,Smartfit,João Monlevade,-19.8119833,-43.1811327,Minas Gerais,1
+1110,Smartfit,Itaperuna,-21.2004502,-41.9054161,Rio de Janeiro,0
+1111,Smartfit,Campos dos Goytacazes,-21.7600835,-41.3293267,Rio de Janeiro,1
+1112,Smartfit,Manhuaçu,-20.258442,-42.0344089,Minas Gerais,0
+1113,Smartfit,Timóteo,-19.5450103,-42.6353527,Minas Gerais,0
+1114,Smartfit,Coronel Fabriciano,-19.5225952,-42.6271138,Minas Gerais,0
+1115,Smartfit,Horto Ipatinga,-19.5052371,-42.5714992,Minas Gerais,0
+1116,Smartfit,Cidade Nobre,-19.463887,-42.5620285,Minas Gerais,0
+1117,Smartfit,Iguaçu,-19.4755962,-42.5482998,Minas Gerais,0
+1118,Smartfit,Canaã,-19.4462908,-42.5560123,Minas Gerais,0
+1119,Smartfit,Caratinga,-19.7838225,-42.1406998,Minas Gerais,0
+1120,Smartfit,Criciúma,-28.6800712,-49.3765722,Santa Catarina,1
+1121,Smartfit,Cachoeiro do Itapemirim,-20.8448444,-41.1330462,Espírito Santo,0
+1122,Smartfit,Pato Branco,-26.2200483,-52.6860375,Paraná,0
+1123,Smartfit,Max Francisco Beltrão,-26.0730451,-53.0489779,Paraná,0
+1124,Smartfit,Guarapari,-20.6493886,-40.4896558,Espírito Santo,0
+1125,Smartfit,GV Shopping,-18.8537813,-41.9528166,Minas Gerais,0
+1126,Smartfit,Esplanadinha,-18.8481138,-41.9331938,Minas Gerais,0
+1127,Smartfit,Cariacica,-20.3391093,-40.3817275,Espírito Santo,0
+1128,Smartfit,Praia de Itaparica,-20.3691882,-40.3043439,Espírito Santo,0
+1129,Smartfit,Shopping Vila Velha,-20.3520419,-40.2977172,Espírito Santo,0
+1130,Smartfit,Centro Vila Velha,-20.3344258,-40.2917649,Espírito Santo,1
+1131,Smartfit,Praia da Costa,-20.3331613,-40.2809074,Espírito Santo,1
+1132,Smartfit,Reta da Penha,-20.2940807,-40.3008766,Espírito Santo,2
+1133,Smartfit,Praia da Costa II,-20.331602,-40.2756301,Espírito Santo,1
+1134,Smartfit,Praia do Canto,-20.297442,-40.2931064,Espírito Santo,2
+1135,Smartfit,Praia do Canto I,-20.297442,-40.2931064,Espírito Santo,2
+1136,Smartfit,Jardim Camburi,-20.2556805,-40.2722034,Espírito Santo,0
+1137,Smartfit,Shopping Aldeia da Serra,-20.1943445,-40.2498335,Espírito Santo,0
+1138,Smartfit,Caxias do Sul,-29.1649736,-51.1779086,Rio Grande do Sul,0
+1139,Smartfit,Passo Fundo,-28.2714918,-52.3864105,Rio Grande do Sul,0
+1140,Smartfit,Havan Rio Verde,-17.8003121,-50.9427981,Goiás,1
+1141,Smartfit,Buriti Shopping,-16.7496304,-49.2820226,Goiás,1
+1142,Smartfit,Goiânia Alto Bueno,-16.7100584,-49.2670868,Goiás,3
+1143,Smartfit,Flamboyant,-16.709139,-49.2342599,Goiás,1
+1144,Smartfit,Goiânia Setor Bueno,-16.7223181,-49.2887651,Goiás,0
+1145,Smartfit,Avenida E,-16.6945767,-49.2444018,Goiás,0
+1146,Smartfit,Setor Sul,-16.6969095,-49.2579698,Goiás,1
+1147,Smartfit,Goiânia Eldorado,-16.7111647,-49.3141386,Goiás,1
+1148,Smartfit,Jardim Europa,-16.7073622,-49.3051996,Goiás,1
+1149,Smartfit,Vila Alpes,-16.7028669,-49.3004697,Goiás,1
+1150,Smartfit,Goiânia Baixo Bueno,-16.6892633,-49.2804466,Goiás,2
+1151,Smartfit,Setor Oeste,-16.6833482,-49.2658018,Goiás,3
+1152,Smartfit,Montes Claros,-16.7407698,-43.87157,Minas Gerais,0
+1153,Smartfit,Novo Hamburgo,-29.6875672,-51.1300446,Rio Grande do Sul,0
+1154,Smartfit,Setor Negrão de Lima,-16.6519991,-49.2443877,Goiás,0
+1155,Smartfit,Macromix São Leopoldo,-29.7873489,-51.1443344,Rio Grande do Sul,0
+1156,Smartfit,Linhares,-19.3940848,-40.0651382,Espírito Santo,0
+1157,Smartfit,República Argentina,-25.536274,-54.5443039,Paraná,0
+1158,Smartfit,Foz do Iguaçu,-25.5340067,-54.5752053,Paraná,0
+1159,Smartfit,Teófilo Otoni,-17.8595347,-41.5091416,Minas Gerais,0
+1160,Smartfit,Shopping do Vale,-29.9340762,-51.0794529,Rio Grande do Sul,0
+1161,Smartfit,Canoas,-29.9200602,-51.1660589,Rio Grande do Sul,0
+1162,Smartfit,Valparaíso de Goiás,-16.0888942,-47.9964834,Goiás,0
+1163,Smartfit,Bourbon Wallig,-30.0120551,-51.1603983,Rio Grande do Sul,0
+1164,Smartfit,Bourbon Shopping Assis Brasil,-30.0063911,-51.1843574,Rio Grande do Sul,0
+1165,Smartfit,Anita Mall,-30.0266083,-51.1896284,Rio Grande do Sul,1
+1166,Smartfit,Carrefour Partenon,-30.0613828,-51.1656366,Rio Grande do Sul,0
+1167,Smartfit,Gama II,-16.0294552,-48.0729113,Distrito Federal,0
+1168,Smartfit,Bourbon Shopping Ipiranga,-30.0550755,-51.1868768,Rio Grande do Sul,0
+1169,Smartfit,Santa Maria QCL 115,-16.005539,-47.9984213,Distrito Federal,0
+1170,Smartfit,Menino Deus,-30.0595506,-51.2227025,Rio Grande do Sul,0
+1171,Smartfit,Otto Niemeyer,-30.1047026,-51.2389356,Rio Grande do Sul,0
+1172,Smartfit,Avenida Wenceslau Escobar,-30.0994978,-51.2479242,Rio Grande do Sul,0
+1173,Smartfit,Riacho Fundo II Unidade 2,-15.922614,-48.0460364,Distrito Federal,0
+1174,Smartfit,Recanto das Emas,-15.9037579,-48.0656177,Distrito Federal,1
+1175,Smartfit,Riacho Fundo II,-15.8993901,-48.0464685,Distrito Federal,0
+1176,Smartfit,Núcleo Bandeirante,-15.8706515,-47.967167,Distrito Federal,0
+1177,Smartfit,Riacho Fundo I,-15.8783786,-48.0201533,Distrito Federal,0
+1178,Smartfit,Samambaia III,-15.8863632,-48.0787638,Distrito Federal,1
+1179,Smartfit,Samambaia Sul,-15.8764244,-48.0637608,Distrito Federal,0
+1180,Smartfit,Samambaia IV,-15.8754572,-48.0813206,Distrito Federal,1
+1181,Smartfit,Arniqueira,-15.8562969,-48.0080117,Distrito Federal,0
+1182,Smartfit,Samambaia Norte,-15.8699282,-48.0903189,Distrito Federal,1
+1183,Smartfit,414/415 Sul,-15.835527,-47.9164101,Distrito Federal,0
+1184,Smartfit,Guará II Unidade 1,-15.8400555,-47.9672635,Distrito Federal,0
+1185,Smartfit,Guará II Unidade 2,-15.8377593,-47.9792583,Distrito Federal,2
+1186,Smartfit,Atacadão Taguatinga Sul,-15.8460719,-48.0409081,Distrito Federal,1
+1187,Smartfit,Manhattan Shopping,-15.8394075,-48.0209023,Distrito Federal,3
+1188,Smartfit,Guará II Unidade 3,-15.8321269,-47.9814563,Distrito Federal,2
+1189,Smartfit,Águas Claras VI - Rua Manacá,-15.835328,-48.0089879,Distrito Federal,3
+1190,Smartfit,Águas Claras I,-15.8355285,-48.0176349,Distrito Federal,4
+1191,Smartfit,511 Sul,-15.8182988,-47.9130096,Distrito Federal,3
+1192,Smartfit,Águas Claras V,-15.8346438,-48.0169584,Distrito Federal,4
+1193,Smartfit,Águas Claras IV,-15.8343371,-48.0372866,Distrito Federal,2
+1194,Smartfit,509 Sul,-15.8144926,-47.9089355,Distrito Federal,3
+1195,Smartfit,DF Plaza Shopping,-15.8320644,-48.0395259,Distrito Federal,2
+1196,Smartfit,Guará I,-15.8222285,-47.9862418,Distrito Federal,0
+1197,Smartfit,Dom Bosco,-15.8202434,-47.9045093,Federal District,4
+1198,Smartfit,Venâncio Shopping,-15.795777,-47.8926405,Distrito Federal,1
+1199,Smartfit,Dia-a-Dia Rua 4A,-15.8166303,-48.0527214,Distrito Federal,1
+1200,Smartfit,Taguatinga Norte,-15.8165563,-48.0591456,Distrito Federal,3
+1201,Smartfit,Sudoeste II,-15.796666,-47.9318244,Distrito Federal,1
+1202,Smartfit,Assaí Ceilândia,-15.822365,-48.1015,Distrito Federal,0
+1203,Smartfit,Shopping ID,-15.7860749,-47.8880459,Distrito Federal,1
+1204,Smartfit,Sudoeste I,-15.7877278,-47.9155156,Distrito Federal,1
+1205,Smartfit,SIG,-15.7881937,-47.9145609,Distrito Federal,1
+1206,Smartfit,QNM 12 Ceilândia Centro,-15.813773,-48.1049751,Distrito Federal,0
+1207,Smartfit,Rua 10,-15.7983247,-48.0191922,Distrito Federal,0
+1208,Smartfit,JK Ceilândia,-15.8079167,-48.1452978,Distrito Federal,0
+1209,Smartfit,Rua 07,-15.8131787,-48.0351268,Distrito Federal,0
+1210,Smartfit,Ceilandia Mall,-15.8086047,-48.1261573,Distrito Federal,1
+1211,Smartfit,305 Norte,-15.7744697,-47.8856512,Distrito Federal,0
+1212,Smartfit,406 Norte,-15.7592875,-47.8847321,Distrito Federal,1
+1213,Smartfit,Ceilândia Norte,-15.8051898,-48.1184195,Distrito Federal,3
+1214,Smartfit,712 Norte,-15.7514665,-47.8974165,Distrito Federal,1
+1215,Smartfit,515 Norte,-15.7416484,-47.8974085,Distrito Federal,0
+1216,Smartfit,Assaí Asa Norte,-15.7322984,-47.9027941,Distrito Federal,1
+1217,Smartfit,Boulevard Brasília,-15.7359,-47.9077,Distrito Federal,1
+1218,Smartfit,Península Shopping,-15.7212065,-47.8825933,Distrito Federal,1
+1219,Smartfit,Lago Norte,-15.7439446,-47.8508339,Distrito Federal,0
+1220,Smartfit,Ultrabox Águas Lindas de Goiás,-15.7543648,-48.2741962,Goiás,0
+1221,Smartfit,Águas Lindas de Goiás,-15.7250259,-48.2845047,Goiás,0
+1222,Smartfit,Arapoanga,-15.6418815,-47.6557322,Distrito Federal,0
+1223,Smartfit,Itanhangá Park,-20.4679088,-54.5919999,Mato Grosso do Sul,0
+1224,Smartfit,Sobradinho Quadra 3,-15.6529888,-47.8098559,Distrito Federal,0
+1225,Smartfit,Sobradinho Central,-15.7087442,-47.9143041,Distrito Federal,3
+1226,Smartfit,Jardim dos Estados,-20.4538163,-54.6035599,Mato Grosso do Sul,0
+1227,Smartfit,Norte Sul,-20.4798477,-54.6266329,Mato Grosso do Sul,0
+1228,Smartfit,Brazlândia,-15.818646,-48.0625968,Distrito Federal,2
+1229,Smartfit,Brilhante,-20.4750289,-54.6368251,Mato Grosso do Sul,0
+1230,Smartfit,Júlio de Castilho,-20.4568898,-54.6400716,Mato Grosso do Sul,1
+1231,Smartfit,Eunápolis,-16.3739186,-39.5821886,Bahia,0
+1232,Smartfit,Porto Seguro,-16.4443537,-39.0653656,State of Bahia,1
+1233,Smartfit,Rondonópolis,-16.4709109,-54.6076319,Mato Grosso,0
+1234,Smartfit,Primavera do Leste,-15.5439088,-54.3024028,Mato Grosso,0
+1235,Smartfit,Itabuna,-14.7990531,-39.275808,Bahia,0
+1236,Smartfit,Juracy Magalhães,-14.7813826,-39.2679858,Bahia,0
+1237,Smartfit,Ilhéus,-14.8395634,-39.0255399,Bahia,0
+1238,Smartfit,Jequié,-13.8480033,-40.0716983,Bahia,0
+1239,Smartfit,Várzea Grande Shopping,-15.6565252,-56.1227997,Mato Grosso,0
+1240,Smartfit,CPA II,-15.5603952,-56.0504135,Mato Grosso,1
+1241,Smartfit,Rubens de Mendonça,-15.5926571,-56.091931,Mato Grosso,0
+1242,Smartfit,Goiabeiras,-15.5958608,-56.1108953,Mato Grosso,1
+1243,Smartfit,Santo Antônio de Jesus,-12.9665854,-39.2689595,Bahia,0
+1244,Smartfit,Cáceres,-16.0780913,-57.6889592,Mato Grosso,0
+1245,Smartfit,Federação,-12.9983686,-38.5044957,Bahia,1
+1246,Smartfit,Shopping Piedade,-12.9834609,-38.5130754,Bahia,0
+1247,Smartfit,Assaí Vasco da Gama,-12.9991082,-38.4902139,Bahia,1
+1248,Smartfit,Brotas,-12.9938836,-38.4851824,Bahia,2
+1249,Smartfit,Avenida Dom João VI,-12.9898287,-38.4915706,Bahia,2
+1250,Smartfit,Pituba,-13.0050958,-38.4580644,Bahia,2
+1251,Smartfit,Matatu,-12.976997,-38.49489,Bahia,1
+1252,Smartfit,Itaigara,-12.9911517,-38.4675019,Bahia,0
+1253,Smartfit,Costa Azul,-12.9950677,-38.4466067,Bahia,1
+1254,Smartfit,Salvador Shopping,-12.9785389,-38.4550888,Bahia,4
+1255,Smartfit,Armação,-12.9889962,-38.4368455,Bahia,0
+1256,Smartfit,Pernambués,-12.9667079,-38.4637167,Bahia,1
+1257,Smartfit,Curuzu,-12.9473606,-38.4907128,Bahia,0
+1258,Smartfit,Stiep,-12.9805166,-38.4415356,Bahia,0
+1259,Smartfit,Cabula,-12.9614989,-38.4680045,Bahia,1
+1260,Smartfit,Imbuí I,-12.9717014,-38.4393698,Bahia,1
+1261,Smartfit,Saboeiro,-12.9597033,-38.4490609,Bahia,0
+1262,Smartfit,Ribeira,-12.9216447,-38.5022663,Bahia,0
+1263,Smartfit,Salvador São Caetano,-12.9326257,-38.4820063,Bahia,0
+1264,Smartfit,Avenida Jorge Amado,-12.9689388,-38.423238,Bahia,0
+1265,Smartfit,Atakarejo Lobato,-12.9094333,-38.4787995,Bahia,0
+1266,Smartfit,Sussuarana,-12.9370318,-38.4378112,Bahia,0
+1267,Smartfit,Campinas de Pirajá,-12.9146131,-38.4656859,Bahia,0
+1268,Smartfit,Piatã,-12.9385628,-38.3795881,Bahia,0
+1269,Smartfit,Atakarejo Cajazeiras,-12.8881803,-38.4040869,Bahia,0
+1270,Smartfit,Salvador Norte Shopping,-12.9114869,-38.3500864,State of Bahia,0
+1271,Smartfit,Parque Shopping Bahia,-12.88717,-38.318673,Bahia,1
+1272,Smartfit,Atakarejo Lauro De Freitas,-12.8772914,-38.3086794,Bahia,1
+1273,Smartfit,Atakarejo Simões Filho,-12.807078,-38.3932284,Bahia,1
+1274,Smartfit,Taquaralto,-10.2958044,-48.3036686,Tocantins,0
+1275,Smartfit,Teotônio Segurado Sul,-10.231611,-48.3335297,Tocantins,0
+1276,Smartfit,Camaçari,-12.748953,-38.315278,Bahia,0
+1277,Smartfit,Frei Aureliano,-12.257254,-38.945468,Bahia,0
+1278,Smartfit,Fraga Maia,-12.2256944,-38.9530512,Bahia,0
+1279,Smartfit,Dias D'ávila,-12.618385,-38.3010788,Bahia,0
+1280,Smartfit,Serrinha,-5.4025803,-36.954107,State of Rio Grande do Norte,0
+1281,Smartfit,Sorriso,-12.544436,-55.725316,Mato Grosso,0
+1282,Smartfit,CentroSul Lagarto,-10.921995,-37.6706719,Sergipe,0
+1283,Smartfit,Juazeiro,-9.42258,-40.500576,Bahia,0
+1284,Smartfit,Petrolina,-9.3917857,-40.4855293,Pernambuco,1
+1285,Smartfit,Farolândia,-10.9615522,-37.0552535,Sergipe,0
+1286,Smartfit,Jabotiana,-10.940271,-37.0869717,Sergipe,0
+1287,Smartfit,Atakarejo Adélia Franco,-10.9391071,-37.0638498,Sergipe,1
+1288,Smartfit,Riomar Shopping,-10.94517,-37.04747,Sergipe,0
+1289,Smartfit,Jardins,-10.9361717,-37.0551772,Sergipe,0
+1290,Smartfit,Siqueira Campos,-10.9105973,-37.0761155,Sergipe,0
+1291,Smartfit,Visconde de Maracaju,-10.8928313,-37.0729648,Sergipe,0
+1292,Smartfit,Nossa Senhora do Socorro,-10.8356714,-37.0562103,Sergipe,0
+1293,Smartfit,Araguaína Shopping Lago,-7.2162609,-48.2187967,Tocantins,0
+1294,Smartfit,Arapiraca,-9.7441958,-36.6554776,Alagoas,0
+1295,Smartfit,Palato,-9.645805,-35.7337013,Alagoas,0
+1296,Smartfit,Maceió Shopping,-9.6484356,-35.7150916,Alagoas,1
+1297,Smartfit,Ponta Verde,-9.6588011,-35.7042217,Alagoas,2
+1298,Smartfit,Sam's Club Farol,-9.6142099,-35.7377877,Alagoas,0
+1299,Smartfit,Tabuleiro I,-9.6043745,-35.744064,Alagoas,0
+1300,Smartfit,Pátio Maceió,-9.5586864,-35.7463183,Alagoas,0
+1301,Smartfit,Grand Jardim Shopping,-9.5361136,-35.7662955,Alagoas,0
+1302,Smartfit,Juazeiro do Norte,-7.2190518,-39.3231863,Ceará,1
+1303,Smartfit,Imperatriz,-5.9292814,-47.3833991,Maranhão,0
+1304,Smartfit,Centro - Imperatriz,-5.5262668,-47.4886598,Maranhão,0
+1305,Smartfit,Marabá,-5.3451205,-49.0781208,Pará,0
+1306,Smartfit,Caruaru,-8.2924182,-35.9502331,Pernambuco,0
+1307,Smartfit,Shopping Difusora,-8.2767743,-35.9680397,Pernambuco,1
+1308,Smartfit,Teresina Shopping,-5.0849591,-42.7888086,Piauí,2
+1309,Smartfit,Dom Severino,-5.0697921,-42.7851673,Piauí,1
+1310,Smartfit,Jaboatão,-8.1775843,-34.9189166,Pernambuco,1
+1311,Smartfit,Shopping Guararapes,-8.1671642,-34.9185707,Pernambuco,3
+1312,Smartfit,Setúbal,-8.14151,-34.9095887,Pernambuco,1
+1313,Smartfit,Conselheiro Aguiar,-8.1255394,-34.8989198,Pernambuco,6
+1314,Smartfit,Shopping Recife,-8.1190289,-34.9046336,Pernambuco,5
+1315,Smartfit,Mix Mateus Boa Viagem,-8.1152969,-34.902242,Pernambuco,3
+1316,Smartfit,Madalena,-8.0576918,-34.9029797,Pernambuco,3
+1317,Smartfit,Boa Vista II,-8.0598105,-34.8852314,Pernambuco,1
+1318,Smartfit,Boa Vista,-8.0583828,-34.8875797,Pernambuco,2
+1319,Smartfit,Torre,-8.0403871,-34.9087054,Pernambuco,4
+1320,Smartfit,Espinheiro,-8.0453786,-34.8962521,Pernambuco,1
+1321,Smartfit,Desembargador Góis Cavalcante,-8.0328349,-34.9105216,Pernambuco,5
+1322,Smartfit,Aflitos,-8.0360515,-34.9017206,Pernambuco,4
+1323,Smartfit,Mix Mateus Peixinhos,-8.0073279,-34.8800365,Pernambuco,0
+1324,Smartfit,Patteo Olinda Shopping,-7.9938951,-34.8406069,Pernambuco,3
+1325,Smartfit,Shopping Igarassu,-7.8277915,-34.9093733,Pernambuco,0
+1326,Smartfit,Shopping Cidade Luz,-6.8607724,-35.4968484,Paraíba,0
+1327,Smartfit,Ernesto Geisel,-7.1783166,-34.8636656,Paraíba,0
+1328,Smartfit,Epitácio,-7.1201324,-34.8645374,Paraíba,1
+1329,Smartfit,Tambaú,-7.12473,-34.8250504,Paraíba,1
+1330,Smartfit,Av. João Câncio,-7.1089892,-34.8329709,Paraíba,0
+1331,Smartfit,Manaíra Shopping,-7.0988692,-34.8449749,Paraíba,1
+1332,Smartfit,Alto de São Manoel,-5.2118524,-37.3323271,Rio Grande do Norte,0
+1333,Smartfit,Mossoró,-5.1835088,-37.3578255,Rio Grande do Norte,0
+1334,Smartfit,Centro Mossoró,-5.1886149,-37.3448647,Rio Grande do Norte,1
+1335,Smartfit,Ariquemes,-9.9235606,-63.0333385,Rondônia,0
+1336,Smartfit,Cidade Atacadão Parnamirim,-5.92854,-35.275337,Rio Grande do Norte,0
+1337,Smartfit,Parnamirim Centro,-5.9215772,-35.2629431,Rio Grande do Norte,0
+1338,Smartfit,Sobral,-3.6978703,-40.3480952,Ceará,0
+1339,Smartfit,Av. Ayrton Senna,-5.9082595,-35.192474,Rio Grande do Norte,0
+1340,Smartfit,Av. Roberto Freire,-5.8577262,-35.197116,Rio Grande do Norte,1
+1341,Smartfit,Capim Macio II,-5.8519074,-35.2032622,Rio Grande do Norte,1
+1342,Smartfit,Candelária,-5.8385779,-35.2113956,Rio Grande do Norte,1
+1343,Smartfit,Esperança,-5.8193379,-35.2367751,Rio Grande do Norte,1
+1344,Smartfit,Lagoa Nova,-5.8168699,-35.2111477,Rio Grande do Norte,4
+1345,Smartfit,Midway,-5.8114337,-35.2060217,Rio Grande do Norte,2
+1346,Smartfit,Igapó,-5.7657253,-35.266734,Rio Grande do Norte,1
+1347,Smartfit,Partage Norte Shopping Natal,-5.7574402,-35.2466311,Rio Grande do Norte,0
+1348,Smartfit,João Paulo,-2.5426755,-44.2752512,Maranhão,0
+1349,Smartfit,Maiobão,-2.5514965,-44.1953137,Maranhão,1
+1350,Smartfit,Shopping Pitaguary,-3.878872,-38.6241154,Ceará,1
+1351,Smartfit,Rio Anil Shopping,-2.4956628,-44.2288422,Maranhão,1
+1352,Smartfit,Atacadão São Luís,-2.5238905,-44.2422743,Maranhão,1
+1353,Smartfit,Vinhais,-2.5184243,-44.2576397,Maranhão,0
+1354,Smartfit,Turu,-2.5177316,-44.2264412,Maranhão,0
+1355,Smartfit,Cohama,-2.5121057,-44.2447918,Maranhão,2
+1356,Smartfit,São Francisco da Guarita,-2.9140762,-41.771231,Piauí,0
+1357,Smartfit,Manhattan Center III,-2.5015958,-44.2838801,Maranhão,4
+1358,Smartfit,Parnaíba,-2.9094294,-41.7516498,Piauí,2
+1359,Smartfit,Holandeses,-2.4935124,-44.2800799,Maranhão,3
+1360,Smartfit,Holandeses Barramar,-2.493096,-44.2829191,Maranhão,4
+1361,Smartfit,Shopping Eusébio,-3.8692308,-38.4669449,Ceará,0
+1362,Smartfit,José Walter,-3.8219673,-38.5591437,Ceará,0
+1363,Smartfit,Vila Peri,-3.8010585,-38.5864293,Ceará,0
+1364,Smartfit,Messejana,-3.8322449,-38.4923571,Ceará,0
+1365,Smartfit,Grand Shopping,-3.8183786,-38.4978467,Ceará,0
+1366,Smartfit,Parangaba,-3.7792202,-38.5596901,Ceará,1
+1367,Smartfit,Jóquei Clube,-3.7647267,-38.5744452,Ceará,0
+1368,Smartfit,Oliveira Paiva,-3.7964091,-38.4936977,Ceará,0
+1369,Smartfit,Iandê Shopping Caucaia,-3.7344568,-38.6573886,Ceará,0
+1370,Smartfit,Dom Lustosa,-3.750219,-38.584805,Ceará,0
+1371,Smartfit,Rotatória Estruturante Caucaia,-3.7130845,-38.6851352,Ceará,0
+1372,Smartfit,Edilson Brasil Soares,-3.7884861,-38.4696096,Ceará,0
+1373,Smartfit,Montese,-3.7557831,-38.5391771,Ceará,0
+1374,Smartfit,Washington Soares,-3.7735792,-38.482323,Ceará,0
+1375,Smartfit,Fátima,-3.7530796,-38.527841,Ceará,0
+1376,Smartfit,North Shopping,-3.7352505,-38.5662836,Ceará,3
+1377,Smartfit,Cometa Presidente Kennedy,-3.7299062,-38.5690521,Ceará,2
+1378,Smartfit,RioMar Kennedy,-3.7265275,-38.5667861,Ceará,2
+1379,Smartfit,Rui Barbosa,-3.746295,-38.5125923,Ceará,1
+1380,Smartfit,Rua Assunção,-3.7359432,-38.5288962,Ceará,1
+1381,Smartfit,Dionísio Torres,-3.7456007,-38.4957256,Ceará,3
+1382,Smartfit,Vicente Linhares,-3.7411752,-38.5041569,Ceará,3
+1383,Smartfit,Jacarecanga,-3.7213152,-38.5453989,Ceará,0
+1384,Smartfit,Barbosa de Freitas,-3.7369516,-38.497714,Ceará,7
+1385,Smartfit,Santos Dumont,-3.7396991,-38.4894273,Ceará,7
+1386,Smartfit,José Lourenço,-3.7324275,-38.5069822,Ceará,3
+1387,Smartfit,Papicu,-3.7354422,-38.4816227,Ceará,2
+1388,Smartfit,Meireles,-3.7315761,-38.491193,Ceará,5
+1389,Smartfit,Iracema,-3.7245724,-38.5082561,Ceará,2
+1390,Smartfit,Mucuripe,-3.7256268,-38.4848552,Ceará,1
+1391,Smartfit,Nova Porto Velho,-8.7685681,-63.8749303,Rondônia,0
+1392,Smartfit,Porto Velho Shopping,-8.7489722,-63.875505,Rondônia,0
+1393,Smartfit,Flodoaldo Pontes Pinto,-8.7396678,-63.870329,Rondônia,0
+1394,Smartfit,Pátio Belém,-1.4578474,-48.4946248,Pará,2
+1395,Smartfit,Boulevard,-1.4461383,-48.4896874,Pará,3
+1396,Smartfit,Bosque Mall Belém,-1.4336199,-48.456888,Pará,0
+1397,Smartfit,Dr. Freitas,-1.416761,-48.4637654,Pará,1
+1398,Smartfit,Shopping Castanheira,-1.4043038,-48.4304935,Pará,0
+1399,Smartfit,Mario Covas,-1.3601091,-48.427878,Pará,1
+1400,Smartfit,Maguari,-1.3315312,-48.449241,Pará,0
+1401,Smartfit,Macapá,0.0311847,-51.0630388,Amapá,1
+1402,Smartfit,Jardim Amazonas,-3.1066593,-60.0161394,Amazonas,2
+1403,Smartfit,Grande Circular,-3.0621468,-59.9499069,Amazonas,0
+1404,Smartfit,Shopping Cidade Leste,-3.0479839,-59.9442757,Amazonas,1
+1405,Smartfit,Amazonas Shopping,-3.0941363,-60.0226946,Amazonas,2
+1406,Smartfit,Assaí Manaus Grande Circular,-3.0409671,-59.9421556,Amazonas,1
+1407,Smartfit,Flores,-3.0629597,-60.0018734,Amazonas,0
+1408,Smartfit,Alvorada,-3.0737691,-60.0389764,Amazonas,0
+1409,Smartfit,Ponta Negra,-3.0881878,-60.07064,Amazonas,0
+1410,Smartfit,Parque Mosaico Manaus,-3.0657882,-60.064495,Amazonas,0
+1411,Smartfit,Avenida Torquato Tapajós,-3.003363,-60.0001183,Amazonas,1
+1412,Smartfit,Shopping Manaus Via Norte,-2.9997124,-59.9980142,Amazonas,1
+1413,Smartfit,Isaura Parente,-9.9640161,-67.8255698,Acre,1
+1414,Smartfit,Conjunto Mariana,-9.9612868,-67.8484173,Acre,0
+1415,Smartfit,Ville Roy,2.8553847,-60.6449442,Roraima,1
+1416,Smartfit,Av. Princesa Isabel,2.826928,-60.7098295,Roraima,0
+1417,Smartfit,João Alencar,2.8458987,-60.7069815,Roraima,0
+1418,Skyfit,ABAETETUBA (PA),-1.7245529,-48.8820664,Pará,0
+1419,Skyfit,ALECRIM – NATAL (RN),-5.7952411,-35.2152907,Rio Grande do Norte,0
+1420,Skyfit,ALPHAVILLE (SP),-23.5010593,-46.8544075,São Paulo,2
+1421,Skyfit,ARAPONGAS (PR),-23.4105078,-51.431211,Paraná,0
+1422,Skyfit,AVARÉ (SP),-23.0958971,-48.9367358,São Paulo,1
+1423,Skyfit,AVENIDA NORTE – RECIFE (PE),-8.147669,-34.9119144,Pernambuco,1
+1424,Skyfit,ALTO UMUARAMA (MG),-18.8935299,-48.2336698,Minas Gerais,0
+1425,Skyfit,AMERICANA (SP),-22.7615468,-47.342205,São Paulo,1
+1426,Skyfit,AMÉRICO BRASILIENSE (SP),-21.7270508,-48.1044747,São Paulo,1
+1427,Skyfit,AMOREIRAS – CAMPINAS (SP),-22.9263834,-47.0809235,São Paulo,2
+1428,Skyfit,AMANDA (SP),-22.9017188,-47.2400725,São Paulo,0
+1429,Skyfit,AMPARO (SP),-22.7063664,-46.771541,São Paulo,1
+1430,Skyfit,ANÁPOLIS (GO),-16.3071971,-48.9491377,Goiás,1
+1431,Skyfit,ANÁPOLIS – JK NOVA CAPITAL (GO),-16.3503115,-48.9345116,Goiás,0
+1432,Skyfit,ANDRADAS – BELO HORIZONTE (MG),-19.9143574,-43.9077491,Minas Gerais,2
+1433,Skyfit,ANDRADE NEVES – CAMPINAS (SP),-22.8969845,-47.0729765,São Paulo,1
+1434,Skyfit,APARECIDA DE GOIÂNIA (GO),-16.7595781,-49.3201516,Goiás,0
+1435,Skyfit,AGENOR DE CARVALHO – PORTO VELHO – UNIDADE II (RO),-8.7616311,-63.8651691,Rondônia,0
+1436,Skyfit,ALTO DA XV (PR),-25.4302511,-49.2412251,Paraná,0
+1437,Skyfit,AMÉRICA SHOPPING (GO),-16.5372655,-50.5564648,Goiás,0
+1438,Skyfit,ARAÇATUBA AMIGÃO (SP),-21.1952312,-50.4593903,São Paulo,0
+1439,Skyfit,ARAÇATUBA (SP),-21.2163771,-50.4384408,São Paulo,1
+1440,Skyfit,ARAÇOIABA DA SERRA (SP),-23.5041514,-47.6226811,São Paulo,0
+1441,Skyfit,ARARAQUARA (SP),-21.7830489,-48.1844235,São Paulo,1
+1442,Skyfit,AREIAS (PE),-8.0954584,-34.9290653,Pernambuco,0
+1443,Skyfit,ARTUR NOGUEIRA (SP),-22.583262,-47.1540456,São Paulo,0
+1444,Skyfit,ARTHUR THOMAS (PR),-23.3044008,-51.1924122,Paraná,0
+1445,Skyfit,ARUJÁ (SP),-23.3995158,-46.3324294,São Paulo,0
+1446,Skyfit,ASSIS (SP),-22.6527335,-50.3929559,São Paulo,0
+1447,Skyfit,ATIBAIA MALL (SP),-23.1160723,-46.5768253,São Paulo,0
+1448,Skyfit,AUGUSTO MONTENEGRO – BELÉM (PA),-1.351897,-48.4531125,Pará,1
+1449,Skyfit,AURORA – PAULISTA (PE),-7.9421607,-34.8857946,Pernambuco,1
+1450,Skyfit,AVIAÇÃO – PRAIA GRANDE (SP),-24.009909,-46.4390798,São Paulo,1
+1451,Skyfit,A7 – PORTAL NACIONAL (TO),-11.7390044,-49.060434,Tocantins,0
+1452,Skyfit,BACABAL (MA),-4.2219609,-44.7826075,Maranhão,0
+1453,Skyfit,BALDAN – MATÃO (SP),-21.6175906,-48.3609914,São Paulo,0
+1454,Skyfit,BARÃO DE GURGUÉIA – TERESINA (PI),-5.1064314,-42.8091824,Piauí,0
+1455,Skyfit,BARÃO GERALDO – CAMPINAS (SP),-22.825007,-47.082402,São Paulo,1
+1456,Skyfit,BARRA DO GARÇAS (MT),-15.8781184,-52.2989529,Mato Grosso,0
+1457,Skyfit,BARRETOS (SP),-20.5659329,-48.5799228,São Paulo,0
+1458,Skyfit,BOA VIAGEM – RECIFE (PE),-8.1303554,-34.9008366,Pernambuco,3
+1459,Skyfit,BONGI – RECIFE (PE),-8.0669681,-34.9172749,Pernambuco,0
+1460,Skyfit,BARRO – RECIFE (PE),-8.0928001,-34.9385516,Pernambuco,0
+1461,Skyfit,BEBEDOURO (SP),-20.9460173,-48.4815762,São Paulo,0
+1462,Skyfit,BELÉM (PA),-1.4691174,-48.4792041,Pará,0
+1463,Skyfit,BENTO FERREIRA (ES),-20.3108496,-40.3051234,Espírito Santo,0
+1464,Skyfit,BIRIGUI (SP),-21.3019652,-50.3418442,São Paulo,0
+1465,Skyfit,BOA VISTA – JOINVILLE (SC),-26.2928293,-48.8146883,Santa Catarina,0
+1466,Skyfit,BOITUVA (SP),-23.2832071,-47.660911,São Paulo,0
+1467,Skyfit,BOM SUCESSO – CAMPINAS (SP),-22.9384239,-47.0239976,São Paulo,0
+1468,Skyfit,BOTUCATU (SP),-22.889982,-48.455274,São Paulo,0
+1469,Skyfit,BRAGANÇA PAULISTA (SP),-22.9475609,-46.5283928,São Paulo,1
+1470,Skyfit,BRASÍLIA (DF),-15.9018421,-48.0658548,Distrito Federal,1
+1471,Skyfit,BREVES (PA),-1.6864106,-50.4815981,Pará,0
+1472,Skyfit,CABREÚVA (SP),-23.242339,-47.0609943,São Paulo,0
+1473,Skyfit,CAÇAPAVA (SP),-23.0863582,-45.7091403,São Paulo,0
+1474,Skyfit,CACOAL (RO),-11.4392983,-61.4521062,Rondônia,0
+1475,Skyfit,CAJAMAR (SP),-23.4077901,-46.8504883,São Paulo,1
+1476,Skyfit,CALHAU – SÃO LUÍS (MA),-2.4935819,-44.2870647,Maranhão,4
+1477,Skyfit,CAMARAGIBE (PE),-8.0196604,-34.9774105,Pernambuco,1
+1478,Skyfit,CAMBÉ (PR),-23.2776188,-51.2689087,Paraná,0
+1479,Skyfit,CAMINHO DO MAR – SÃO BERNARDO DO CAMPO (SP),-23.6551549,-46.5716396,São Paulo,2
+1480,Skyfit,CAMPINA GRANDE (PB),-7.2353859,-35.8705917,Paraíba,0
+1481,Skyfit,CAMPINAS – OURO VERDE (SP),-22.9660187,-47.1366694,São Paulo,1
+1482,Skyfit,CAMPINAS – TAQUARAL (SP),-22.8767825,-47.0478874,São Paulo,1
+1483,Skyfit,CAMPINAS – VILA UNIÃO (SP),-22.9433665,-47.1184763,São Paulo,2
+1484,Skyfit,CAMPO BELO – CAMPINAS (SP),-23.028366,-47.112267,São Paulo,0
+1485,Skyfit,CAMPO GRANDE – AV. BANDEIRANTES (MS),-20.491458,-54.6458489,Mato Grosso do Sul,0
+1486,Skyfit,CAMPO GRANDE – RIO DE JANEIRO (RJ),-22.8961089,-43.5467096,Rio de Janeiro,0
+1487,Skyfit,CAMPO GRANDE – CAMPINAS (SP),-22.9453401,-47.1855576,São Paulo,1
+1488,Skyfit,CAMPO GRANDE – VILA NASSER (MS),-20.4097751,-54.6358264,Mato Grosso do Sul,0
+1489,Skyfit,CAMPO LIMPO PAULISTA (SP),-23.202643,-46.783905,São Paulo,1
+1490,Skyfit,CAMPO VERDE (MT),-15.557951,-55.18016,Mato Grosso,0
+1491,Skyfit,CAPANEMA (PA),-1.1981353,-47.1806146,Pará,0
+1492,Skyfit,CARMINDO (MT),-15.6192623,-56.089027,Mato Grosso,0
+1493,Skyfit,CANAÃ DOS CARAJÁS (PA),-6.5512071,-49.8429543,Pará,0
+1494,Skyfit,CASTANHAL (PA),-1.2958994,-47.9302075,Pará,0
+1495,Skyfit,CAMPO LIMPO – SÃO PAULO (SP),-23.6339414,-46.7706582,São Paulo,1
+1496,Skyfit,CANDEIAS – JABOATÃO DOS GUARARAPES (PE),-8.1931807,-34.9258614,Pernambuco,2
+1497,Skyfit,CANTO DO FORTE – PRAIA GRANDE (SP),-24.0055743,-46.4110724,São Paulo,4
+1498,Skyfit,CAPIVARI (SP),-22.9996617,-47.5166778,São Paulo,0
+1499,Skyfit,CARAPICUÍBA – ARISTON (SP),-23.5266559,-46.8498094,São Paulo,1
+1500,Skyfit,CARUARU (PE),-8.288082,-36.0070619,Pernambuco,0
+1501,Skyfit,CASA FORTE – RECIFE (PE),-8.033242,-34.9217223,Pernambuco,1
+1502,Skyfit,CATANDUVA (SP),-21.1361901,-48.9689471,São Paulo,0
+1503,Skyfit,CAXANGÁ (PE),-8.051942,-34.9173927,Pernambuco,0
+1504,Skyfit,CEILÂNDIA – BRASÍLIA (DF),-15.7966305,-48.1181175,Distrito Federal,1
+1505,Skyfit,CENTRO APARECIDA – GOIÂNIA (GO),-16.8227802,-49.2632834,Goiás,0
+1506,Skyfit,CENTRO DIVINÓPOLIS (MG),-20.1454617,-44.8868576,Minas Gerais,1
+1507,Skyfit,CISPER – SÃO PAULO (SP),-23.5025657,-46.4940811,São Paulo,1
+1508,Skyfit,CITY TOWERS – BAURU (SP),-22.3396535,-49.0656041,São Paulo,1
+1509,Skyfit,CONTORNO – BALSA (MA),-7.5425549,-46.047977,Maranhão,0
+1510,Skyfit,CORDEIRÓPOLIS (SP),-22.4803472,-47.457156,São Paulo,0
+1511,Skyfit,CRICIUMA (SC),-28.6795951,-49.3600011,Santa Catarina,1
+1512,Skyfit,CRISTO – PRESIDENTE PRUDENTE (SP),-22.1187554,-51.4167485,São Paulo,0
+1513,Skyfit,COSMÓPOLIS (SP),-22.6467119,-47.185701,São Paulo,2
+1514,Skyfit,COPACABANA (RJ),-22.9711385,-43.1871219,Rio de Janeiro,9
+1515,Skyfit,COSTA RIOS – POUSO ALEGRE (MG),-22.2459914,-45.9305238,Minas Gerais,0
+1516,Skyfit,COTIA (SP),-23.6017726,-46.9052726,São Paulo,0
+1517,Skyfit,COVABRA – LIMEIRA (SP),-22.5465053,-47.4223967,São Paulo,0
+1518,Skyfit,CT ELDORADO – RIO PRETO (SP),-20.7896882,-49.4113385,São Paulo,0
+1519,Skyfit,CT JOINVILLE (SC),-26.3145474,-48.8593997,Santa Catarina,0
+1520,Skyfit,CT SALIM (SP),-23.5558647,-46.5773173,São Paulo,1
+1521,Skyfit,CURITIBA 1 (PR),-25.4745597,-49.3381892,Paraná,1
+1522,Skyfit,CPA – CUIABÁ (MT),-15.5593174,-56.0498906,Mato Grosso,1
+1523,Skyfit,DAMHA – SÃO JOSÉ DO RIO PRETO (SP),-20.8019513,-49.3476534,São Paulo,0
+1524,Skyfit,DIADEMA (SP),-23.6940329,-46.6173123,São Paulo,2
+1525,Skyfit,DIC – CAMPINAS (SP),-22.9874906,-47.1104529,São Paulo,0
+1526,Skyfit,DIVINÓPOLIS (MG),-20.1261489,-44.8831498,Minas Gerais,0
+1527,Skyfit,DUQUE DE CAXIAS (RJ),-22.7830763,-43.3067634,Rio de Janeiro,2
+1528,Skyfit,EGAS – SÃO CARLOS (SP),-22.0009041,-47.890064,São Paulo,0
+1529,Skyfit,EMBU DAS ARTES (SP),-23.6593802,-46.8154899,São Paulo,2
+1530,Skyfit,ENGENHEIRO ABDIAS – RECIFE (PE),-8.0621197,-34.9314831,Pernambuco,0
+1531,Skyfit,ESCADA (PE),-8.3638155,-35.2291848,Pernambuco,0
+1532,Skyfit,ESMERALDAS – MARÍLIA (SP),-22.2279624,-49.9174308,São Paulo,0
+1533,Skyfit,ESPÍRITO SANTO DO PINHAL (SP),-22.1973829,-46.7639119,São Paulo,1
+1534,Skyfit,ESTAÇÃO GRAMADO – EMBU DAS ARTES (SP),-23.6453577,-46.8417555,São Paulo,1
+1535,Skyfit,ESTRADA DO MOINHO – CUIABÁ (MT),-15.6111012,-56.0526511,Mato Grosso,0
+1536,Skyfit,ESTRADA DOS ROMEIROS – BARUERI (SP),-23.4928176,-46.880689,São Paulo,1
+1537,Skyfit,ESTUDANTES – RONDONÓPOLIS (MT),-16.4779581,-54.5996145,Mato Grosso,0
+1538,Skyfit,FLAMENGO – MARICÁ (RJ),-22.9163653,-42.8161845,Rio de Janeiro,1
+1539,Skyfit,FORMOSA (GO),-15.5436962,-47.3392469,Goiás,1
+1540,Skyfit,FRANCA (SP),-20.5726521,-47.3915461,São Paulo,0
+1541,Skyfit,5 DE NOVEMBRO – ITAPETININGA (SP),-23.5943576,-48.0729113,São Paulo,0
+1542,Skyfit,FRANCISCO JUNQUEIRA – RIBEIRÃO PRETO (SP),-21.1892777,-47.7972132,São Paulo,1
+1543,Skyfit,FRANCISCO MORATO (SP),-23.2833484,-46.7376121,São Paulo,1
+1544,Skyfit,FREGUESIA DO Ó (SP),-23.5047379,-46.6902701,São Paulo,0
+1545,Skyfit,FRUTAL (MG),-20.029556,-48.9159539,Minas Gerais,0
+1546,Skyfit,GENERAL MEIRA – FOZ DO IGUAÇU (PR),-25.5529257,-54.5792385,Paraná,0
+1547,Skyfit,GUAPORÉ – RIBEIRÃO PRETO (SP),-21.2229734,-47.7873829,São Paulo,0
+1548,Skyfit,GUARÁ (DF),-15.7916242,-47.9456178,Distrito Federal,0
+1549,Skyfit,GUARUJÁ (SP),-23.990226,-46.2860748,São Paulo,0
+1550,Skyfit,GUARULHOS (SP),-23.456421,-46.5321153,São Paulo,1
+1551,Skyfit,GUAXUPÉ (MG),-21.3048595,-46.7056531,Minas Gerais,0
+1552,Skyfit,GURUPI (TO),-11.7307749,-49.0657385,Tocantins,0
+1553,Skyfit,GOIÂNIA – VILA NOVA (GO),-16.66175,-49.2388343,Goiás,0
+1554,Skyfit,GOIÂNIA 2 (GO),-16.6332141,-49.2539392,Goiás,0
+1555,Skyfit,GOIÂNIA 3 – AV T-63 (GO),-16.7139971,-49.2721427,Goiás,3
+1556,Skyfit,GOIANIRA (GO),-16.5057633,-49.4244789,Goiás,0
+1557,Skyfit,GRANJA VIANA – CARAPICUIBA (SP),-23.5780541,-46.8437045,São Paulo,2
+1558,Skyfit,GRAJAÚ (MA),-5.8247029,-46.1594124,State of Maranhão,0
+1559,Skyfit,GRUTA DE LOURDES – MACEIÓ (AL),-9.6263968,-35.7379597,Alagoas,0
+1560,Skyfit,HOMEM DE MELO – BOA VISTA (RR),2.8118771,-60.7087621,Roraima,0
+1561,Skyfit,HORTOLÂNDIA (SP),-22.8624062,-47.2194351,São Paulo,1
+1562,Skyfit,HUGO CABRAL (PR),-23.3066914,-51.1643421,Paraná,2
+1563,Skyfit,IBITINGA (SP),-21.75911,-48.8275428,São Paulo,1
+1564,Skyfit,IBIUNA (SP),-23.6547528,-47.221549,São Paulo,0
+1565,Skyfit,ICOARACI (PA),-1.298059,-48.483543,Pará,0
+1566,Skyfit,IGARAPAVA (SP),-20.0440983,-47.7694422,São Paulo,0
+1567,Skyfit,INDAIATUBA (SP),-23.1035836,-47.2335223,São Paulo,1
+1568,Skyfit,INDEPENDÊNCIA – APARECIDA DE GOIÂNIA (GO),-16.815091,-49.2930128,Goiás,0
+1569,Skyfit,INHUMAS (GO),-16.3527382,-49.5067891,Goiás,0
+1570,Skyfit,INVERNADA – VALINHOS (SP),-22.9789642,-47.0136213,São Paulo,0
+1571,Skyfit,IPATINGA (MG),-19.4799176,-42.5264427,Minas Gerais,0
+1572,Skyfit,IPIRANGA (SP),-23.5759093,-46.6103206,São Paulo,0
+1573,Skyfit,ITABORAÍ (RJ),-19.7507108,-40.3799016,Espírito Santo,0
+1574,Skyfit,ITAIPAVA – PETRÓPOLIS (RJ),-22.3966638,-43.1230012,Rio de Janeiro,0
+1575,Skyfit,ITAIM BIBI (SP),-23.5867314,-46.6772577,São Paulo,4
+1576,Skyfit,ITAIM PAULISTA – SÃO PAULO (SP),-23.5007350900002,-46.3951411504378,,2
+1577,Skyfit,ITAIPUAÇU – MARICÁ (RJ),-22.95959,-42.98387,Rio de Janeiro,0
+1578,Skyfit,ITAQUÁ (SP),-23.4855532,-46.3705099,São Paulo,1
+1579,Skyfit,ITAPECERICA DA SERRA (SP),-23.7071252,-46.8512782,São Paulo,1
+1580,Skyfit,ITATIBA (SP),-23.005469,-46.8475667,São Paulo,1
+1581,Skyfit,ITAPERI (CE),-3.8034321,-38.5530343,Ceará,0
+1582,Skyfit,ITAPETININGA (SP),-23.5780312,-48.0273922,São Paulo,0
+1583,Skyfit,ITAPIRA (SP),-22.4391378,-46.8277665,São Paulo,1
+1584,Skyfit,ITÚ (SP),-23.2687304,-47.3039889,São Paulo,0
+1585,Skyfit,ITÚ – SÃO VICENTE (SP),-23.2737241,-47.2811118,São Paulo,1
+1586,Skyfit,ITUMBIARA (GO),-18.4165705,-49.2309797,Goiás,0
+1587,Skyfit,ITURAMA (MG),-19.733992,-50.1928577,Minas Gerais,0
+1588,Skyfit,PIEDADE – JABOATÃO DOS GUARARAPES (PE),-8.1900661,-34.9192644,Pernambuco,2
+1589,Skyfit,JABOTICABAL (SP),-21.2567506,-48.3120181,São Paulo,0
+1590,Skyfit,JAGUARIÚNA (SP),-22.6930737,-46.9909057,São Paulo,0
+1591,Skyfit,JACAREÍ (SP),-23.2972737,-45.9593351,São Paulo,1
+1592,Skyfit,JACU PÊSSEGO – SÃO PAULO (SP),-23.5397044,-46.4496596,São Paulo,2
+1593,Skyfit,JALES (SP),-20.2613348,-50.5412589,São Paulo,0
+1594,Skyfit,JATOBÁ (SP),-22.8198931,-47.2615121,São Paulo,2
+1595,Skyfit,JAÚ (SP),-22.296976,-48.5539093,São Paulo,0
+1596,Skyfit,JAMIL MIGUEL – ANÁPOLIS(GO),-16.3490505,-48.9664272,Goiás,0
+1597,Skyfit,JARDIM AMÉRICA – DOURADOS (MS),-22.2244059,-54.8211106,Mato Grosso do Sul,0
+1598,Skyfit,JARDIM ANGÉLICA – CARAPICUÍBA (SP),-23.5502058,-46.8539757,São Paulo,1
+1599,Skyfit,JARDIM BOTÂNICO – BRASÍLIA (DF),-15.8734554,-47.8208363,Distrito Federal,0
+1600,Skyfit,JARDIM PAULISTA II – INDAIATUBA (SP),-23.1223782,-47.2499758,São Paulo,0
+1601,Skyfit,JARDIM SAIRA – SOROCABA (SP),-23.4776578,-47.4310298,São Paulo,0
+1602,Skyfit,JARDIM SÃO PAULO – RIO CLARO (SP),-22.4011095,-47.5821659,São Paulo,1
+1603,Skyfit,JARDIM SIMUS – SOROCABA (SP),-23.5034827,-47.497357,São Paulo,0
+1604,Skyfit,JI-PARANÁ (RO),-10.8732995,-61.9508796,Rondônia,0
+1605,Skyfit,JOHN BOYD – CAMPINAS (SP),-22.939932,-47.1517263,São Paulo,0
+1606,Skyfit,JORGE BERETTA – SANTO ANDRÉ (SP),-23.6392123,-46.5059799,São Paulo,1
+1607,Skyfit,JUAZEIRO (BA),-1.3362758,-48.3539219,Pará,0
+1608,Skyfit,JUNDIAÍ – CICA (SP),-23.2031591,-46.8801044,São Paulo,0
+1609,Skyfit,JUNDIAÍ – IMIGRANTES (SP),-23.186791,-46.8548163,São Paulo,1
+1610,Skyfit,KM21 RAPOSO – COTIA (SP),-23.587648,-46.8186548,São Paulo,0
+1611,Skyfit,KM18 – OSASCO (SP),-23.5275157,-46.7931595,São Paulo,2
+1612,Skyfit,LAGOA DA PRATA (MG),-20.0196465,-45.5430365,Minas Gerais,0
+1613,Skyfit,LAPA – SÃO PAULO (SP),-23.5184475,-46.7269986,São Paulo,1
+1614,Skyfit,LAURO DE FREITAS (BA),-12.887602,-38.3116658,Bahia,1
+1615,Skyfit,LEME (SP),-22.1884903,-47.3946708,São Paulo,1
+1616,Skyfit,LENÇÓIS PAULISTA (SP),-22.6201859,-48.7916653,São Paulo,0
+1617,Skyfit,LIMEIRA (SP),-22.5840176,-47.4105986,São Paulo,0
+1618,Skyfit,LINS (SP),-21.6879697,-49.7526302,São Paulo,0
+1619,Skyfit,LOUVEIRA (SP),-23.0845999,-46.9494879,São Paulo,0
+1620,Skyfit,MACAPÁ – DUCA SERRA (AP),0.0363272,-51.1345956,Amapá,0
+1621,Skyfit,MACAPÁ (AP),0.0677157,-51.056393,Amapá,0
+1622,Skyfit,MAJOR LEVI – LIMEIRA (SP),-22.551281,-47.3778579,São Paulo,0
+1623,Skyfit,MANSÕES – CAMPINAS (SP),-22.850502,-47.042915,São Paulo,2
+1624,Skyfit,MARACANAÚ (CE),-3.8800226,-38.6218462,Ceará,1
+1625,Skyfit,MARECHAL – SÃO BERNARDO DO CAMPO (SP),-23.7226184,-46.5478608,São Paulo,1
+1626,Skyfit,MARÍLIA (SP),-22.215652,-49.9481731,São Paulo,1
+1627,Skyfit,MARINGÁ (PR),-23.4174928,-51.8977137,Paraná,0
+1628,Skyfit,MARITUBA (PA),-1.366114,-48.330506,Pará,0
+1629,Skyfit,MATÃO – SUMARÉ (SP),-22.8134033,-47.1720688,São Paulo,0
+1630,Skyfit,M’BOI MIRIM (SP),-23.7004821,-46.7816731,São Paulo,0
+1631,Skyfit,METRÔ CAPÃO – CAPÃO REDONDO (SP),-23.6637454,-46.7696796,São Paulo,2
+1632,Skyfit,METRÔ CARRÃO (SP),-23.5368998,-46.5648781,São Paulo,1
+1633,Skyfit,MINEIROS (GO),-17.5501952,-52.5492022,Goiás,0
+1634,Skyfit,MOCOCA (SP),-21.4650114,-47.0142489,São Paulo,0
+1635,Skyfit,MOGI DAS CRUZES (SP),-23.5287745,-46.1975335,São Paulo,2
+1636,Skyfit,MOGI GUAÇU MALL (SP),-22.380063,-46.9463897,São Paulo,1
+1637,Skyfit,MOGI GUAÇU (SP),-22.3475735,-46.9492431,São Paulo,1
+1638,Skyfit,MOGI MIRIM (SP),-22.4348489,-46.9579491,São Paulo,1
+1639,Skyfit,MOINHO DOS VENTOS (GO),-16.7317737,-49.3411287,Goiás,0
+1640,Skyfit,MONTE CARMELO (MG),-18.7400091,-47.503138,Minas Gerais,0
+1641,Skyfit,MONTE MOR (SP),-22.9292374,-47.2614672,São Paulo,1
+1642,Skyfit,MOOCA (SP),-23.5686073,-46.5842805,São Paulo,1
+1643,Skyfit,NOVA ARARAS (SP),-22.3577709,-47.3771531,São Paulo,0
+1644,Skyfit,NOVA ERA (GO),-16.7538257,-49.2851503,Goiás,1
+1645,Skyfit,NOVA EUROPA (SP),-22.9456905,-47.0568195,São Paulo,1
+1646,Skyfit,NOVA LIMA – CAMPO GRANDE (MS),-20.3930002,-54.5567533,Mato Grosso do Sul,0
+1647,Skyfit,NOVA ODESSA (SP),-22.7915668,-47.2943153,São Paulo,1
+1648,Skyfit,OLARIA – PORTO VELHO (RO),-8.7573658,-63.9041152,Rondônia,0
+1649,Skyfit,OLINDA (PE),-7.9889695,-34.8389906,Pernambuco,3
+1650,Skyfit,ÔNIX – OSASCO (SP),-23.5092364,-46.7645175,São Paulo,1
+1651,Skyfit,OURINHOS (SP),-22.969762,-49.8855239,São Paulo,0
+1652,Skyfit,PADRE ANCHIETA – CAMPINAS (SP),-22.8652664,-47.1432417,São Paulo,1
+1653,Skyfit,PALMAS (TO),-10.180844,-48.327772,Tocantins,0
+1654,Skyfit,PALMAS SUL (TO),-10.221249,-48.333878,Tocantins,1
+1655,Skyfit,PARAÍSO DO TOCANTINS (TO),-10.1902839,-48.8897968,Tocantins,0
+1656,Skyfit,PARAGOMINAS (PA),-2.9924629,-47.3608848,Pará,0
+1657,Skyfit,PARNAÍBA (PI),-2.9070848,-41.7529478,Piauí,2
+1658,Skyfit,PARQUE BRASÍLIA – ANÁPOLIS (GO),-16.3263207,-48.9173788,Goiás,0
+1659,Skyfit,PARQUE SÃO VICENTE – MAUÁ (SP),-23.6715215,-46.4700019,São Paulo,0
+1660,Skyfit,PASSOS (MG),-20.7164487,-46.6172607,Minas Gerais,0
+1661,Skyfit,PAULÍNIA (SP),-22.7713946,-47.1581575,São Paulo,0
+1662,Skyfit,PAULISTA (PE),-7.8912237,-34.8369849,Pernambuco,0
+1663,Skyfit,PAULO AFONSO (BA),-9.3990641,-38.2288225,Bahia,0
+1664,Skyfit,PAUZANES (GO),-17.7674212,-50.925215,Goiás,0
+1665,Skyfit,PEDERNEIRAS (SP),-22.3551559,-48.7728239,São Paulo,0
+1666,Skyfit,PEDREIRA – BELÉM (PA),-1.4236072,-48.4688467,Pará,1
+1667,Skyfit,PENÁPOLIS (SP),-21.4202989,-50.0753173,São Paulo,0
+1668,Skyfit,PIMENTAS (SP),-23.444025,-46.4078983,São Paulo,1
+1669,Skyfit,PRAZERES – JABOATÃO DOS GUARARAPES (PE),-8.1628541,-34.9234351,Pernambuco,1
+1670,Skyfit,FRAGATA – PELOTAS (RS),-31.7647646,-52.3525211,Rio Grande do Sul,0
+1671,Skyfit,PENHA DE FRANÇA – SÃO PAULO (SP),-23.5215409,-46.5167611,São Paulo,0
+1672,Skyfit,PÉROLA DE CAETÉ – BRAGANÇA (PA),-1.0482033,-46.764029,Pará,0
+1673,Skyfit,PETROLINA (PE),-9.3994615,-40.5024661,State of Pernambuco,1
+1674,Skyfit,PINDAMONHANGABA (SP),-22.9399477,-45.4697756,São Paulo,1
+1675,Skyfit,PIRACICABA – CASTELINHO (SP),-22.7327586,-47.6702937,São Paulo,0
+1676,Skyfit,PIRACICABA – PIRACICAMIRIM (SP),-22.7413217,-47.6266282,São Paulo,0
+1677,Skyfit,PIRAPORINHA – DIADEMA (SP),-23.6899503,-46.575086,São Paulo,0
+1678,Skyfit,PIRASSUNUNGA (SP),-21.9974521,-47.4305772,São Paulo,1
+1679,Skyfit,PITUBA (BA),-13.0042681,-38.4562628,Bahia,2
+1680,Skyfit,PLANALTINA – BRASÍLIA (DF),-15.7087442,-47.9143041,Distrito Federal,3
+1681,Skyfit,PRAÇA DA SÉ (SP),-23.5510355,-46.6346622,São Paulo,3
+1682,Skyfit,PRIMAVERA – TERESINA (PI),-5.066466,-42.8125025,Piauí,1
+1683,Skyfit,POÇOS DE CALDAS (MG),-21.7802206,-46.5997881,Minas Gerais,0
+1684,Skyfit,PONTE GRANDE – GUARULHOS (SP),-23.5035534,-46.5517793,São Paulo,1
+1685,Skyfit,PORTO SEGURO (BA),-16.4443537,-39.0653656,State of Bahia,1
+1686,Skyfit,PORTAL SUL SHOPPING (GO),-16.7906934,-49.3553125,Goiás,0
+1687,Skyfit,PORTO FELIZ (SP),-23.2045285,-47.5228962,São Paulo,0
+1688,Skyfit,PORTO FERREIRA (SP),-21.8697732,-47.4772763,São Paulo,0
+1689,Skyfit,PORTO VELHO – UNIDADE I (RO),-8.7673267,-63.8874382,Rondônia,0
+1690,Skyfit,POUSO ALEGRE (MG),-22.2177613,-45.9141936,Minas Gerais,0
+1691,Skyfit,PRAÇA QUINZE DE OUTUBRO – VILA CARRÃO (SP),-23.552571,-46.5274258,São Paulo,0
+1692,Skyfit,QUEIRÓS FILHO – SANTO ANDRÉ (SP),-23.6661488,-46.5079884,São Paulo,1
+1693,Skyfit,RAPOSO TAVARES – PIRACICABA (SP),-22.7500365,-47.6535423,São Paulo,1
+1694,Skyfit,RECIFE (PE),-8.1046454,-34.9108226,Pernambuco,1
+1695,Skyfit,RECREIO – RIO DE JANEIRO (RJ),-23.0243131,-43.4818255,Rio de Janeiro,3
+1696,Skyfit,REDENÇÃO (PA),-8.0396008,-50.0302252,Pará,0
+1697,Skyfit,RESENDE (RJ),-22.4891459,-44.49455,Rio de Janeiro,0
+1698,Skyfit,RIBEIRÃO PRETO (SP),-21.1595512,-47.8078498,São Paulo,2
+1699,Skyfit,RIO CLARO (SP),-22.3872647,-47.5535942,São Paulo,0
+1700,Skyfit,RIO DE JANEIRO – CAMPINHO (RJ),-22.8834853,-43.3438361,Rio de Janeiro,1
+1701,Skyfit,RIO DE JANEIRO – ILHA DO GOVERNADOR (RJ),-22.7984279,-43.1960175,Rio de Janeiro,0
+1702,Skyfit,RIO DE JANEIRO – TAQUARA (RJ),-22.9235396,-43.3751646,Rio de Janeiro,1
+1703,Skyfit,RIO VERDE (GO),-17.7927647,-50.9195819,State of Goiás,0
+1704,Skyfit,RÓTULA DO ABACAXI – SALVADOR (BA),-12.9705395,-38.4811372,Bahia,0
+1705,Skyfit,RONDONÓPOLIS (MT),-16.4690958,-54.6239537,Mato Grosso,0
+1706,Skyfit,ROSOLEM – HORTOLÂNDIA (SP),-22.9014465,-47.1744884,São Paulo,1
+1707,Skyfit,SABARÁ – JARDIM DIOMAR (SP),-23.675963,-46.686102,São Paulo,2
+1708,Skyfit,SALTO (SP),-23.2011932,-47.2892986,São Paulo,0
+1709,Skyfit,SALVADOR (BA),-12.9920566,-38.4988242,Bahia,2
+1710,Skyfit,SAMAMBAIA – BRASÍLIA (DF),-15.8626517,-48.0862311,Distrito Federal,1
+1711,Skyfit,SANTA BÁRBARA D’OESTE (SP),-22.7607829,-47.4333856,São Paulo,0
+1712,Skyfit,SANTA BÁRBARA D’OESTE-CIDADE NOVA (SP),-22.7380123,-47.3616339,São Paulo,0
+1713,Skyfit,ALVARO CAMARGOS – BELO HORIZONTE (MG),-19.8216996,-43.9546577,Minas Gerais,3
+1714,Skyfit,SANTA FÉ DO SUL (SP),-20.1894359,-50.93237,São Paulo,0
+1715,Skyfit,SAN GENARO (MG),-20.91389,-46.9710898,Minas Gerais,0
+1716,Skyfit,SANTA HELENA (MG),-19.4693596,-44.2546097,Minas Gerais,0
+1717,Skyfit,SANTA ISABEL (SP),-23.3185461,-46.2261757,São Paulo,0
+1718,Skyfit,SANTA TEREZINHA (SP),-22.6820964,-47.6817688,São Paulo,1
+1719,Skyfit,SÃO BERNARDO DO CAMPO (SP),-23.7238404,-46.5782363,São Paulo,0
+1720,Skyfit,SÃO CAETANO DO SUL (SP),-23.6110587,-46.5719111,São Paulo,2
+1721,Skyfit,SÃO CARLOS (SP),-22.0204069,-47.9125504,São Paulo,1
+1722,Skyfit,SÃO JOÃO DA BOA VISTA (SP),-21.9821393074274,-46.7862002118215,,1
+1723,Skyfit,SÃO JOSÉ DO RIO PARDO (SP),-21.6045601,-46.8921908,São Paulo,0
+1724,Skyfit,SÃO JOSÉ DO RIO PRETO (SP),-20.7952771,-49.3912401,São Paulo,0
+1725,Skyfit,SÃO JOSÉ DOS CAMPOS – PALMEIRAS DE SÃO JOSÉ (SP),-23.2375605,-45.9117578,São Paulo,3
+1726,Skyfit,SÃO JOSÉ DOS CAMPOS – JARDIM MOTORAMA (SP),-23.1740618,-45.8277698,São Paulo,0
+1727,Skyfit,SÃO JOSÉ DOS PINHAS (PR),-25.5408116,-49.190616,Paraná,0
+1728,Skyfit,SÃO RAFAEL (SP),-23.7628401,-46.7154648,São Paulo,0
+1729,Skyfit,SÃO SEBASTIÃO (DF),-15.9028899,-47.7760971,Federal District,0
+1730,Skyfit,SÃO VITO – AMERICANA (SP),-22.7310055,-47.3076682,São Paulo,1
+1731,Skyfit,SENADOR CANEDO (GO),-16.6943517,-49.1046153,Goiás,0
+1732,Skyfit,SETE LAGOAS (MG),-19.4557315,-44.2501226,Minas Gerais,1
+1733,Skyfit,SERRA DE PARIMA – ITAPEVI (SP),-23.5584725,-46.9256832,São Paulo,1
+1734,Skyfit,SERRANA (SP),-23.5906022,-46.7979905,São Paulo,0
+1735,Skyfit,SERTÃOZINHO (SP),-21.1573832,-47.9691726,São Paulo,0
+1736,Skyfit,CENTRO RIO – RIO DE JANEIRO (RJ),-22.9046356,-43.177341,Rio de Janeiro,4
+1737,Skyfit,SHOPPING CERRADO (GO),-16.6662742,-49.3084618,Goiás,0
+1738,Skyfit,SHOPPING FREGUESIA (RJ),-22.9390584,-43.344889,Rio de Janeiro,3
+1739,Skyfit,SIMÕES FILHO (BA),-12.8070283,-38.3937084,Bahia,1
+1740,Skyfit,SIM – FEIRA DE SANTANA (BA),-12.2560892,-38.9319448,Bahia,0
+1741,Skyfit,SOCORRO (SP),-22.5966786,-46.5273695,São Paulo,0
+1742,Skyfit,SOLEDADE – ARACAJU (SE),-10.8863536,-37.0840924,Sergipe,0
+1743,Skyfit,SOROCABA HORTO (SP),-23.4482773,-47.5041575,São Paulo,0
+1744,Skyfit,SOROCABA – SHOP PANORÂMICO (SP),-23.505984,-47.460685,São Paulo,2
+1745,Skyfit,SUMARÉ (SP),-22.818513,-47.2626232,São Paulo,2
+1746,Skyfit,SUZANO (SP),-23.502074,-46.2990456,São Paulo,1
+1747,Skyfit,TAGUATINGA NORTE (DF),-15.8083816,-48.081772,Distrito Federal,0
+1748,Skyfit,TAMANDARÉ – CAMPO GRANDE (MS),-20.4526081,-54.6339977,Mato Grosso do Sul,1
+1749,Skyfit,TAQUARALTO (TO),-10.3447781,-48.2998294,Tocantins,0
+1750,Skyfit,TATUAPÉ (SP),-23.5467379,-46.5512946,São Paulo,3
+1751,Skyfit,TATUÍ (SP),-23.3530959,-47.8580621,São Paulo,0
+1752,Skyfit,TAUBATÉ (SP),-23.0249228,-45.572045,São Paulo,1
+1753,Skyfit,TEIXEIRA DE FREITAS (BA),-17.538311,-39.7440012,Bahia,0
+1754,Skyfit,TIANGUÁ (CE),-3.7334361,-40.9915365,Ceará,0
+1755,Skyfit,TIMON (MA),-5.1063596,-42.8433567,Maranhão,0
+1756,Skyfit,TIRADENTES – SÃO PAULO (SP),-23.5740052,-46.4127743,São Paulo,2
+1757,Skyfit,TREMEMBÉ (SP),-23.4577342,-46.6054061,São Paulo,0
+1758,Skyfit,TRÊS CORAÇÕES (MG),-21.6766814,-45.2691684,Minas Gerais,0
+1759,Skyfit,TRÊS LAGOAS (MS),-20.8000462,-51.6931837,Mato Grosso do Sul,0
+1760,Skyfit,TRÊS VENDAS – PELOTAS (RS),-31.732255,-52.343911,Rio Grande do Sul,0
+1761,Skyfit,TRINDADE (GO),-16.6632977,-49.4936256,Goiás,0
+1762,Skyfit,TUPÃ (SP),-21.939302,-50.5077694,São Paulo,0
+1763,Skyfit,UBERABA (MG),-19.7671892,-47.9243325,Minas Gerais,0
+1764,Skyfit,UNAÍ (MG),-16.3573657,-46.8996413,Minas Gerais,0
+1765,Skyfit,UNIVERSITÁRIOS – CAMPO GRANDE (MS),-20.5214408,-54.6001998,Mato Grosso do Sul,0
+1766,Skyfit,URUGUAIANA (RS),-29.7768579,-57.0812692,Rio Grande do Sul,0
+1767,Skyfit,UTINGA (SP),-23.6244758,-46.5395659,São Paulo,2
+1768,Skyfit,VALE QUEM TEM – TERESINA (PI),-5.0496738,-42.7407308,Piauí,0
+1769,Skyfit,VALINHOS (SP),-22.9870515,-47.0029476,São Paulo,0
+1770,Skyfit,VALPARAÍSO DE GOIÁS (GO),-16.0685759,-47.9742454,Goiás,0
+1771,Skyfit,VARGEM GRANDE PAULISTA (SP),-23.6185349,-47.0067656,São Paulo,0
+1772,Skyfit,VARGINHA (MG),-21.5727071,-45.439674,Minas Gerais,0
+1773,Skyfit,VÁRZEA PAULISTA (SP),-23.2021225,-46.8246635,São Paulo,1
+1774,Skyfit,VICENTE DE CARVALHO – GUARUJÁ (SP),-23.9512133,-46.2944158,São Paulo,2
+1775,Skyfit,VILA APARECIDA (SP),-20.5259875,-47.3816711,São Paulo,0
+1776,Skyfit,VILA AUGUSTA – GUARULHOS (SP),-23.4827183,-46.5456829,São Paulo,2
+1777,Skyfit,VILA JACUÍ (SP),-23.5021213,-46.4523826,São Paulo,1
+1778,Skyfit,VILA MARIETA – CAMPINAS (SP),-22.9227222,-47.0515361,São Paulo,2
+1779,Skyfit,VILA NOVA – SOROCABA (SP),-23.482965,-47.4752,São Paulo,2
+1780,Skyfit,VILA PEDROSO (GO),-16.6516976,-49.1830919,Goiás,1
+1781,Skyfit,VILA ROMANA – BRAGANÇA PAULISTA (SP),-23.5291898,-46.6979238,State of São Paulo,4
+1782,Skyfit,VILA SILVIÂNIA – CARAPICUÍBA (SP),-23.5404479,-46.8263717,São Paulo,0
+1783,Skyfit,VILA XAVIER – ARARAQUARA (SP),-21.7838774,-48.1598819,São Paulo,0
+1784,Skyfit,VILA YARA – OSASCO (SP),-23.5395729,-46.7685299,São Paulo,3
+1785,Skyfit,VILHENA (RO),-12.7266546020368,-60.1355474895548,,0
+1786,Skyfit,VILLE ROY – BOA VISTA (RR),2.853783,-60.6451248,Roraima,1
+1787,Skyfit,VINHEDO (SP),-23.020289,-46.9831388,São Paulo,1
+1788,Skyfit,VISTA ALEGRE – BAURU (SP),-22.3069781,-49.0730936,São Paulo,1
+1789,Skyfit,VITÓRIA (ES),-20.320013,-40.3302651,Espírito Santo,0
+1790,Skyfit,VITÓRIA DE SANTO ANTÃO (PE),-8.1163924,-35.2714962,Pernambuco,0
+1791,Skyfit,VOTUPORANGA (SP),-20.3993948,-49.978602,São Paulo,0
+1792,Skyfit,WALL FERRAZ – TERESINA (PI),-5.1335907,-42.7900281,Piauí,0
+1793,Skyfit,YERVANT – AMERICANOPOLIS (SP),-23.676773,-46.6597466,São Paulo,0
+1794,Panobianco,13 DE MAIO,-21.1857638,-47.7842599,São Paulo,1
+1795,Panobianco,ALDA SALOMÃO,-19.8106534,-44.0185634,Minas Gerais,0
+1796,Panobianco,ALTÍNO ARANTES SOROCABA,-23.4684762,-47.4744404,São Paulo,1
+1797,Panobianco,ALTO IPIRANGA,-23.5337526,-46.198206,São Paulo,2
+1798,Panobianco,ALVINÓPOLIS,-23.1149841,-46.5636736,São Paulo,1
+1799,Panobianco,AMERICANA I,-22.7433827,-47.343839,São Paulo,0
+1800,Panobianco,AMERICANA II,-22.766625,-47.3434352,São Paulo,1
+1801,Panobianco,AMIZADE,-22.8166047,-47.2450385,São Paulo,0
+1802,Panobianco,AMOREIRAS,-22.9339328,-47.0919457,São Paulo,0
+1803,Panobianco,AMPARO,-22.7095631,-46.778838,São Paulo,1
+1804,Panobianco,ANACÉ,-23.6229661,-46.7544173,São Paulo,0
+1805,Panobianco,ANÁLIA FRANCO,-23.557765,-46.5771062,São Paulo,1
+1806,Panobianco,ANANINDEUA – PA,-1.3678442,-48.4229133,Pará,1
+1807,Panobianco,ANCHIETA,-23.6171733,-46.6020312,São Paulo,0
+1808,Panobianco,ARARAQUARA,-21.8063273,-48.1714057,São Paulo,0
+1809,Panobianco,ARARAQUARA CENTRO,-21.7360192,-48.1050638,São Paulo,1
+1810,Panobianco,ARARAQUARA VALE DO SOL,-21.7696159,-48.1931859,São Paulo,0
+1811,Panobianco,ARARAS CENTRO,-22.3552164,-47.391503,São Paulo,1
+1812,Panobianco,ARAXÁ,-16.6965996,-49.3108848,Goiás,0
+1813,Panobianco,ARENA,-23.537755,-46.45765,São Paulo,2
+1814,Panobianco,ARTHUR ALVIM,-23.5400124,-46.4862269,São Paulo,1
+1815,Panobianco,ARTUR NOGUEIRA,-22.552364,-47.1640316,São Paulo,0
+1816,Panobianco,ARUJÁ,-23.4083376,-46.3283351,São Paulo,0
+1817,Panobianco,ASSAI GUARUJÁ,-23.9744634,-46.2741649,São Paulo,0
+1818,Panobianco,ASSAÍ JOÃO DIAS,-23.6470391,-46.7290731,São Paulo,1
+1819,Panobianco,ASSAI PENHA,-23.5132585,-46.5554438,São Paulo,0
+1820,Panobianco,ATIBAIA,-23.139702,-46.5544822,São Paulo,0
+1821,Panobianco,AVIAÇÃO,-24.0112777,-46.4371022,São Paulo,1
+1822,Panobianco,BARCELONA,-23.6232031,-46.5482741,São Paulo,2
+1823,Panobianco,BARRA BONITA,-22.4957811,-48.5632499,São Paulo,0
+1824,Panobianco,BARREIROS,-27.5669861,-48.6096119,Santa Catarina,0
+1825,Panobianco,BARUEL,-23.5036299,-46.6605949,São Paulo,0
+1826,Panobianco,BELA VISTA – SP,-23.4353887,-46.5087642,São Paulo,0
+1827,Panobianco,BELAS ARTES,-24.1876647,-46.8169746,São Paulo,0
+1828,Panobianco,BELÉM,-23.5462296155146,-46.5937815092265,,2
+1829,Panobianco,BELENZINHO,-23.5462857,-46.5936436,São Paulo,2
+1830,Panobianco,BELFORD ROXO,-22.7725386,-43.3925736,Rio de Janeiro,0
+1831,Panobianco,BOA ESPERANÇA,-23.5946373,-46.4492996,São Paulo,1
+1832,Panobianco,BOA VISTA,-23.6417251,-46.5624673,São Paulo,0
+1833,Panobianco,BOITUVA,-23.2851925,-47.673469,São Paulo,1
+1834,Panobianco,BONSUCESSO,-23.4061966,-46.4023946,São Paulo,0
+1835,Panobianco,BOQUEIRÃO,-23.9715883,-46.3257774,São Paulo,2
+1836,Panobianco,BOTUCATU,-22.9034819,-48.4416246,São Paulo,0
+1837,Panobianco,BOTURUSSU,-23.5069361,-46.4862894,São Paulo,2
+1838,Panobianco,BOULEVARD,-23.3119604,-51.1471792,Paraná,0
+1839,Panobianco,BOULEVARD JACAREÍ,-23.3060108,-45.9623831,São Paulo,1
+1840,Panobianco,BRAGANÇA PAULISTA,-22.9467922,-46.5373403,São Paulo,1
+1841,Panobianco,BRÁS,-23.539782,-46.6094582,São Paulo,0
+1842,Panobianco,BRÁS CUBAS,-23.5381851,-46.227189,São Paulo,0
+1843,Panobianco,BRASILÂNDIA,-23.7485569,-46.3962,São Paulo,4
+1844,Panobianco,CABO FRIO,-22.8913914,-42.0370586,Rio de Janeiro,1
+1845,Panobianco,CAÇAPAVA,-23.1274524,-45.7138179,São Paulo,0
+1846,Panobianco,CAIÇARA,-24.04837,-46.53328,São Paulo,0
+1847,Panobianco,CAJAMAR,-23.4090359,-46.8581387,São Paulo,2
+1848,Panobianco,CAJAZEIRAS,-12.9050187,-38.4001463,Bahia,0
+1849,Panobianco,CAMBUCI,-23.5618004,-46.6274617,São Paulo,0
+1850,Panobianco,CAMBUÍ,-22.895627,-47.056698,São Paulo,2
+1851,Panobianco,CAMPESTRE,-23.655163,-46.532358,São Paulo,2
+1852,Panobianco,CAMPO GRANDE II,-22.9488557,-47.1872452,São Paulo,1
+1853,Panobianco,CAMPO LIMPO PAULISTA,-23.2065812,-46.7877818,São Paulo,1
+1854,Panobianco,CAMPOS ELÍSEOS,-22.9294611,-47.1089037,São Paulo,0
+1855,Panobianco,CAMPOS RJ,-21.7523235,-41.3444605,Rio de Janeiro,1
+1856,Panobianco,CANAL 1,-23.9657897,-46.3454092,São Paulo,1
+1857,Panobianco,CANTO DO MAR,-23.7140658,-45.4310649,São Paulo,0
+1858,Panobianco,CAPÃO BONITO,-23.9965135,-48.3507275,São Paulo,0
+1859,Panobianco,CAPÃO CANOA – RS,-29.7359635,-50.0058356,Rio Grande do Sul,0
+1860,Panobianco,CAPÃO REDONDO,-23.6719211,-46.7738053,São Paulo,2
+1861,Panobianco,CAPELA,-23.0443173774997,-47.0109892796296,,0
+1862,Panobianco,CAPITÃO FRANCISCO,-23.4928747,-46.8826363,São Paulo,1
+1863,Panobianco,CARAGUA,-23.6219026,-45.4020467,São Paulo,0
+1864,Panobianco,CARLOS LACERDA,-23.6340254,-46.7741523,São Paulo,2
+1865,Panobianco,CARRÃO,-23.5415493,-46.5471346,São Paulo,2
+1866,Panobianco,CARREFOUR VALINHOS,-22.9509894,-47.0275965,São Paulo,0
+1867,Panobianco,CASTELO,-22.893543,-47.07888,São Paulo,1
+1868,Panobianco,CASTELO BRANCO,-22.3494441,-49.0997419,São Paulo,0
+1869,Panobianco,CASTRO ALVES,-23.3167483,-51.3625216,Paraná,0
+1870,Panobianco,CAVALEIROS,-22.4017724,-41.7972747,Rio de Janeiro,0
+1871,Panobianco,CAXIAS RJ,-22.5651581,-47.4389412,São Paulo,2
+1872,Panobianco,CENTENÁRIO,-23.4608437,-46.4256289,São Paulo,0
+1873,Panobianco,CENTRO,-20.7860109,-51.7084948,Mato Grosso do Sul,0
+1874,Panobianco,CEREJEIRAS,-23.1277276,-46.5811495,São Paulo,0
+1875,Panobianco,CERQUILHO,-23.1624018,-47.7377043,São Paulo,0
+1876,Panobianco,CHÁCARA ANTONIETA,-22.5651581,-47.4389412,São Paulo,2
+1877,Panobianco,CHÁCARA PRIMAVERA,-22.8554432,-47.0504439,São Paulo,2
+1878,Panobianco,CIANORTE,-23.6592425,-52.607073,Paraná,0
+1879,Panobianco,CIDADE NOVA,-22.7990463,-47.1906286,São Paulo,0
+1880,Panobianco,COCAIA,-23.4276936,-46.5217973,São Paulo,1
+1881,Panobianco,COLISEU,-23.2804306,-51.1724482,Paraná,0
+1882,Panobianco,COLOMBO,-23.4153193,-51.9538784,Paraná,0
+1883,Panobianco,CONCÓRDIA,-21.2175378,-50.413225,São Paulo,0
+1884,Panobianco,COSMÓPOLIS,-22.6412417,-47.1887968,São Paulo,2
+1885,Panobianco,COTIA,-23.6082897,-46.9244056,São Paulo,1
+1886,Panobianco,CRUZEIRO DO SUL,-23.7485569,-46.3962,São Paulo,4
+1887,Panobianco,CUBATÃO CENTRO,-23.8956418,-46.4215487,São Paulo,1
+1888,Panobianco,CUMBICA,-23.4640269,-46.4680599,São Paulo,0
+1889,Panobianco,DANIEL FONSECA,-18.9149337,-48.3003938,Minas Gerais,0
+1890,Panobianco,DIADEMA CENTRO,-23.6844428,-46.6305548,São Paulo,1
+1891,Panobianco,DIVISA – GO,-16.6122239,-49.3226272,Goiás,0
+1892,Panobianco,DOIS CÓRREGOS,-22.7417395,-47.6123844,São Paulo,0
+1893,Panobianco,DOIS DE DEZEMBRO,-21.1775525,-50.4560676,São Paulo,0
+1894,Panobianco,DOM AGUIRRE,-23.5133504,-47.452307,São Paulo,1
+1895,Panobianco,DOM ANTÔNIO,-22.6496287,-50.4288091,São Paulo,0
+1896,Panobianco,DOM NERY,-23.5201971,-46.3999086,São Paulo,0
+1897,Panobianco,DOM PEDRO I,-23.6763893,-46.510849,São Paulo,0
+1898,Panobianco,DUQUE DE CAXIAS BAURU,-22.3260168,-49.0577464,São Paulo,0
+1899,Panobianco,ELDORADO,-23.7225141,-46.6160348,São Paulo,0
+1900,Panobianco,EMBU DAS ARTES,-23.6585679,-46.8155207,São Paulo,2
+1901,Panobianco,EMBU DAS ARTES CENTRO,-23.6396345,-46.8360588,São Paulo,1
+1902,Panobianco,ENG. GOULART,-23.4969513,-46.5127742,São Paulo,0
+1903,Panobianco,ENSEADA,-23.9787018,-46.2209922,São Paulo,0
+1904,Panobianco,ENXUTO RIO CLARO,-22.4023544,-47.5648553,São Paulo,0
+1905,Panobianco,ESTAÇÃO,-20.5309122,-47.4123443,São Paulo,0
+1906,Panobianco,FARIA LIMA,48.8022585,2.1297422,Île-de-France,0
+1907,Panobianco,FERRAZ CENTRO,-23.5437926,-46.369142,São Paulo,0
+1908,Panobianco,FERROVIÁRIOS,-23.1804935,-46.8847721,São Paulo,0
+1909,Panobianco,FORTALEZA,-3.8195132,-38.4819574,Ceará,0
+1910,Panobianco,FRANCISCO MONTEIRO,-23.707887,-46.3994849,São Paulo,1
+1911,Panobianco,FREGUESIA,-23.4877707,-46.6820517,São Paulo,1
+1912,Panobianco,GALVÃO BUENO,-23.7619851,-46.5945778,São Paulo,0
+1913,Panobianco,GENERAL,-23.5046743,-47.476605,São Paulo,1
+1914,Panobianco,GIANETTI,-23.5538759,-46.3836449,São Paulo,0
+1915,Panobianco,GRAJAÚ,-23.7455132,-46.6893757,São Paulo,1
+1916,Panobianco,GREEN VILLAGE / SP,-22.7994849,-47.2900215,São Paulo,1
+1917,Panobianco,GUARÁ,-22.812822,-45.2019582,São Paulo,1
+1918,Panobianco,GUARAPUAVA,-25.3757387,-51.4731063,Paraná,0
+1919,Panobianco,GUARARAPES,-23.7485569,-46.3962,São Paulo,4
+1920,Panobianco,GUARULHOS MACEDO,-23.4660966,-46.5163708,São Paulo,0
+1921,Panobianco,GUARULHOS PTE. GRANDE,-23.501257,-46.5512737,São Paulo,1
+1922,Panobianco,IACANGA,-22.753835,-47.3600242,São Paulo,0
+1923,Panobianco,IBITINGA,-21.7574498,-48.8322914,São Paulo,1
+1924,Panobianco,IBIÚNA / SP,-23.6690865,-47.2197114,São Paulo,0
+1925,Panobianco,IGAPÓ,-5.7701239,-35.267628,Rio Grande do Norte,1
+1926,Panobianco,INDAIATUBA,-23.0926419,-47.2148136,São Paulo,1
+1927,Panobianco,INDEPENDÊNCIA APGYN,-16.8287659,-49.3569533,Goiás,0
+1928,Panobianco,INOCÊNCIO SERÁFICO,-23.5339356,-46.8365725,São Paulo,0
+1929,Panobianco,INTERCONTINENTAL,-23.600939,-46.7540348,São Paulo,1
+1930,Panobianco,IPANEMA,-23.4639484,-47.4969716,São Paulo,1
+1931,Panobianco,IPIRANGA,-23.5868873,-46.6027168,São Paulo,0
+1932,Panobianco,IRACEMÁPOLIS,-22.5887337,-47.5153608,São Paulo,0
+1933,Panobianco,ITABORAÍ,-22.7486955,-42.8604326,Rio de Janeiro,1
+1934,Panobianco,ITAIM PAULISTA,-23.4935801,-46.4032912,São Paulo,0
+1935,Panobianco,ITAJAÍ – SC,-23.7485569,-46.3962,São Paulo,4
+1936,Panobianco,ÍTALO ADAMI,-23.4821416,-46.3517243,São Paulo,0
+1937,Panobianco,ITAPETININGA,-23.5943158,-48.0534513,São Paulo,0
+1938,Panobianco,ITAPIRA,-22.440039,-46.8286385,São Paulo,1
+1939,Panobianco,ITAQUERA,-23.5298094,-46.4522504,São Paulo,1
+1940,Panobianco,ITATIBA,-23.003695,-46.8431582,São Paulo,1
+1941,Panobianco,ITINGA,-12.9001725,-38.3431092,Bahia,0
+1942,Panobianco,ITOUPAVA NORTE,-26.8914173,-49.0715009,Santa Catarina,1
+1943,Panobianco,ITU,-23.2713251,-47.2898124,São Paulo,1
+1944,Panobianco,ITUPEVA,-23.163116,-47.0549949,São Paulo,0
+1945,Panobianco,JABOTICABAL,-21.2698545,-48.3206812,São Paulo,0
+1946,Panobianco,JAÇANÃ,-23.4682117,-46.5882527,São Paulo,0
+1947,Panobianco,JAGUARÉ,-23.5553486,-46.7515501,São Paulo,1
+1948,Panobianco,JAGUARIÚNA,-22.703709,-46.9873225,São Paulo,0
+1949,Panobianco,JAIARA,-16.2872969,-48.9699614,Goiás,0
+1950,Panobianco,JAMAICA,-23.6881819,-46.5380875,São Paulo,0
+1951,Panobianco,JARAGUÁ,-23.4877884,-46.7572802,São Paulo,0
+1952,Panobianco,JARDIM AMANDA,-22.9018072,-47.2293571,São Paulo,0
+1953,Panobianco,JARDIM BRASIL,-23.479149,-46.5841745,São Paulo,1
+1954,Panobianco,JARDIM DO LAGO,-22.6090526,-47.422091,São Paulo,0
+1955,Panobianco,JARDIM PAULISTA,-22.9288287,-47.2613876,São Paulo,1
+1956,Panobianco,JARDIM SÃO FRANCISCO,-23.3573805,-46.7407755,São Paulo,1
+1957,Panobianco,JARDIM VILAGE,-22.3771494,-47.5481684,São Paulo,0
+1958,Panobianco,JARDIM ZAIRA,-23.6560153,-46.4474068,São Paulo,0
+1959,Panobianco,JARDINÓPOLIS,-21.0239791,-47.7692906,São Paulo,0
+1960,Panobianco,JATOBÁ,-22.8659445,-47.2290793,São Paulo,0
+1961,Panobianco,JD HUBERT,-23.1096452,-47.2313436,São Paulo,1
+1962,Panobianco,JEQUIRITUBA,-23.7330218,-46.6887867,São Paulo,0
+1963,Panobianco,JJ LACERDA SOROCABA,-23.4814333,-47.4591933,São Paulo,0
+1964,Panobianco,JOSÉ PAULINO,-22.7752814,-47.1431038,São Paulo,1
+1965,Panobianco,JULIO DE MESQUITA,-23.5043351,-47.5115005,São Paulo,0
+1966,Panobianco,JUSSARA,-21.22597,-50.4527166,São Paulo,0
+1967,Panobianco,LAGO DO SILVÉRIO,-22.2801514,-48.5522982,São Paulo,0
+1968,Panobianco,LAGUNA,-22.3187234,-41.7228586,Rio de Janeiro,0
+1969,Panobianco,LAPA,-23.5242224,-46.7028289,São Paulo,3
+1970,Panobianco,LEME,-22.1802525,-47.3917198,São Paulo,1
+1971,Panobianco,LENÇÓIS PAULISTA (CT),-22.6082385,-48.8054709,São Paulo,0
+1972,Panobianco,LESTE UNIVERSITÁRIO,-16.6724785,-49.2485004,Goiás,0
+1973,Panobianco,LIMEIRA CENTRO,-22.5661945,-47.4015281,São Paulo,1
+1974,Panobianco,LONDRINA CENTRO,-23.3084411,-51.1652803,Paraná,2
+1975,Panobianco,LORENA,-22.75489,-45.1051651,São Paulo,0
+1976,Panobianco,MARAJOARA,-23.6660065,-46.4930431,São Paulo,0
+1977,Panobianco,MARECHAL TITO,-23.4847958,-46.3778751,São Paulo,1
+1978,Panobianco,MARIA BEATRIZ,-23.5469785,-46.8589787,São Paulo,1
+1979,Panobianco,MARIA ROSA,-23.615249,-46.7637913,São Paulo,2
+1980,Panobianco,MARIALVA – PR,-23.4791148,-51.8048208,Paraná,0
+1981,Panobianco,MARINCEK,-21.1222489,-47.8067183,São Paulo,0
+1982,Panobianco,MARINGÁ,-23.4228239,-51.9075194,Paraná,1
+1983,Panobianco,MARTIM FRANSCISCO,-23.6305884,-46.5143875,São Paulo,1
+1984,Panobianco,MARTINS COELHO,-22.1587675,-49.9640524,São Paulo,0
+1985,Panobianco,MATÃO,-22.8359782,-47.1649831,São Paulo,0
+1986,Panobianco,MAYSA,-16.6334472,-49.3902753,Goiás,0
+1987,Panobianco,MEDICI,-23.5034619,-46.7704765,São Paulo,1
+1988,Panobianco,MEGA POLO,-16.6556807,-49.2678273,Goiás,1
+1989,Panobianco,MIGUEL YUNES,-23.6869633,-46.6894048,São Paulo,0
+1990,Panobianco,MIRASSOL,-20.8198711,-49.5088124,São Paulo,0
+1991,Panobianco,MOCOCA,-21.473366,-47.008474,São Paulo,0
+1992,Panobianco,MOGI GUAÇU,-22.3913941,-46.9453992,São Paulo,0
+1993,Panobianco,MOGI MIRIM CENTRO,-22.4395075,-46.9645571,São Paulo,1
+1994,Panobianco,MONTE MOR CENTRO,-22.9501387,-47.3068636,São Paulo,0
+1995,Panobianco,MONTES CLAROS,-16.7200213,-43.8596421,Minas Gerais,0
+1996,Panobianco,MORADA DO SOL,-23.1257931,-47.240366,São Paulo,0
+1997,Panobianco,MORAES SALLES,-22.9059063,-47.0492176,São Paulo,0
+1998,Panobianco,MORATO CENTRO,-23.2832122,-46.7445065,São Paulo,1
+1999,Panobianco,NHOCUNÉ,-23.5429723,-46.4937216,São Paulo,2
+2000,Panobianco,NÓBREGA,-22.9123165,-47.1182994,São Paulo,0
+2001,Panobianco,NOGUEIRA,-23.6885043,-46.5984203,São Paulo,0
+2002,Panobianco,NORDESTINA,-23.5310708,-46.4151992,São Paulo,0
+2003,Panobianco,NOVA ALVORADA,-22.8809267,-47.2075491,São Paulo,0
+2004,Panobianco,NOVA ANDRADINA – MS,-22.2388321,-53.3409809,Mato Grosso do Sul,0
+2005,Panobianco,NOVA EUROPA,-22.9427492,-47.0595355,São Paulo,1
+2006,Panobianco,NOVA FRIBURGO,-22.2747109,-42.5331735,Rio de Janeiro,0
+2007,Panobianco,NOVA MARÍLIA,-22.2405174,-49.9271992,São Paulo,0
+2008,Panobianco,NOVA MIRIM,-24.029723,-46.4924779,São Paulo,0
+2009,Panobianco,NOVA ODESSA,-22.7816129,-47.2924161,São Paulo,0
+2010,Panobianco,NOVO ÂNGULO,-22.8801137,-47.1740533,São Paulo,0
+2011,Panobianco,NOVO HORIZONTE,-23.7758026,-46.6976638,São Paulo,0
+2012,Panobianco,OSASCO CENTRO,-23.5290815,-46.7761081,São Paulo,1
+2013,Panobianco,OURO PRETO,-22.9568556,-47.1348225,São Paulo,0
+2014,Panobianco,OZIEL,-22.9382118,-47.079841,São Paulo,1
+2015,Panobianco,PADRE ANCHIETA,-22.8669285,-47.1498671,São Paulo,1
+2016,Panobianco,PAGUE MENOS LIMEIRA,-22.5845224,-47.4216592,São Paulo,1
+2017,Panobianco,PAMPULHA,-19.87,-43.99938,Minas Gerais,1
+2018,Panobianco,PANNUNZIO,-23.516896,-47.4893497,São Paulo,0
+2019,Panobianco,PARADA 15 DE NOVEMBRO,-23.524623,-46.4299441,São Paulo,0
+2020,Panobianco,PARANAVAÍ – PR,-23.7485569,-46.3962,São Paulo,4
+2021,Panobianco,PARIS,-24.0053052,-46.4101643,São Paulo,4
+2022,Panobianco,PARQUE DAS NAÇÕES,-22.8370859,-47.1889394,São Paulo,0
+2023,Panobianco,PARQUE INDEPEDÊNCIA,-23.6864256,-46.7905759,São Paulo,1
+2024,Panobianco,PAULICÉIA PIRACICABA,-22.7455286,-47.6451492,São Paulo,2
+2025,Panobianco,PAULÍNIA,-22.7451911,-47.1732451,São Paulo,0
+2026,Panobianco,PAULISTA VALINHOS,-22.9844643,-46.9910915,São Paulo,1
+2027,Panobianco,PEDREIRA,-23.1652856,-47.0666656,São Paulo,0
+2028,Panobianco,PENHA,-23.5228698,-46.5415541,São Paulo,2
+2029,Panobianco,PEREIRA BARRETO,-23.6769664,-46.5371766,São Paulo,1
+2030,Panobianco,PERIMETRAL,-16.6437905,-49.2975956,Goiás,0
+2031,Panobianco,PERUIBE – SP,-24.2973184,-46.9702005,São Paulo,0
+2032,Panobianco,PERUS,-23.4015252,-46.7525464,São Paulo,1
+2033,Panobianco,PERUS RECANTO,-23.4091444,-46.7518069,São Paulo,1
+2034,Panobianco,PETROLINA,-9.3838529,-40.4885294,Pernambuco,1
+2035,Panobianco,PICERNO,-22.8013444,-47.27596,São Paulo,0
+2036,Panobianco,PICO,-23.4491807,-46.7483593,São Paulo,0
+2037,Panobianco,PIMENTAS,-23.4343189,-46.405637,São Paulo,0
+2038,Panobianco,PINDA SIMPATIA,-22.9541738,-45.4920963,São Paulo,0
+2039,Panobianco,PINHAL,-22.1965404,-46.7596108,São Paulo,1
+2040,Panobianco,PIRACICABA CENTRO,-22.7244993,-47.6513226,São Paulo,0
+2041,Panobianco,PIRAJUSSARA,-23.6389916,-46.8007428,São Paulo,1
+2042,Panobianco,PIRASSUNUNGA,-21.993961,-47.4241627,São Paulo,1
+2043,Panobianco,POÁ,-23.5314449,-46.3386989,São Paulo,0
+2044,Panobianco,POÇOS DE CALDAS,-21.7847391,-46.5858142,Minas Gerais,1
+2045,Panobianco,PQ INDUSTRIAL,-22.9208277,-47.0812603,São Paulo,1
+2046,Panobianco,PRESIDENTE DUTRA,-23.4293778,-46.4364823,São Paulo,0
+2047,Panobianco,PRESTES MAIA,-23.5697985,-46.7786344,São Paulo,0
+2048,Panobianco,PRUDENTE CENTRO,-22.1212068,-51.3969024,São Paulo,0
+2049,Panobianco,QUEIMADOS,-22.7149017,-43.5571075,Rio de Janeiro,1
+2050,Panobianco,RAMI,-23.2161251,-46.878564,São Paulo,0
+2051,Panobianco,RECANTO CAMPO BELO,-23.7928842,-46.7355073,São Paulo,0
+2052,Panobianco,RECANTO FORTUNA,-22.5651581,-47.4389412,São Paulo,2
+2053,Panobianco,REDENÇÃO,-23.0094373,-45.6068832,São Paulo,0
+2054,Panobianco,REDINHA,-5.7462173,-35.2270536,Rio Grande do Norte,0
+2055,Panobianco,REPÚBLICA,-23.544133,-46.6403479,São Paulo,6
+2056,Panobianco,RESIDENCIAL COCAIA,-23.7435944,-46.6657086,São Paulo,1
+2057,Panobianco,RESSACA,-19.8859986,-44.0344878,Minas Gerais,2
+2058,Panobianco,RIO DAS PEDRAS,-22.9717463,-43.3367575,Rio de Janeiro,1
+2059,Panobianco,ROLDÃO CAPITÃO JOÃO,-23.6803668,-46.4540168,São Paulo,0
+2060,Panobianco,ROLDÃO MOGI GUAÇU,-22.3419878,-46.9487,São Paulo,1
+2061,Panobianco,ROLDÃO VALINHOS,-22.963504,-46.9990324,São Paulo,0
+2062,Panobianco,ROLDÃO VILA EMA,-23.5904854,-46.5424115,São Paulo,1
+2063,Panobianco,ROSAMELIA,-22.6395861,-47.1803211,São Paulo,2
+2064,Panobianco,ROSEMARY,-23.5613985,-46.9258842,São Paulo,1
+2065,Panobianco,ROSOLÉM,-22.9012201,-47.1727644,São Paulo,1
+2066,Panobianco,RUY RODRIGUES,-22.9466092,-47.109473,São Paulo,2
+2067,Panobianco,SABURÔ AKAMINE,-22.4006741,-47.5853495,São Paulo,1
+2068,Panobianco,SALGADO FILHO,-23.445402,-46.534218,São Paulo,1
+2069,Panobianco,SALTO,-23.4021027,-47.3365204,São Paulo,0
+2070,Panobianco,SAMAMBAIA,-15.8854714,-48.0755051,Distrito Federal,1
+2071,Panobianco,SANTA BÁRBARA D’OESTE,-22.7613297,-47.3970856,São Paulo,0
+2072,Panobianco,SANTA BÁRBARA D’OESTE 2 (JARDIM EUROPA),-22.7275484,-47.3668693,São Paulo,0
+2073,Panobianco,SANTA MENA,-23.4502826,-46.5439303,São Paulo,2
+2074,Panobianco,SANTA PAULA,-20.7950142,-49.4017576,São Paulo,0
+2075,Panobianco,SANTA RITA,-23.5475524,-46.9418487,São Paulo,2
+2076,Panobianco,SANTA TEREZINHA,-22.6791557,-47.6774755,São Paulo,1
+2077,Panobianco,SANTANA,-23.5020651,-46.6406927,São Paulo,1
+2078,Panobianco,SANTO AMARO,-23.6546329,-46.7012873,São Paulo,2
+2079,Panobianco,SANTOS DUMONT SOROCABA,-23.485914,-47.4775637,São Paulo,2
+2080,Panobianco,SÃO CAETANO (JARDIM SÃO CAETANO),-23.6437905,-46.5792777,São Paulo,1
+2081,Panobianco,SÃO CRISTÓVÃO,-22.9828532,-47.1478922,São Paulo,0
+2082,Panobianco,SÃO FERNANDO,-23.555781,-46.8805494,São Paulo,0
+2083,Panobianco,SÃO GONÇALO,-22.8281103,-43.0194641,Rio de Janeiro,0
+2084,Panobianco,SÃO JOÃO,-23.4177849,-46.4655685,São Paulo,0
+2085,Panobianco,SÃO LUÍS,-23.0046306,-45.5545297,São Paulo,0
+2086,Panobianco,SÃO MARCOS,-22.9448526,-46.9943477,São Paulo,0
+2087,Panobianco,SÃO PEDRO,-22.5519729,-47.9061706,São Paulo,0
+2088,Panobianco,SÃO RAFAEL – ZL / SP,-23.6330312,-46.4690669,São Paulo,1
+2089,Panobianco,SÃO RAFAEL ZL,-23.6330312,-46.4690669,São Paulo,1
+2090,Panobianco,SÃO VICENTE CENTRO,-23.9685589,-46.3857372,São Paulo,2
+2091,Panobianco,SÃO VICENTE EMMERICH,-23.9528576,-46.373854,São Paulo,1
+2092,Panobianco,SÃO VITO,-22.7224724,-47.307208,São Paulo,1
+2093,Panobianco,SAPOPEMBA,-23.5747698,-46.553886,São Paulo,1
+2094,Panobianco,SAUDADE,-21.1640116,-47.803267,São Paulo,1
+2095,Panobianco,SAÚDE,-23.6193533,-46.6377362,São Paulo,1
+2096,Panobianco,SAUL ELKIND,-23.2588549,-51.163782,Paraná,0
+2097,Panobianco,SBC CASTELO BRANCO / SP,-23.71331,-46.58687,São Paulo,1
+2098,Panobianco,SBC DOS CASA,-23.7411261,-46.5759155,São Paulo,0
+2099,Panobianco,SBC LIONS,-23.6650032,-46.5688597,São Paulo,2
+2100,Panobianco,SBC PLANALTO,-23.6986874,-46.5654231,São Paulo,0
+2101,Panobianco,SBC TABOÃO,-23.6639451,-46.6066246,São Paulo,1
+2102,Panobianco,SELECT BRASIL 500,-22.7893218,-47.140159,São Paulo,0
+2103,Panobianco,SELECT GYM BY PANOBIANCO,-8.1246064,-34.899853,Pernambuco,6
+2104,Panobianco,SERRARIA,-22.9784809,-46.9953909,São Paulo,1
+2105,Panobianco,SETOR OESTE,-16.6797638,-49.2666614,Goiás,2
+2106,Panobianco,SILVERSTONE,-23.5554351,-46.9061792,São Paulo,0
+2107,Panobianco,SILVESTRE,-23.473071,-46.5341837,São Paulo,0
+2108,Panobianco,SJ RIO PRETO CENTRO,-20.8183931,-49.3889982,São Paulo,1
+2109,Panobianco,SJC AMÉRICA,-23.233186,-45.8943548,São Paulo,0
+2110,Panobianco,SJC CENTRO,-23.1839059,-45.8837549,São Paulo,0
+2111,Panobianco,SJC FERRADURA,-23.2317681,-45.9190208,São Paulo,1
+2112,Panobianco,SJC MONTE CASTELO,-23.17928,-45.8701154,São Paulo,0
+2113,Panobianco,SJC MORUMBI,-23.2423324,-45.9061786,São Paulo,2
+2114,Panobianco,SJC SATÉLITE,-23.2171658,-45.888356,São Paulo,2
+2115,Panobianco,SOBERANA,-23.401064,-46.4441662,São Paulo,0
+2116,Panobianco,SOMENZARI,-22.2014345,-49.9569213,São Paulo,0
+2117,Panobianco,SPAZIO OURO VERDE,-22.9660187,-47.1366694,São Paulo,1
+2118,Panobianco,SUAÇUNA,-22.9712311,-47.1277227,São Paulo,0
+2119,Panobianco,SUMARÉ CENTRO,-22.8181772,-47.273169,São Paulo,1
+2120,Panobianco,SUMARÉ PAGUE MENOS,-22.8269234,-47.2007059,São Paulo,0
+2121,Panobianco,SUMAREZINHO,-21.1619559,-47.8319886,São Paulo,0
+2122,Panobianco,SUZANO – JARDIM DONA BENTA,-23.5047308,-46.2997904,São Paulo,1
+2123,Panobianco,SUZANO CENTRO,-23.5477849,-46.307902,São Paulo,0
+2124,Panobianco,TABOÃO DA SERRA,-23.6338563,-46.7832994,São Paulo,3
+2125,Panobianco,TAQUARAL,-22.8725301,-47.0397205,São Paulo,1
+2126,Panobianco,TAQUARITINGA,-23.6491746,-46.5780492,São Paulo,2
+2127,Panobianco,TATUÍ CENTRO,-23.3502634,-47.8479107,São Paulo,0
+2128,Panobianco,TAUBATÉ CENTRO,-23.0345164,-45.5584885,São Paulo,1
+2129,Panobianco,TENDA ITAPETININGA,-23.5831412,-48.0368707,São Paulo,0
+2130,Panobianco,TENDA MATÃO,-21.6016119,-48.3561605,São Paulo,0
+2131,Panobianco,TENDA PINDA,-22.9500837,-45.4073417,São Paulo,0
+2132,Panobianco,TERRA PRETA,-23.2648079,-46.5907941,São Paulo,0
+2133,Panobianco,TIBURCIO,-23.5041228,-46.3969158,São Paulo,2
+2134,Panobianco,TRANQUILIDADE,-23.4733095,-46.5548183,São Paulo,0
+2135,Panobianco,TREMEMBÉ,-23.4647709,-46.6169215,São Paulo,1
+2136,Panobianco,TUCURA,-22.4198797,-46.9591934,São Paulo,0
+2137,Panobianco,TUCURUVI,-23.4808183,-46.6012297,São Paulo,1
+2138,Panobianco,TUPI,-24.0165014,-46.4546792,São Paulo,0
+2139,Panobianco,UNIMART,-22.9079237,-47.0954735,São Paulo,0
+2140,Panobianco,VALO VELHO,-23.6833686,-46.7977958,São Paulo,1
+2141,Panobianco,VARZEA CENTRO,-23.2097118,-46.8464023,São Paulo,0
+2142,Panobianco,VÁRZEA PACAEMBU,-23.1982499,-46.8175509,São Paulo,1
+2143,Panobianco,VAZAME,-23.6600604,-46.8067083,São Paulo,2
+2144,Panobianco,VELOSO,-23.5667607,-46.8079626,São Paulo,1
+2145,Panobianco,VERA CRUZ,-23.7383039,-46.7808507,São Paulo,1
+2146,Panobianco,VIA NORTE / SP,-22.8781678,-47.1227422,São Paulo,0
+2147,Panobianco,VIANAS,-23.706806,-46.5214142,São Paulo,1
+2148,Panobianco,VICENTE DE CARVALHO,-23.9469531,-46.2979156,São Paulo,1
+2149,Panobianco,VILA AGRÍCOLA,-23.2038811,-46.867557,São Paulo,0
+2150,Panobianco,VILA ANTONIETA,-23.5711295,-46.5100674,São Paulo,2
+2151,Panobianco,VILA ANTONIO,-23.5793822,-46.7642299,São Paulo,0
+2152,Panobianco,VILA CURUÇA,-23.4985635,-46.4228155,São Paulo,0
+2153,Panobianco,VILA FORMOSA,-23.5690286,-46.5402743,São Paulo,1
+2154,Panobianco,VILA GEORGINA,-22.9313922,-47.0424529,São Paulo,0
+2155,Panobianco,VILA IMPÉRIO,-23.667791,-46.6559692,São Paulo,0
+2156,Panobianco,VILA INDUSTRIAL,-22.9080193,-47.07925,São Paulo,0
+2157,Panobianco,VILA IPIRANGA,-30.0110484,-51.1482891,Rio Grande do Sul,0
+2158,Panobianco,VILA LURDES,-23.5268936,-46.8583465,São Paulo,1
+2159,Panobianco,VILA LUZITA,-23.6956625,-46.5056561,São Paulo,1
+2160,Panobianco,VILA MAGINI,-23.6609213,-46.4580283,São Paulo,1
+2161,Panobianco,VILA MASCOTE – SP,-23.6433654,-46.6651656,São Paulo,2
+2162,Panobianco,VILA MONTEIRO,-23.5098702,-46.3403696,São Paulo,0
+2163,Panobianco,VILA NILO,-23.4606015,-46.5743898,São Paulo,0
+2164,Panobianco,VILA PRADO,-22.0160785,-47.8939538,São Paulo,0
+2165,Panobianco,VILA PROOST,-22.8988862,-47.1002369,São Paulo,0
+2166,Panobianco,VILA PRUDENTE,-23.583726,-46.5846174,São Paulo,2
+2167,Panobianco,VILA RAMOS,-23.3319189,-46.7160793,São Paulo,0
+2168,Panobianco,VILA SÃO JOSÉ,-23.0179039,-45.5336781,São Paulo,0
+2169,Panobianco,VILA SUISSA,-23.5029306,-46.1586481,São Paulo,0
+2170,Panobianco,VILA VIRGÍNIA,-21.1858366,-47.8216113,São Paulo,0
+2171,Panobianco,VINHEDO,-23.0233393,-46.9833332,São Paulo,1
+2172,Panobianco,VISTA ALEGRE,-22.3010705,-49.0690121,São Paulo,1
+2173,Panobianco,VOTORANTIM,-23.5422678,-47.452547,São Paulo,0
+2174,Panobianco,VOTUPORANGA,-20.4246682,-49.9643498,São Paulo,1
+2175,Panobianco,WANEL VILLE,-23.492428,-47.5091596,São Paulo,0
+2176,Panobianco,WASHINGTON LUIZ,-22.9177308,-47.0567204,São Paulo,2
+2177,Panobianco,XV NOVEMBRO,-23.0242598,-45.5559789,São Paulo,0
+2178,Panobianco,YERVANT,-23.6854009,-46.6486371,São Paulo,0
+2179,Panobianco,ZANAGA AMERICANA,-22.7029796,-47.2956893,São Paulo,0
+2180,Panobianco,ZANCHI,-22.1452504,-51.4117855,São Paulo,0
