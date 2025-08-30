@@ -1,0 +1,288 @@
+estado,rede,pares_proximos
+Rio de Janeiro,Bluefit,13
+Rio de Janeiro,Selfit,14
+Rio de Janeiro,BodyTech,81
+Rio de Janeiro,Pratique Fitness,0
+Rio de Janeiro,Smartfit,161
+Rio de Janeiro,Skyfit,23
+Rio de Janeiro,Panobianco,5
+Minas Gerais,Bluefit,8
+Minas Gerais,Selfit,3
+Minas Gerais,BodyTech,4
+Minas Gerais,Pratique Fitness,28
+Minas Gerais,Smartfit,24
+Minas Gerais,Skyfit,7
+Minas Gerais,Panobianco,4
+São Paulo,Bluefit,101
+São Paulo,Selfit,10
+São Paulo,BodyTech,36
+São Paulo,Pratique Fitness,0
+São Paulo,Smartfit,306
+São Paulo,Skyfit,144
+São Paulo,Panobianco,201
+Paraná,Bluefit,6
+Paraná,Selfit,0
+Paraná,BodyTech,3
+Paraná,Pratique Fitness,0
+Paraná,Smartfit,7
+Paraná,Skyfit,3
+Paraná,Panobianco,3
+Santa Catarina,Bluefit,1
+Santa Catarina,Selfit,2
+Santa Catarina,BodyTech,1
+Santa Catarina,Pratique Fitness,15
+Santa Catarina,Smartfit,9
+Santa Catarina,Skyfit,1
+Santa Catarina,Panobianco,1
+Goiás,Bluefit,19
+Goiás,Selfit,0
+Goiás,BodyTech,2
+Goiás,Pratique Fitness,0
+Goiás,Smartfit,14
+Goiás,Skyfit,7
+Goiás,Panobianco,3
+Distrito Federal,Bluefit,26
+Distrito Federal,Selfit,0
+Distrito Federal,BodyTech,9
+Distrito Federal,Pratique Fitness,0
+Distrito Federal,Smartfit,45
+Distrito Federal,Skyfit,6
+Distrito Federal,Panobianco,1
+Bahia,Bluefit,6
+Bahia,Selfit,16
+Bahia,BodyTech,4
+Bahia,Pratique Fitness,0
+Bahia,Smartfit,17
+Bahia,Skyfit,6
+Bahia,Panobianco,0
+Mato Grosso do Sul,Bluefit,0
+Mato Grosso do Sul,Selfit,0
+Mato Grosso do Sul,BodyTech,0
+Mato Grosso do Sul,Pratique Fitness,0
+Mato Grosso do Sul,Smartfit,1
+Mato Grosso do Sul,Skyfit,1
+Mato Grosso do Sul,Panobianco,0
+Tocantins,Bluefit,1
+Tocantins,Selfit,0
+Tocantins,BodyTech,0
+Tocantins,Pratique Fitness,0
+Tocantins,Smartfit,0
+Tocantins,Skyfit,1
+Tocantins,Panobianco,0
+Mato Grosso,Bluefit,3
+Mato Grosso,Selfit,2
+Mato Grosso,BodyTech,4
+Mato Grosso,Pratique Fitness,0
+Mato Grosso,Smartfit,2
+Mato Grosso,Skyfit,1
+Mato Grosso,Panobianco,0
+Alagoas,Bluefit,2
+Alagoas,Selfit,3
+Alagoas,BodyTech,0
+Alagoas,Pratique Fitness,0
+Alagoas,Smartfit,3
+Alagoas,Skyfit,0
+Alagoas,Panobianco,0
+Paraíba,Bluefit,6
+Paraíba,Selfit,3
+Paraíba,BodyTech,0
+Paraíba,Pratique Fitness,0
+Paraíba,Smartfit,3
+Paraíba,Skyfit,0
+Paraíba,Panobianco,0
+Ceará,Bluefit,9
+Ceará,Selfit,18
+Ceará,BodyTech,0
+Ceará,Pratique Fitness,0
+Ceará,Smartfit,33
+Ceará,Skyfit,1
+Ceará,Panobianco,0
+Pará,Bluefit,6
+Pará,Selfit,7
+Pará,BodyTech,0
+Pará,Pratique Fitness,0
+Pará,Smartfit,5
+Pará,Skyfit,2
+Pará,Panobianco,1
+Amazonas,Bluefit,5
+Amazonas,Selfit,5
+Amazonas,BodyTech,0
+Amazonas,Pratique Fitness,0
+Amazonas,Smartfit,6
+Amazonas,Skyfit,0
+Amazonas,Panobianco,0
+Acre,Bluefit,1
+Acre,Selfit,0
+Acre,BodyTech,0
+Acre,Pratique Fitness,0
+Acre,Smartfit,1
+Acre,Skyfit,0
+Acre,Panobianco,0
+Rio Grande do Norte,Bluefit,0
+Rio Grande do Norte,Selfit,8
+Rio Grande do Norte,BodyTech,1
+Rio Grande do Norte,Pratique Fitness,0
+Rio Grande do Norte,Smartfit,10
+Rio Grande do Norte,Skyfit,0
+Rio Grande do Norte,Panobianco,1
+Pernambuco,Bluefit,0
+Pernambuco,Selfit,43
+Pernambuco,BodyTech,5
+Pernambuco,Pratique Fitness,0
+Pernambuco,Smartfit,39
+Pernambuco,Skyfit,15
+Pernambuco,Panobianco,7
+Maranhão,Bluefit,0
+Maranhão,Selfit,10
+Maranhão,BodyTech,3
+Maranhão,Pratique Fitness,0
+Maranhão,Smartfit,13
+Maranhão,Skyfit,4
+Maranhão,Panobianco,0
+State of Santa Catarina,Bluefit,0
+State of Santa Catarina,Selfit,0
+State of Santa Catarina,BodyTech,0
+State of Santa Catarina,Pratique Fitness,0
+State of Santa Catarina,Smartfit,0
+State of Santa Catarina,Skyfit,0
+State of Santa Catarina,Panobianco,0
+Sergipe,Bluefit,0
+Sergipe,Selfit,1
+Sergipe,BodyTech,0
+Sergipe,Pratique Fitness,0
+Sergipe,Smartfit,1
+Sergipe,Skyfit,0
+Sergipe,Panobianco,0
+Piauí,Bluefit,0
+Piauí,Selfit,8
+Piauí,BodyTech,1
+Piauí,Pratique Fitness,0
+Piauí,Smartfit,5
+Piauí,Skyfit,3
+Piauí,Panobianco,0
+State of São Paulo,Bluefit,0
+State of São Paulo,Selfit,1
+State of São Paulo,BodyTech,0
+State of São Paulo,Pratique Fitness,0
+State of São Paulo,Smartfit,1
+State of São Paulo,Skyfit,1
+State of São Paulo,Panobianco,1
+,Bluefit,0
+,Selfit,0
+,BodyTech,0
+,Pratique Fitness,0
+,Smartfit,0
+,Skyfit,0
+,Panobianco,0
+Rio Grande do Sul,Bluefit,0
+Rio Grande do Sul,Selfit,0
+Rio Grande do Sul,BodyTech,1
+Rio Grande do Sul,Pratique Fitness,0
+Rio Grande do Sul,Smartfit,1
+Rio Grande do Sul,Skyfit,0
+Rio Grande do Sul,Panobianco,0
+Amapá,Bluefit,0
+Amapá,Selfit,1
+Amapá,BodyTech,0
+Amapá,Pratique Fitness,0
+Amapá,Smartfit,1
+Amapá,Skyfit,0
+Amapá,Panobianco,0
+Leiria District,Bluefit,0
+Leiria District,Selfit,2
+Leiria District,BodyTech,0
+Leiria District,Pratique Fitness,0
+Leiria District,Smartfit,2
+Leiria District,Skyfit,0
+Leiria District,Panobianco,0
+State of Rio de Janeiro,Bluefit,0
+State of Rio de Janeiro,Selfit,3
+State of Rio de Janeiro,BodyTech,0
+State of Rio de Janeiro,Pratique Fitness,0
+State of Rio de Janeiro,Smartfit,2
+State of Rio de Janeiro,Skyfit,1
+State of Rio de Janeiro,Panobianco,0
+Baja California Sur,Bluefit,0
+Baja California Sur,Selfit,0
+Baja California Sur,BodyTech,0
+Baja California Sur,Pratique Fitness,0
+Baja California Sur,Smartfit,0
+Baja California Sur,Skyfit,0
+Baja California Sur,Panobianco,0
+State of Bahia,Bluefit,0
+State of Bahia,Selfit,0
+State of Bahia,BodyTech,0
+State of Bahia,Pratique Fitness,0
+State of Bahia,Smartfit,1
+State of Bahia,Skyfit,1
+State of Bahia,Panobianco,0
+Espírito Santo,Bluefit,0
+Espírito Santo,Selfit,0
+Espírito Santo,BodyTech,1
+Espírito Santo,Pratique Fitness,0
+Espírito Santo,Smartfit,5
+Espírito Santo,Skyfit,0
+Espírito Santo,Panobianco,0
+Federal District,Bluefit,0
+Federal District,Selfit,0
+Federal District,BodyTech,0
+Federal District,Pratique Fitness,0
+Federal District,Smartfit,0
+Federal District,Skyfit,0
+Federal District,Panobianco,0
+State of Rio Grande do Norte,Bluefit,0
+State of Rio Grande do Norte,Selfit,0
+State of Rio Grande do Norte,BodyTech,0
+State of Rio Grande do Norte,Pratique Fitness,0
+State of Rio Grande do Norte,Smartfit,0
+State of Rio Grande do Norte,Skyfit,0
+State of Rio Grande do Norte,Panobianco,0
+Rondônia,Bluefit,0
+Rondônia,Selfit,0
+Rondônia,BodyTech,0
+Rondônia,Pratique Fitness,0
+Rondônia,Smartfit,0
+Rondônia,Skyfit,0
+Rondônia,Panobianco,0
+Roraima,Bluefit,0
+Roraima,Selfit,0
+Roraima,BodyTech,0
+Roraima,Pratique Fitness,0
+Roraima,Smartfit,1
+Roraima,Skyfit,1
+Roraima,Panobianco,0
+State of Maranhão,Bluefit,0
+State of Maranhão,Selfit,0
+State of Maranhão,BodyTech,0
+State of Maranhão,Pratique Fitness,0
+State of Maranhão,Smartfit,0
+State of Maranhão,Skyfit,0
+State of Maranhão,Panobianco,0
+,Bluefit,0
+,Selfit,0
+,BodyTech,0
+,Pratique Fitness,0
+,Smartfit,0
+,Skyfit,1
+,Panobianco,2
+State of Pernambuco,Bluefit,0
+State of Pernambuco,Selfit,0
+State of Pernambuco,BodyTech,0
+State of Pernambuco,Pratique Fitness,0
+State of Pernambuco,Smartfit,0
+State of Pernambuco,Skyfit,0
+State of Pernambuco,Panobianco,0
+State of Goiás,Bluefit,0
+State of Goiás,Selfit,0
+State of Goiás,BodyTech,0
+State of Goiás,Pratique Fitness,0
+State of Goiás,Smartfit,0
+State of Goiás,Skyfit,0
+State of Goiás,Panobianco,0
+Île-de-France,Bluefit,0
+Île-de-France,Selfit,0
+Île-de-France,BodyTech,0
+Île-de-France,Pratique Fitness,0
+Île-de-France,Smartfit,0
+Île-de-France,Skyfit,0
+Île-de-France,Panobianco,0
