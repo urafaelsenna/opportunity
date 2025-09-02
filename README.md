@@ -37,34 +37,42 @@ Este projeto agora calcula e visualiza **as distâncias entre unidades de academ
   - `matriz_agregada_mean.pkl` → matriz agregada por rede com distância média entre unidades diferentes
   - Heatmaps HTML → visualização interativa das matrizes agregadas
 
-### 🧮 Lógica de Cálculo
+### 🧮 Como Funciona a Matriz de Distâncias
 
-1. **Matriz completa (`matriz_distancias.py`)**
+O cálculo das distâncias entre academias é feito em **três níveis**, cada um gerando arquivos próprios para análise:
 
-   - Cada unidade é comparada com todas as outras usando a **fórmula de Haversine**, para calcular a distância geodésica em km.
-   - Resultado: matriz simétrica, diagonal originalmente 0 km (distância da unidade consigo mesma).
+1. **Matriz completa (`matriz_completa.pkl`)**
 
-2. **Agregação por rede (`matriz_resumida.py`)**
+   - Cada unidade é comparada com todas as outras usando a **fórmula de Haversine**, que calcula a distância geodésica (em km) entre dois pontos de latitude/longitude.
+   - Resultado: matriz **simétrica**, onde cada linha e coluna representam uma unidade individual.
+   - A diagonal originalmente era **0 km** (distância da unidade com ela mesma), mas isso não entra nas análises agregadas.
 
-   - A matriz completa é agrupada por rede para gerar **matrizes mínima e média**.
-   - Para cada par de redes:
-     - **Distância mínima (`Min`)** → menor distância entre **duas unidades diferentes**. A própria unidade não é considerada.
-     - **Distância média (`Mean`)** → média das distâncias entre todas as unidades diferentes.
-   - Limite de distância (`DIST_MAX_DEFAULT`, ex.: 10 km) aplicado: distâncias maiores são desconsideradas.
-   - Se não houver unidades dentro do raio, o resultado será `NaN`.
+2. **Matrizes agregadas por rede (`matriz_agregada_min.pkl` e `matriz_agregada_mean.pkl`)**
 
-3. **Visualização (`matriz_plotly.py`)**
-   - Heatmaps interativos para `Min` e `Mean`.
-   - Cores representam a distância dentro do raio definido.
-   - Unidades muito próximas aparecem em cores claras, distantes ou inexistentes em cores escuras ou `NaN`.
-   - Gráfico responsivo e fácil de interpretar.
+   - A matriz completa é resumida para comparar **redes de academias entre si**.
+   - O cálculo considera apenas unidades diferentes, e dentro de um **raio máximo configurável** (`DIST_MAX_DEFAULT`, ex.: 10 km):
+
+     - **Matriz mínima (`Min`)** → menor distância encontrada entre qualquer par de unidades de duas redes.
+     - **Matriz média (`Mean`)** → média de todas as distâncias válidas (≤ raio) entre unidades de duas redes.
+
+   - Se nenhuma unidade ficar dentro do raio definido, o resultado será `NaN`.
+
+3. **Visualizações (`*.html`)**
+
+   - Heatmaps interativos em HTML são gerados com **cores representando distâncias**:
+
+     - Cores claras → academias muito próximas.
+     - Cores escuras → academias distantes ou inexistentes no raio.
+
+   - O usuário pode filtrar por estado (`ESTADO_DEFAULT = "SP"`, por exemplo), para análises regionais.
 
 ### 📊 Interpretação dos Resultados
 
-- **Distância mínima dentro da mesma rede**: menor distância entre unidades **diferentes**, não mais 0 km automático.
-- **Valores pequenos (>0 km)**: unidades muito próximas dentro do raio definido.
-- **NaN ou valores capados pelo raio**: nenhuma unidade suficientemente próxima.
-- **Matriz média**: mostra a distância média entre unidades diferentes da mesma rede ou entre redes diferentes.
+- **Distâncias mínimas (`Min`)** → revelam proximidade máxima entre redes (ex.: Smart Fit e Bluefit com academias a 0.8 km no RJ).
+- **Distâncias médias (`Mean`)** → mostram a tendência geral de proximidade ou dispersão entre as redes em determinada região.
+- **Valores pequenos (>0 km)** → indicam redes com academias vizinhas ou sobreposição de mercado.
+- **Valores altos (próximos ao raio limite)** → indicam redes que coexistem na mesma região, mas não tão próximas.
+- **NaN** → nenhuma unidade dentro do raio definido (não há sobreposição geográfica entre as redes analisadas).
 
 ### ⚙️ Configurações (`config.py`)
 
@@ -167,7 +175,6 @@ opportunity/
 │   ├── geocode_geocodio.py        # Serviço Geocodio
 │   └── reverse_geocode_nominatim.py # Nominatim
 ├── 📄 README.md                    # Esta documentação
-├── 🚀 main.py                      # Execução principal
 ├── ⚙️ config.py                    # 🆕 Configurações do projeto
 └── 💾 unidades.db                  # Banco de dados
 ```
@@ -198,10 +205,7 @@ playwright install
 ### 1. **Coleta de Dados das Concorrentes**
 
 ```bash
-# Executar todos os scrapers
-python main.py
-
-# Ou executar individualmente
+# Executar scrapers individualmente
 python scraping/bluefit_scraper.py
 python scraping/selfit_scraper.py
 # ... outros scrapers
