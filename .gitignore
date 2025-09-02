@@ -63,7 +63,10 @@ Thumbs.db
 # JSON files with sensitive data
 unidades_atualizadas.json
 
-# Análise de distâncias - arquivos gerados
-exportados/*.pkl
-exportados/*.html
-exportados/matriz_*.html
+# Análise de distâncias - arquivos grandes gerados
+exportados/matriz_completa.pkl
+exportados/matriz_agregada_*.pkl
+exportados/unidades.pkl
+
+# Manter os HTMLs dos heatmaps para visualização
+# exportados/*.html
