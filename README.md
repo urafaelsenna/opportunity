@@ -14,6 +14,74 @@ Este projeto foi criado especificamente para o **Desafio Opportunity de Análise
 - **Análise de mercado** e posicionamento competitivo
 - **Insights estratégicos** para avaliação de investimento
 - **Comparativo** com principais concorrentes privados (BlueFit, Selfit, BodyTech, etc.)
+- **Análise de distâncias** entre unidades para identificar proximidade e cobertura geográfica
+
+## 🆕 Nova Funcionalidade: Análise de Distâncias entre Academias
+
+Este projeto agora calcula e visualiza **as distâncias entre unidades de academias no Brasil**, agregando por rede e por estado, permitindo identificar proximidade, cobertura geográfica e unidades isoladas.
+
+### 📍 Estrutura dos Dados
+
+- **Banco de dados (`unidades.db`)**: informações de cada academia
+
+  - `id` → identificador único da unidade
+  - `rede` → nome da rede da academia
+  - `nome` → nome da unidade
+  - `latitude` e `longitude` → coordenadas geográficas
+  - `estado_cdn` → código do estado
+
+- **Arquivos gerados**:
+  - `unidades.pkl` → DataFrame com todas as unidades carregadas do banco
+  - `matriz_completa.pkl` → matriz completa de distâncias entre todas as unidades
+  - `matriz_agregada_min.pkl` → matriz agregada por rede com distância mínima entre **unidades diferentes**
+  - `matriz_agregada_mean.pkl` → matriz agregada por rede com distância média entre unidades diferentes
+  - Heatmaps HTML → visualização interativa das matrizes agregadas
+
+### 🧮 Lógica de Cálculo
+
+1. **Matriz completa (`matriz_distancias.py`)**
+
+   - Cada unidade é comparada com todas as outras usando a **fórmula de Haversine**, para calcular a distância geodésica em km.
+   - Resultado: matriz simétrica, diagonal originalmente 0 km (distância da unidade consigo mesma).
+
+2. **Agregação por rede (`matriz_resumida.py`)**
+
+   - A matriz completa é agrupada por rede para gerar **matrizes mínima e média**.
+   - Para cada par de redes:
+     - **Distância mínima (`Min`)** → menor distância entre **duas unidades diferentes**. A própria unidade não é considerada.
+     - **Distância média (`Mean`)** → média das distâncias entre todas as unidades diferentes.
+   - Limite de distância (`DIST_MAX_DEFAULT`, ex.: 10 km) aplicado: distâncias maiores são desconsideradas.
+   - Se não houver unidades dentro do raio, o resultado será `NaN`.
+
+3. **Visualização (`matriz_plotly.py`)**
+   - Heatmaps interativos para `Min` e `Mean`.
+   - Cores representam a distância dentro do raio definido.
+   - Unidades muito próximas aparecem em cores claras, distantes ou inexistentes em cores escuras ou `NaN`.
+   - Gráfico responsivo e fácil de interpretar.
+
+### 📊 Interpretação dos Resultados
+
+- **Distância mínima dentro da mesma rede**: menor distância entre unidades **diferentes**, não mais 0 km automático.
+- **Valores pequenos (>0 km)**: unidades muito próximas dentro do raio definido.
+- **NaN ou valores capados pelo raio**: nenhuma unidade suficientemente próxima.
+- **Matriz média**: mostra a distância média entre unidades diferentes da mesma rede ou entre redes diferentes.
+
+### ⚙️ Configurações (`config.py`)
+
+```python
+EXPORT_DIR = "./exportados"      # pasta de arquivos gerados
+DIST_MAX_DEFAULT = 10            # raio máximo em km para cálculo de agregados
+ESTADO_DEFAULT = None            # None = todos os estados; ou string ex: "SP"
+```
+
+- Alterar `ESTADO_DEFAULT` permite filtrar resultados por estado específico.
+
+### 🚀 Passo a Passo da Análise de Distâncias
+
+1. Executar `matriz_distancias.py` → gera a matriz completa de distâncias.
+2. Executar `matriz_resumida.py` → agrega as distâncias por rede, considerando apenas unidades diferentes.
+3. Executar `matriz_plotly.py` → gera heatmaps interativos em HTML.
+4. Visualizar os heatmaps e interpretar proximidade, cobertura e unidades isoladas.
 
 ## 🤖 Desenvolvimento com Inteligência Artificial
 
@@ -70,14 +138,21 @@ opportunity/
 │   ├── df_unidades.ipynb
 │   ├── listar_colunas.ipynb
 │   ├── map_folium.py              # Mapeamento geográfico
-│   └── plot_unidades.py           # Gráficos e visualizações
+│   ├── matriz_distancias.py       # 🆕 Matriz completa de distâncias
+│   ├── matriz_resumida.py         # 🆕 Agregação por rede
+│   ├── matriz_plotly.py           # 🆕 Visualização com heatmaps
+│   └── plot_unidades_density.py   # 🆕 Análise de densidade
 ├── 🗄️ database/                    # Banco de dados SQLite
 │   ├── db.py                      # Configuração do banco
 │   └── models.py                  # Modelos de dados
 ├── 📤 exportados/                  # Relatórios e dados exportados
 │   ├── mapa_density_unidades.html # Mapa interativo
 │   ├── metrics_estado_1.0km.csv   # Métricas por estado
-│   └── unidades_proximas_1.0km.csv
+│   ├── unidades_proximas_1.0km.csv
+│   ├── matriz_completa.pkl        # 🆕 Matriz completa de distâncias
+│   ├── matriz_agregada_min.pkl    # 🆕 Matriz mínima por rede
+│   ├── matriz_agregada_mean.pkl   # 🆕 Matriz média por rede
+│   └── *.html                     # 🆕 Heatmaps interativos
 ├── 🕷️ scraping/                    # Scrapers para diferentes academias
 │   ├── bluefit_scraper.py         # ✅ Funcionando
 │   ├── bodytech_scraper.py        # ✅ Funcionando
@@ -93,6 +168,7 @@ opportunity/
 │   └── reverse_geocode_nominatim.py # Nominatim
 ├── 📄 README.md                    # Esta documentação
 ├── 🚀 main.py                      # Execução principal
+├── ⚙️ config.py                    # 🆕 Configurações do projeto
 └── 💾 unidades.db                  # Banco de dados
 ```
 
@@ -144,8 +220,13 @@ python utils/geocode.py
 jupyter notebook analysis/
 
 # Ou executar scripts Python
-python analysis/plot_unidades.py
+python analysis/plot_unidades_density.py
 python analysis/map_folium.py
+
+# 🆕 NOVO: Análise de distâncias entre academias
+python analysis/matriz_distancias.py      # Gera matriz completa
+python analysis/matriz_resumida.py        # Agrega por rede
+python analysis/matriz_plotly.py          # Gera heatmaps
 ```
 
 ### 4. **Exportar Dados**
@@ -173,6 +254,9 @@ python exportar_db_para_csv.py
 - Notebooks Jupyter para exploração
 - Visualizações com Folium e Plotly
 - Métricas comparativas por região
+- 🆕 **Matriz de distâncias** entre unidades
+- 🆕 **Heatmaps interativos** para análise geográfica
+- 🆕 **Agregação por rede** com métricas de proximidade
 
 ### ✅ **Exportação**
 
@@ -199,6 +283,9 @@ python exportar_db_para_csv.py
 - Densidade de unidades por região
 - Análise de saturação de mercado
 - Potencial de expansão geográfica
+- 🆕 **Distâncias entre unidades** para análise de cobertura
+- 🆕 **Identificação de unidades isoladas** ou muito próximas
+- 🆕 **Análise competitiva** por proximidade geográfica
 
 ## 🔮 Próximos Passos (Melhorias Futuras)
 
@@ -208,6 +295,9 @@ python exportar_db_para_csv.py
 - [ ] Relatórios automatizados periódicos
 - [ ] API REST para consulta de dados
 - [ ] Sistema de alertas para mudanças no mercado
+- 🆕 ✅ **Análise de distâncias** entre academias
+- 🆕 ✅ **Heatmaps interativos** para visualização
+- 🆕 ✅ **Matrizes agregadas** por rede e estado
 
 ### **Análises de Negócio**
 
@@ -225,6 +315,9 @@ python exportar_db_para_csv.py
 - Banco de dados SQLite
 - Análise de dados com Pandas
 - Visualizações geográficas
+- 🆕 **Cálculo de distâncias geodésicas** com fórmula de Haversine
+- 🆕 **Agregação e análise** de dados geográficos
+- 🆕 **Criação de heatmaps** interativos com Plotly
 
 ### **Desafios enfrentados:**
 
