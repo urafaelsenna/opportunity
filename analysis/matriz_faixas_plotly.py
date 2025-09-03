@@ -1,5 +1,5 @@
 # =========================
-# matriz_faixas_plotly_separado.py
+# matriz_faixas_plotly.py
 # =========================
 import pandas as pd
 import numpy as np
@@ -8,14 +8,29 @@ import os
 from config import EXPORT_DIR, ESTADO_DEFAULT
 
 # =========================
-# Configurações
+# Configuração principal
 # =========================
-FAIXAS_DISTANCIA = {
-    "Muito perto (≤1 km)": (0, 1),
-    "Perto (1-5 km)": (1, 5),
-    "Moderado (5-10 km)": (5, 10),
-    "Longe (>10 km)": (10, np.inf)
-}
+DIST_MAX_ULTIMA_FAIXA = 30  # km (usuário define aqui!)
+
+# Quebras padrão (em km) -> sempre respeitar esses pontos
+BREAKPOINTS = [1, 5, 10, 15, 20, 30, 40, 50]
+
+# Gera as faixas até o limite do usuário
+def gerar_faixas(max_dist):
+    limites = [x for x in BREAKPOINTS if x <= max_dist]
+    faixas = []
+    for i, limite in enumerate(limites):
+        if i == 0:
+            faixas.append((0, limite))  # primeira faixa
+        else:
+            faixas.append((limites[i-1], limite))  # intermediárias
+    # monta dicionário nomeado
+    faixas_dict = {f"≤ {faixas[0][1]} km": faixas[0]}
+    for (low, high) in faixas[1:]:
+        faixas_dict[f"> {low} – ≤ {high} km"] = (low, high)
+    return faixas_dict
+
+FAIXAS_DISTANCIA = gerar_faixas(DIST_MAX_ULTIMA_FAIXA)
 
 EXPORT_DIR = "./exportados"
 os.makedirs(EXPORT_DIR, exist_ok=True)
@@ -46,8 +61,11 @@ redes = sorted(df['rede'].unique())
 # =========================
 def contar_faixas(submatriz):
     contagem = {}
-    for faixa_nome, (min_km, max_km) in FAIXAS_DISTANCIA.items():
-        mask = (submatriz > min_km) & (submatriz <= max_km)
+    for i, (faixa_nome, (min_km, max_km)) in enumerate(FAIXAS_DISTANCIA.items()):
+        if i == 0:  # primeira faixa inclui o limite inferior
+            mask = (submatriz <= max_km)
+        else:       # faixas intermediárias
+            mask = (submatriz > min_km) & (submatriz <= max_km)
         contagem[faixa_nome] = mask.sum().sum()
     return contagem
 
@@ -98,7 +116,7 @@ def plot_heatmap(matriz, tipo="quantidade", titulo="Distribuição de Academias 
 
     fig.update_layout(
         title=dict(
-            text=f"{titulo} - Rede Base: {rede_base} - Estado: {estado or 'Todos'}",
+            text=f"{titulo} - Rede Base: {rede_base} - Estado: {estado or 'Todos'} (até {DIST_MAX_ULTIMA_FAIXA} km)",
             font=dict(family="Inter", size=22, color="black"),
             x=0.5, xanchor='center'
         ),
@@ -109,7 +127,7 @@ def plot_heatmap(matriz, tipo="quantidade", titulo="Distribuição de Academias 
         margin=dict(l=50, r=50, t=100, b=50)
     )
 
-    html_file = os.path.join(EXPORT_DIR, f"heatmap_faixas_{rede_base}_estado{estado or 'all'}_{tipo}.html")
+    html_file = os.path.join(EXPORT_DIR,f"heatmap_faixas_{rede_base}_{estado or 'all'}_{tipo}_max{DIST_MAX_ULTIMA_FAIXA}km.html")
     fig.write_html(html_file)
     print(f"🌐 Heatmap ({tipo}) salvo em {html_file}")
 

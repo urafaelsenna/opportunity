@@ -74,6 +74,38 @@ O cálculo das distâncias entre academias é feito em **três níveis**, cada u
 - **Valores altos (próximos ao raio limite)** → indicam redes que coexistem na mesma região, mas não tão próximas.
 - **NaN** → nenhuma unidade dentro do raio definido (não há sobreposição geográfica entre as redes analisadas).
 
+### 🆕 Nova Lógica: Faixas de Distância Dinâmicas
+
+O projeto agora suporta **análise de distâncias entre unidades de academias** usando faixas de distância **dinâmicas**, definidas a partir de um **limite máximo configurável pelo usuário** (`DIST_MAX_ULTIMA_FAIXA`).
+
+- **Faixas neutras:** não são usadas classificações subjetivas como "perto" ou "longe".
+- **Divisão automática:** os intervalos são gerados a partir de pontos fixos (1, 5, 10, 15, 20, 30, 40, 50 km) até o valor máximo definido pelo usuário.
+- **Exemplo:** se `DIST_MAX_ULTIMA_FAIXA = 15`, as faixas serão:
+
+  ```
+  ≤ 1 km
+  > 1 – ≤ 5 km
+  > 5 – ≤ 10 km
+  > 10 – ≤ 15 km
+  ```
+
+- **Primeira faixa:** inclui todas as distâncias menores ou iguais ao limite inferior (0–1 km).
+- **Demais faixas:** incluem apenas valores **maiores que o limite inferior e menores ou iguais ao limite superior**.
+
+✅ **Vantagens desta abordagem:**
+
+- Evita duplicação de contagem de unidades entre faixas.
+- Permite ajustar facilmente a granularidade da análise, dependendo do tamanho do mercado ou da cidade analisada.
+- Facilita comparações regionais e por estado sem depender de termos subjetivos.
+- O valor de `DIST_MAX_ULTIMA_FAIXA` é incluído no nome do arquivo gerado, permitindo organizar múltiplas execuções:
+
+**Exemplo de nome de arquivo:**
+
+```
+heatmap_faixas_Smartfit_estadoRJ_quantidade_max15km.html
+heatmap_faixas_Smartfit_estadoRJ_percentual_max15km.html
+```
+
 ### ⚙️ Configurações (`config.py`)
 
 ```python
